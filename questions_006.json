@@ -1,0 +1,1302 @@
+[
+  {
+    "stem": "EEG with periodic sharp wave complexes at 1 Hz is associated with:",
+    "options": [
+      "Toxic encephalopathy",
+      "CJD",
+      "PNES",
+      "Absence epilepsy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: 1-Hz periodic complexes are typical of sporadic CJD.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "CADASIL mutation is in which gene?",
+    "options": [
+      "APP",
+      "PSEN2",
+      "MAPT",
+      "NOTCH3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: CADASIL due to NOTCH3 mutation on chromosome 19; causes small-vessel strokes and migraine.",
+    "category": "Neurogenetics",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 32-year-old with foot drop, pes cavus, and family history. EMG: demyelinating neuropathy. Most likely diagnosis?",
+    "options": [
+      "Charcot–Marie–Tooth disease",
+      "ALS",
+      "CIDP",
+      "MG"
+    ],
+    "correctIndex": 0,
+    "explanation": "CMT = inherited demyelinating neuropathy, foot deformities, distal weakness.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "IDH-wildtype diffuse astrocytoma is designated glioblastoma when which is present?",
+    "options": [
+      "ATRX mutation",
+      "BRAF V600E",
+      "+7/−10 copy number signature or EGFR amplification",
+      "1p/19q codeletion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Molecular GBM can be diagnosed with +7/−10 or EGFR amplification even without histologic necrosis/MPV per CNS5.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which pediatric tumor arises in posterior fossa, often with cyst + mural nodule?",
+    "options": [
+      "Medulloblastoma",
+      "Glioblastoma",
+      "Ependymoma",
+      "Pilocytic astrocytoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Pilocytic astrocytoma has cyst with mural nodule.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Best outpatient rescue option for a caregiver to stop a prolonged cluster at home?",
+    "options": [
+      "Oral carbamazepine",
+      "IV lorazepam at clinic",
+      "Intranasal midazolam",
+      "Subcutaneous phenobarbital"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intranasal midazolam is fast, effective, and practical for home rescue.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which visual field defect results from lesion at optic chiasm?",
+    "options": [
+      "Bitemporal hemianopia",
+      "Homonymous hemianopia",
+      "Central scotoma",
+      "Altitudinal defect"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Chiasmal lesions cause bitemporal hemianopia.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In myasthenic crisis, which ICU monitoring parameter best predicts need for intubation?",
+    "options": [
+      "Vital capacity <15 mL/kg",
+      "O2 saturation",
+      "Blood pressure",
+      "Pupil size"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: VC <15 mL/kg or declining negative inspiratory force indicates need for ventilatory support.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Argyll Robertson pupil is associated with:",
+    "options": [
+      "Adie pupil",
+      "MS",
+      "Neurosyphilis",
+      "Horner syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: AR pupil accommodates but does not react, seen in neurosyphilis.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "EEG demonstrates occipital spikes enhanced by eye closure, with ictal vomiting and autonomic symptoms. Likely syndrome?",
+    "options": [
+      "Panayiotopoulos syndrome",
+      "SeLECTS",
+      "Childhood absence epilepsy",
+      "Benign occipital epilepsy of Gastaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Panayiotopoulos shows autonomic seizures with emesis; occipital spikes are typical.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which imaging finding predicts poor outcome after ICH?",
+    "options": [
+      "Superficial lobar location",
+      "Small hematoma volume",
+      "CT angiography spot sign",
+      "Intraventricular extension absent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Spot sign predicts hematoma expansion and poor outcome.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which inherited neuropathy presents with pes cavus and marked slowing on NCS?",
+    "options": [
+      "CMT1A (PMP22 duplication)",
+      "CMT2 (axonal)",
+      "Diabetic polyneuropathy",
+      "Acute porphyric neuropathy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: CMT1A is demyelinating with very slow conduction velocities.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Longitudinally extensive transverse myelitis (>3 vertebral segments) suggests:",
+    "options": [
+      "NMOSD or MOGAD",
+      "Typical MS",
+      "Cervical spondylosis",
+      "Vitamin E deficiency"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: LETM is characteristic of NMOSD/MOGAD; MS lesions are usually shorter.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which aura localizes best to mesial temporal lobe epilepsy?",
+    "options": [
+      "Elementary visual hallucinations",
+      "Painful paresthesias in one limb",
+      "Rising epigastric sensation",
+      "Palatal automatisms"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rising epigastric sensation and déjà vu are classic mesial temporal auras; elementary visual phenomena suggest occipital onset.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which medication treats hallucinations in Parkinson disease dementia with minimal motor worsening?",
+    "options": [
+      "Pimavanserin",
+      "Haloperidol",
+      "Risperidone",
+      "Olanzapine high dose"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Pimavanserin (5-HT2A inverse agonist) avoids motor worsening; dopamine blockers worsen parkinsonism.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most common cause of bacterial meningitis in neonates is:",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Group B Streptococcus",
+      "Neisseria meningitidis",
+      "Haemophilus influenzae type b"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: GBS predominates in neonates; pathogens shift with age.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which condition is pathognomonic for an indomethacin-responsive headache disorder?",
+    "options": [
+      "Cluster headache",
+      "Migraine with aura",
+      "Paroxysmal hemicrania",
+      "Tension-type headache"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Paroxysmal hemicrania (and hemicrania continua) are indomethacin-responsive; cluster is not strictly pathognomonic.",
+    "category": "Headache Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 49-year-old presents with thunderclap headache. CT is negative at 3 hours. Best next step to evaluate for aneurysmal SAH?",
+    "options": [
+      "No further testing",
+      "CT angiography of head/neck",
+      "MRI without vascular imaging",
+      "Immediate lumbar puncture only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Within the early window, CTA can identify aneurysm/RCVS; LP remains an option when CT timing is late or CT/CTA are nondiagnostic.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "What lifestyle factor reliably lowers seizure threshold in generalized epilepsies such as JME?",
+    "options": [
+      "Sleep deprivation",
+      "Daily exercise",
+      "Low-carbohydrate diet",
+      "Avoiding caffeine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Sleep deprivation is a well-known trigger; routine exercise is beneficial; diet/caffeine effects are variable.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which antibody is associated with stiff-person syndrome?",
+    "options": [
+      "Anti-GAD65",
+      "AQP4",
+      "MOG",
+      "Hu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Stiff-person associated with anti-GAD.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which systemic condition most strongly predisposes to posterior reversible encephalopathy syndrome (PRES)?",
+    "options": [
+      "Asthma",
+      "Hypothyroidism",
+      "Hypertension/eclampsia",
+      "Ulcerative colitis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Hypertension and eclampsia are strong precipitants of PRES.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 10-month-old infant has clusters of flexor spasms on awakening; EEG shows hypsarrhythmia. First-line therapy in tuberous sclerosis complex?",
+    "options": [
+      "Levetiracetam",
+      "Vigabatrin",
+      "ACTH",
+      "Carbamazepine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Infantile spasms in TSC respond best to vigabatrin; ACTH is first-line in non-TSC etiologies.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 62-year-old presents with transient right arm weakness and aphasia lasting 20 minutes. Imaging shows 80% left ICA stenosis. Best timing for carotid endarterectomy?",
+    "options": [
+      "Only if asymptomatic",
+      "At 6 months",
+      "Within 2 weeks of TIA",
+      "Immediately start anticoagulation instead of surgery"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: For 70–99% symptomatic carotid stenosis, early CEA (≤14 days) provides maximal benefit. Anticoagulation is not first-line unless cardioembolic source.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 28-year-old on lamotrigine becomes pregnant. Seizure control has worsened. Best explanation?",
+    "options": [
+      "Lamotrigine clearance increases during pregnancy, lowering serum levels",
+      "Lamotrigine becomes toxic during pregnancy",
+      "Pregnancy reduces seizure threshold only for focal seizures",
+      "Placenta metabolizes lamotrigine to active metabolite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estrogen-induced glucuronidation increases lamotrigine clearance; therapeutic drug monitoring and dose adjustment are often needed.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Before anti-CD20 B-cell therapy, vaccination strategy should be:",
+    "options": [
+      "Administer inactivated vaccines 2–4 weeks prior; avoid live vaccines during therapy",
+      "Give all live vaccines during therapy",
+      "Avoid all vaccines",
+      "Vaccinate only after several infusions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Vaccinate before B-cell depletion; live vaccines contraindicated during therapy.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 22-year-old with subacute psychiatric changes, dyskinesias, seizures, and autonomic instability has EEG with extreme delta brush. Best empirical therapy while workup proceeds?",
+    "options": [
+      "No treatment until antibodies return",
+      "High-dose steroids ± IVIG/plasma exchange",
+      "Antipsychotics alone",
+      "Oral carbamazepine only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Features suggest anti-NMDAR encephalitis; start immunotherapy empirically while confirming.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "EEG 3-Hz spike-and-wave is diagnostic of:",
+    "options": [
+      "Absence epilepsy",
+      "Temporal lobe epilepsy",
+      "JME",
+      "Lennox–Gastaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: 3-Hz spike-and-wave is absence epilepsy hallmark.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Best candidate factor predicting favorable outcome after epilepsy surgery:",
+    "options": [
+      "Clear concordant localization (EEG, imaging, semiology)",
+      "Longer epilepsy duration",
+      "Multifocal independent onsets",
+      "Progressive neurodegenerative etiology"
+    ],
+    "correctIndex": 0,
+    "explanation": "Concordant localization across modalities predicts better surgical outcome.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Best initial imaging for a first unprovoked adult seizure in the ED when patient has focal deficits?",
+    "options": [
+      "Carotid ultrasound",
+      "MRI brain with epilepsy protocol immediately",
+      "CT head without contrast",
+      "PET scan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Noncontrast CT rapidly excludes hemorrhage or mass; MRI epilepsy protocol is often performed subsequently.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Severe TBI patient: which prophylaxis reduces early (≤7 days) post-traumatic seizures?",
+    "options": [
+      "No prophylaxis",
+      "Levetiracetam or phenytoin for 7 days",
+      "Valproate for 6 months",
+      "Chronic phenobarbital"
+    ],
+    "correctIndex": 1,
+    "explanation": "Short-term prophylaxis reduces early PTS; it does not prevent late epilepsy.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "BRAF V600E mutation is seen in which primary brain tumor?",
+    "options": [
+      "Pleomorphic xanthoastrocytoma",
+      "Glioblastoma IDH-wildtype",
+      "Oligodendroglioma",
+      "Ependymoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: PXA often has BRAF V600E mutation.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Disease-modifying therapy that increases SMN from SMN2 in SMA is:",
+    "options": [
+      "Interferon-beta",
+      "Prednisone",
+      "Edaravone",
+      "Nusinersen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Nusinersen is an antisense oligonucleotide that modifies SMN2 splicing.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which imaging finding supports PSP over PD?",
+    "options": [
+      "Normal midbrain and pons",
+      "Midbrain atrophy with 'hummingbird sign' on sagittal MRI",
+      "Hot cross bun sign in pons",
+      "Marked putaminal hyperintensity on T2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: PSP shows midbrain atrophy (hummingbird sign); hot cross bun suggests MSA-C; putaminal changes may be nonspecific.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which feature favors progressive supranuclear palsy over idiopathic PD?",
+    "options": [
+      "Early falls with vertical gaze palsy",
+      "Excellent levodopa response",
+      "Prominent resting tremor",
+      "Marked asymmetry at onset"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: PSP features early postural instability and vertical gaze palsy; PD tends to respond to levodopa and may start asymmetrically with tremor.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Adrenoleukodystrophy inheritance pattern:",
+    "options": [
+      "Mitochondrial",
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked recessive"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: X-ALD is X-linked recessive.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 2-year-old girl with prolonged febrile seizures, developmental regression, and photosensitivity later develops multiple seizure types; SCN1A mutation is found. Which medication should be avoided?",
+    "options": [
+      "Sodium-channel blockers (e.g., carbamazepine)",
+      "Valproate",
+      "Clobazam",
+      "Stiripentol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dravet syndrome often worsens with sodium-channel blockers; valproate, clobazam, and stiripentol are commonly used.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In myasthenic crisis with hypercapnic respiratory failure, best next step is:",
+    "options": [
+      "Delay airway support until ABG normalizes",
+      "Intubation and IVIG or plasma exchange",
+      "High-dose oral pyridostigmine alone",
+      "Steroids alone immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Secure airway and start IVIG/PLEX; pyridostigmine can increase secretions; steroids alone may transiently worsen weakness.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient with focal epilepsy and depression needs an ASM with minimal mood worsening. Best option?",
+    "options": [
+      "Phenobarbital",
+      "Levetiracetam",
+      "Topiramate",
+      "Lamotrigine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lamotrigine has mood-stabilizing properties; levetiracetam may exacerbate irritability; phenobarbital/topiramate can worsen mood/cognition.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An athlete with acute foot drop and sensory loss over dorsum of foot after crossing legs likely has:",
+    "options": [
+      "Tibial neuropathy",
+      "L5 radiculopathy",
+      "Common peroneal neuropathy at fibular head",
+      "Femoral neuropathy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Compression at the fibular head causes foot drop and dorsum sensory loss; L5 radic causes inversion weakness and back symptoms.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Myotonic dystrophy type 1 presents with which systemic feature?",
+    "options": [
+      "Cerebellar ataxia only",
+      "Kayser–Fleischer rings",
+      "Cataracts, cardiac conduction block, distal weakness",
+      "Optic neuritis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: DM1 shows distal weakness, cataracts, heart block.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In acute bacterial meningitis, which adjunctive therapy improves mortality in pneumococcal meningitis when given before or with first antibiotics?",
+    "options": [
+      "Antipyretics only",
+      "High-dose vitamin C",
+      "IV dexamethasone",
+      "IVIG"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Dexamethasone reduces mortality in pneumococcal meningitis; timing is critical.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Duchenne muscular dystrophy results from:",
+    "options": [
+      "SMN1 deletion",
+      "FXN GAA expansion",
+      "Frameshift/nonsense mutations causing absent dystrophin",
+      "DMPK CTG expansion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: DMD is due to absent dystrophin; others cause SMA, Friedreich ataxia, and DM1.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "After 4 years seizure-free on monotherapy for focal epilepsy with normal EEG and MRI, patient asks about stopping meds. Which factor predicts higher relapse risk?",
+    "options": [
+      "No prior status epilepticus",
+      "Shorter seizure-free interval",
+      "Younger age at onset",
+      "History of focal seizures with structural lesion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Structural etiology and shorter seizure-free period increase relapse risk; decision must be individualized.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which ASM is associated with kidney stones and weight loss?",
+    "options": [
+      "Phenytoin",
+      "Levetiracetam",
+      "Topiramate",
+      "Valproate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Topiramate side effects include nephrolithiasis, weight loss.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "ALS classically presents with:",
+    "options": [
+      "Pure sensory neuropathy",
+      "Mixed UMN and LMN signs without sensory loss",
+      "Early ophthalmoplegia",
+      "Cerebellar ataxia only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: ALS shows both UMN and LMN signs; sensory/ocular/cerebellar systems are relatively spared early.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient with controlled focal epilepsy is NPO for surgery tomorrow. Best plan for ASM dosing?",
+    "options": [
+      "Use benzodiazepines only if seizures occur",
+      "Give IV or alternative equivalent dosing to avoid missed doses",
+      "Double oral dose later",
+      "Hold all ASMs until after surgery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Avoid missed doses by giving IV or non-oral equivalents to maintain therapeutic levels.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Downbeat nystagmus most commonly localizes to lesions of the:",
+    "options": [
+      "Basal ganglia",
+      "Thalamus",
+      "Cerebellar flocculus/paraflocculus",
+      "Frontal eye fields"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Floccular lesions cause downbeat nystagmus.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 23-year-old man develops rhabdomyolysis after sprinting. CK 30,000. Which metabolic defect is most likely?",
+    "options": [
+      "Pompe disease",
+      "McArdle disease (myophosphorylase deficiency)",
+      "Carnitine deficiency",
+      "Myotonic dystrophy"
+    ],
+    "correctIndex": 1,
+    "explanation": "McArdle disease causes exercise intolerance with rhabdomyolysis; patients have 'second wind' phenomenon.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most specific test to differentiate psychogenic nonepileptic seizures (PNES) from epilepsy is:",
+    "options": [
+      "Elevated serum prolactin",
+      "Normal MRI",
+      "Video-EEG capturing a typical event with no epileptiform correlate",
+      "Witness description alone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Video-EEG of a typical event without ictal EEG change confirms PNES; prolactin is nonspecific.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "An exertional headache with orthostatic component and MRI showing diffuse pachymeningeal enhancement suggests:",
+    "options": [
+      "Temporal arteritis",
+      "Spontaneous intracranial hypotension",
+      "RCVS",
+      "Idiopathic intracranial hypertension"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: SIH presents with orthostatic headache and pachymeningeal enhancement; IIH has papilledema and high pressure.",
+    "category": "Headache Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In symptomatic intracranial atherosclerotic disease (70–99% stenosis), the initial management with best evidence is:",
+    "options": [
+      "Aggressive medical therapy (DAPT for 90 days, BP/lipid control)",
+      "Immediate intracranial stenting",
+      "Warfarin anticoagulation",
+      "No antithrombotic therapy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Aggressive medical therapy per SAMMPRIS outperformed stenting. Warfarin is not superior and increases bleeding risk.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Vagus nerve stimulation typically produces which acute sign during intraoperative testing?",
+    "options": [
+      "Miosis",
+      "Bradykinesia",
+      "Voice hoarseness",
+      "Nystagmus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hoarseness or throat sensation reflects laryngeal branch stimulation; chronic therapy reduces seizure frequency.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Infant with hypotonia, areflexia, tongue fasciculations likely has:",
+    "options": [
+      "CMT",
+      "Spinal muscular atrophy type 1",
+      "Pompe disease",
+      "Duchenne dystrophy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: SMA1 shows severe infantile hypotonia with fasciculations.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which nerve palsy causes eye to rest 'down and out'?",
+    "options": [
+      "CN V palsy",
+      "CN IV palsy",
+      "CN III palsy",
+      "CN VI palsy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: CN III palsy causes ptosis, dilated pupil, and eye down/out.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Normal pressure hydrocephalus classic triad:",
+    "options": [
+      "Dysarthria, diplopia, dysphagia",
+      "Seizures, weakness, hemianopia",
+      "Gait disturbance, dementia, urinary incontinence",
+      "Vertigo, hearing loss, tinnitus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: NPH triad is gait, cognitive, urinary.",
+    "category": "General Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A patient with pituitary apoplexy acutely develops ophthalmoplegia and ptosis. Which structure is compressed?",
+    "options": [
+      "Optic tract",
+      "Facial nerve at stylomastoid foramen",
+      "Superior colliculus",
+      "Cavernous sinus with CN III palsy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Expansion can compress cavernous sinus contents, causing CN III palsy.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which deep brain stimulation target is standard for medication-refractory essential tremor?",
+    "options": [
+      "Subthalamic nucleus",
+      "Ventral intermediate nucleus (VIM) of the thalamus",
+      "Globus pallidus externus",
+      "Anterior nucleus of thalamus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: VIM DBS improves ET; STN/GPi are PD targets; ANT is for epilepsy.",
+    "category": "Movement Disorders",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "EEG showing extreme delta brush is most associated with:",
+    "options": [
+      "PSP",
+      "Subacute sclerosing panencephalitis",
+      "MELAS",
+      "Anti-NMDA receptor encephalitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Extreme delta brush pattern is seen in anti-NMDAR encephalitis.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which bedside test is most sensitive for hemispatial neglect after a right parietal stroke?",
+    "options": [
+      "Mini-Cog recall only",
+      "Serial 7s",
+      "Line bisection",
+      "GAD-7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Line bisection and cancellation tasks detect spatial neglect; attention/mood screens are not specific.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A patient with generalized MG is in myasthenic crisis requiring intubation. Best acute therapy?",
+    "options": [
+      "Plasma exchange or IVIG",
+      "High-dose oral steroids immediately",
+      "Azathioprine",
+      "Pyridostigmine alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "IVIG or plasma exchange rapidly improve strength in crisis; chronic immunotherapies act slower.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Painful third-nerve palsy with pupil involvement in an adult should prompt evaluation for:",
+    "options": [
+      "Ischemic optic neuropathy",
+      "Posterior communicating artery aneurysm",
+      "Thyroid eye disease",
+      "Bell palsy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Aneurysm compresses the superficial pupillomotor fibers—emergent imaging required.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "At 10 hours after last known well, a patient with basilar artery occlusion and favorable imaging arrives. Best management?",
+    "options": [
+      "IV alteplase contraindicated always",
+      "Heparin drip",
+      "Aspirin only",
+      "Consider endovascular thrombectomy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Contemporary guidance supports EVT for BAO up to 24 hours in selected patients; IVT may be used when eligible. Aspirin or heparin alone is inferior.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Best reversal agent for dabigatran in acute ICH?",
+    "options": [
+      "Andexanet alfa",
+      "Idarucizumab",
+      "Vitamin K",
+      "Protamine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Idarucizumab reverses dabigatran; andexanet is for factor Xa inhibitors; vit K/protamine reverse warfarin/heparin.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Elderly patient with new focal seizures and hyponatremia on labs is taking carbamazepine for neuralgia. Best ASM change?",
+    "options": [
+      "Switch off carbamazepine (to levetiracetam or lamotrigine)",
+      "Increase carbamazepine dose",
+      "Add oxcarbazepine",
+      "Add topiramate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carbamazepine-induced SIADH is common in elderly; choose an alternative without hyponatremia risk.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 46-year-old develops acute quadriplegia and locked-in syndrome after basilar artery thrombosis. MRI shows pontine infarct. Which finding is expected on exam?",
+    "options": [
+      "Normal limb strength",
+      "Complete ophthalmoplegia",
+      "Coma with loss of all brainstem reflexes",
+      "Preserved vertical eye movements and blinking"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Classic locked-in syndrome preserves vertical gaze and blinking, while voluntary motor is lost.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which tumor is associated with NF1?",
+    "options": [
+      "Meningioma",
+      "Vestibular schwannoma",
+      "Hemangioblastoma",
+      "Optic pathway glioma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: NF1 predisposes to optic gliomas; NF2 to schwannomas/meningiomas; VHL to hemangioblastomas.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Frontotemporal dementia often associated with which genetic mutation?",
+    "options": [
+      "NOTCH3",
+      "APP",
+      "HTT",
+      "MAPT or GRN"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: FTD is linked to MAPT/GRN mutations; APP linked to AD.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which imaging abnormality is a common surgically remediable cause of temporal lobe epilepsy?",
+    "options": [
+      "Chiari malformation",
+      "Hydrocephalus",
+      "Cavernous malformation",
+      "Mesial temporal sclerosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: MTS is common and surgically treatable.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Spinal muscular atrophy results from mutation in:",
+    "options": [
+      "FXN",
+      "SMN1 gene",
+      "CAG in HTT",
+      "GCH1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: SMA results from SMN1 deletion or mutation; others cause different conditions.",
+    "category": "Neurogenetics",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which antiseizure medication is most likely to cause leukopenia and aplastic anemia?",
+    "options": [
+      "Carbamazepine",
+      "Levetiracetam",
+      "Topiramate",
+      "Clobazam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carbamazepine can cause leukopenia and rarely aplastic anemia; monitor CBC.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Statin-associated necrotizing autoimmune myopathy is associated with which antibody?",
+    "options": [
+      "Anti-HMG-CoA reductase",
+      "Anti-Jo-1",
+      "Anti-Mi-2",
+      "Anti-SRP only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Anti-HMGCR antibodies are typical; anti-SRP can also cause NAM but is not statin-specific.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 22-year-old presents with daily, strictly unilateral continuous headache with superimposed exacerbations; exam normal; MRI normal; complete response to indomethacin. Diagnosis?",
+    "options": [
+      "Cluster headache",
+      "Migraine without aura",
+      "SUNCT",
+      "Hemicrania continua"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Hemicrania continua is indomethacin-responsive and continuous; cluster and SUNCT are episodic with autonomic signs.",
+    "category": "Headache Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 45-year-old with seizures has a frontal lobe tumor with IDH1 mutation and ATRX loss but intact 1p/19q. The most likely diagnosis is:",
+    "options": [
+      "IDH-mutant astrocytoma",
+      "Oligodendroglioma",
+      "Glioblastoma IDH-wildtype",
+      "Ependymoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: IDH mutation with ATRX loss and intact 1p/19q favors astrocytoma rather than oligodendroglioma.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Lesion of Meyer's loop causes:",
+    "options": [
+      "Homonymous hemianopia",
+      "Contralateral inferior quadrantanopia",
+      "Contralateral superior quadrantanopia",
+      "Bitemporal hemianopia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: Meyer's loop lesion causes superior quadrantanopia (pie in the sky).",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "First-line treatment for an acute disabling MS relapse is:",
+    "options": [
+      "Natalizumab",
+      "High-dose IV methylprednisolone",
+      "IVIG always first",
+      "No treatment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Steroids first; plasmapheresis for steroid-refractory relapses.",
+    "category": "Neuroimmunology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which drug modestly prolongs survival in ALS?",
+    "options": [
+      "Riluzole",
+      "Levodopa",
+      "IVIG",
+      "Interferon-beta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Riluzole (glutamate inhibitor) extends survival by a few months.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 7-year-old with episodes of staring and eyelid fluttering provoked by eye closure and light has:",
+    "options": [
+      "Jeavons syndrome (eyelid myoclonia with absences)",
+      "Panayiotopoulos syndrome",
+      "Dravet syndrome",
+      "West syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Eyelid myoclonia with absences is characteristic of Jeavons.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "PSG with REM sleep without atonia supports:",
+    "options": [
+      "Kleine–Levin syndrome",
+      "Narcolepsy",
+      "REM sleep behavior disorder",
+      "Obstructive sleep apnea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: RBD shows REM sleep without atonia.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 62-year-old smoker presents with proximal leg weakness improving with exercise, dry mouth, and reduced reflexes. Likely diagnosis?",
+    "options": [
+      "ALS",
+      "MG",
+      "CIDP",
+      "Lambert–Eaton myasthenic syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "LEMS features facilitation with exercise, autonomic symptoms, areflexia; often paraneoplastic with SCLC.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 40-year-old with absence seizures fails ethosuximide due to GI effects. Next best monotherapy?",
+    "options": [
+      "Phenytoin",
+      "Carbamazepine",
+      "Valproate",
+      "Gabapentin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Valproate is effective for absence; carbamazepine/phenytoin may worsen generalized epilepsy; gabapentin is ineffective for absence.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Tolosa–Hunt syndrome classically shows which imaging feature?",
+    "options": [
+      "Enhancement of the cavernous sinus",
+      "Diffuse optic nerve atrophy",
+      "Sellar mass",
+      "Orbital floor fracture"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: THS is granulomatous inflammation of the cavernous sinus with enhancement on MRI.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 28-year-old pregnant patient with generalized epilepsy seeks advice on anti-seizure medication. Which has the highest teratogenic risk and should be avoided if possible?",
+    "options": [
+      "Levetiracetam",
+      "Valproate",
+      "Lamotrigine",
+      "Oxcarbazepine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Valproate is associated with major malformations and adverse neurodevelopmental outcomes; alternatives are preferred in pregnancy when possible.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A school-aged child with nocturnal focal facial seizures and centrotemporal spikes has:",
+    "options": [
+      "Self-limited epilepsy with centrotemporal spikes (SeLECTS)",
+      "Lennox–Gastaut syndrome",
+      "Dravet syndrome",
+      "Jeavons syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: SeLECTS (BECTS) presents with focal facial seizures at night and centrotemporal spikes.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which ASM is best first-line for typical absence when GI side effects of ethosuximide preclude its use?",
+    "options": [
+      "Valproate",
+      "Carbamazepine",
+      "Phenytoin",
+      "Gabapentin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Valproate is effective for absence; carbamazepine and phenytoin can worsen generalized seizure types; gabapentin is ineffective.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "In benzodiazepine-refractory convulsive status epilepticus, an evidence-based next option is:",
+    "options": [
+      "IV levetiracetam, valproate, or fosphenytoin",
+      "Oral phenobarbital",
+      "Vagus nerve stimulation",
+      "Acetazolamide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Second-line IV agents are recommended. Oral phenobarbital is inappropriate acutely; VNS and acetazolamide are not acute treatments.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A patient with TIA while on aspirin has 90% carotid stenosis. Best next management?",
+    "options": [
+      "Carotid endarterectomy",
+      "Increase aspirin dose",
+      "Switch to clopidogrel",
+      "Warfarin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Symptomatic high-grade stenosis requires CEA promptly; antiplatelet changes alone insufficient.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Skew deviation with ocular tilt reaction most commonly indicates a lesion in the:",
+    "options": [
+      "Occipital cortex only",
+      "Brainstem–cerebellar otolithic pathways",
+      "Orbital floor",
+      "Retina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Otolithic imbalance in brainstem/cerebellum causes skew and ocular tilt.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "CSF supporting MS typically shows:",
+    "options": [
+      "Eosinophilia",
+      "CSF-restricted oligoclonal bands with mild lymphocytic pleocytosis",
+      "Very high protein >500 mg/dL",
+      "Low glucose and neutrophils"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: OCBs restricted to CSF are supportive; low glucose/neutrophils suggest infection.",
+    "category": "Neuroimmunology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Initial cancer screening when LEMS is diagnosed includes:",
+    "options": [
+      "Colonoscopy",
+      "Pelvic MRI",
+      "Thyroid ultrasound",
+      "Chest CT (± PET)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Chest imaging is indicated given SCLC association.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Ring-enhancing brain lesion in HIV patient is most likely:",
+    "options": [
+      "Metastasis",
+      "Glioblastoma",
+      "Toxoplasmosis",
+      "Abscess"
+    ],
+    "correctIndex": 2,
+    "explanation": "Correct: In HIV, toxoplasmosis is most likely ring-enhancing lesion.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Bell palsy prognosis is best predicted by:",
+    "options": [
+      "Age only",
+      "MRI findings",
+      "Hypertension",
+      "Degree of initial weakness and EMG"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Prognosis relates to weakness severity and EMG; most recover.",
+    "category": "General Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Dravet syndrome is commonly due to mutation in:",
+    "options": [
+      "HTT",
+      "SMN1",
+      "MECP2",
+      "SCN1A"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: SCN1A mutations cause Dravet syndrome; others cause different disorders.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Best time to obtain a trough level for a once-daily extended-release ASM to guide dosing?",
+    "options": [
+      "Any time after dosing",
+      "Just before the next scheduled dose",
+      "Immediately after dose",
+      "Two hours after dose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trough levels are drawn immediately before the next dose to assess minimum concentration.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Febrile seizures most commonly occur at what age range?",
+    "options": [
+      "6 months–5 years",
+      "0–3 months",
+      "8–12 years",
+      "Any age"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct: Typical febrile seizures occur age 6mo–5y.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 4-year-old boy with developmental delay has multiple seizure types (tonic, atonic, atypical absence) and EEG with 1.5–2.5 Hz slow spike-and-wave. Most likely syndrome?",
+    "options": [
+      "Lennox–Gastaut syndrome",
+      "Childhood absence epilepsy",
+      "Self-limited epilepsy with centrotemporal spikes",
+      "West syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "LGS presents with multiple seizure types and slow spike-and-wave; other options have different EEG and clinical profiles.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Dermatomyositis biopsy typically shows:",
+    "options": [
+      "Endomysial CD8+ invasion only",
+      "Perifascicular atrophy with complement deposition",
+      "Ragged-red fibers",
+      "Nemaline rods"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: Perifascicular atrophy and MAC deposition are characteristic; endomysial CD8+ suggests polymyositis; ragged-red fibers suggest mitochondrial disease; nemaline rods indicate nemaline myopathy.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which epilepsy syndrome presents with continuous spike-and-wave during slow-wave sleep (CSWS)?",
+    "options": [
+      "Dravet syndrome",
+      "Electrical status epilepticus of sleep",
+      "Juvenile absence",
+      "Benign rolandic epilepsy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: CSWS is defined by near-continuous spike-wave during sleep and cognitive decline.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which vitamin deficiency causes subacute combined degeneration?",
+    "options": [
+      "Vitamin D",
+      "Vitamin B12",
+      "Vitamin E",
+      "Vitamin A"
+    ],
+    "correctIndex": 1,
+    "explanation": "Correct: B12 deficiency causes dorsal column/corticospinal tract degeneration.",
+    "category": "General Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which is a recognized complication of alteplase requiring discontinuation and reversal measures?",
+    "options": [
+      "Nausea",
+      "Transient hypotension only",
+      "Mild headache",
+      "Orolingual angioedema"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Orolingual angioedema, especially with ACE inhibitors, necessitates stopping tPA and managing airway and allergy.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A neonate of a mother with myotonic dystrophy type 1 presents with severe hypotonia and respiratory failure. Diagnosis:",
+    "options": [
+      "Prader–Willi syndrome",
+      "SMA type 2",
+      "Pompe disease",
+      "Congenital myotonic dystrophy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Correct: Congenital DM1 causes neonatal hypotonia and respiratory issues.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neurology Question Bank</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        
+        button:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+        }
+        
+        button.secondary {
+            background: #6c757d;
+        }
+        
+        button.secondary:hover {
+            background: #5a6268;
+        }
+        
+        .filters {
+            display: grid;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        select, input[type="number"] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+        
+        .question-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+        
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        
+        .badge-category {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+        
+        .badge-difficulty {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+        
+        .question-stem {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        
+        .options {
+            display: grid;
+            gap: 10px;
+        }
+        
+        .option {
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .option:hover {
+            border-color: #667eea;
+            background: #f5f7ff;
+        }
+        
+        .option.selected {
+            border-color: #667eea;
+            background: #e8ebff;
+        }
+        
+        .option.correct {
+            border-color: #4caf50;
+            background: #e8f5e9;
+        }
+        
+        .option.incorrect {
+            border-color: #f44336;
+            background: #ffebee;
+        }
+        
+        .explanation {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fff8e1;
+            border-left: 4px solid #ffc107;
+            border-radius: 4px;
+        }
+        
+        .progress {
+            margin-bottom: 20px;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e0e0e0;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: #667eea;
+            transition: width 0.3s;
+        }
+        
+        .score-summary {
+            text-align: center;
+            padding: 30px;
+        }
+        
+        .score-circle {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: #667eea;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 36px;
+            font-weight: bold;
+            margin: 20px auto;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .stat-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #6c757d;
+            margin-top: 5px;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        code {
+            background: #f8f9fa;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+        }
+        
+        .file-upload {
+            border: 2px dashed #667eea;
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            margin-bottom: 20px;
+            cursor: pointer;
+        }
+        
+        .file-upload:hover {
+            background: #f5f7ff;
+        }
+        
+        @media (max-width: 600px) {
+            .nav-buttons {
+                flex-direction: column;
+            }
+            
+            button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧠 Neurology Question Bank</h1>
+            <p>Practice tests from your question database</p>
+        </div>
+        
+        <div class="content">
+            <div id="setupScreen">
+                <div class="file-upload" onclick="document.getElementById('fileInput').click()">
+                    <h3>📁 Load Question Bank</h3>
+                    <p>Click to add questions from any JSON file</p>
+                    <p style="font-size: 12px; color: #6c757d; margin-top: 10px;">Files accumulate - add multiple question banks</p>
+                    <input type="file" id="fileInput" accept=".json" style="display: none;" multiple>
+                </div>
+                
+                <div id="loadedFilesList" style="margin-bottom: 20px;"></div>
+                
+                <div style="background: #f8f9fa; padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+                    <h3 style="margin-bottom: 10px;">JSON Format Required</h3>
+                    <p style="font-size: 14px; line-height: 1.6; color: #495057; margin-bottom: 10px;">
+                        Accepts two formats: <strong>(1) Direct array</strong> or <strong>(2) Wrapped object</strong> with <code>questions</code> array.
+                        Each question needs: <code>stem</code>, <code>options</code>, <code>correctIndex</code>, 
+                        <code>explanation</code>, <code>category</code>, <code>difficulty</code>.
+                    </p>
+                    <button onclick="copyFormatExample()" class="secondary">Copy Example Formats</button>
+                </div>
+                
+                <div id="filterSection" class="hidden">
+                    <h2 style="margin-bottom: 15px;">Create Your Test</h2>
+                    
+                    <div class="filters">
+                        <div>
+                            <label><strong>Category:</strong></label>
+                            <select id="categoryFilter">
+                                <option value="all">All Categories</option>
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label><strong>Difficulty:</strong></label>
+                            <select id="difficultyFilter">
+                                <option value="all">All Difficulties</option>
+                                <option value="easy">Easy</option>
+                                <option value="medium">Medium</option>
+                                <option value="hard">Hard</option>
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label><strong>Review Mode:</strong></label>
+                            <select id="reviewFilter">
+                                <option value="all">All Questions</option>
+                                <option value="flagged">Flagged Only</option>
+                                <option value="incorrect">Incorrect Only</option>
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label><strong>Number of Questions:</strong></label>
+                            <input type="number" id="numQuestions" min="1" value="10">
+                        </div>
+                    </div>
+                    
+                    <div style="margin-top: 20px;">
+                        <p><strong>Available Questions:</strong> <span id="availableCount">0</span></p>
+                        <p style="font-size: 14px; color: #6c757d; margin-top: 5px;">
+                            <span id="flaggedCount">0</span> flagged | 
+                            <span id="incorrectCount">0</span> incorrect
+                        </p>
+                    </div>
+                    
+                    <div style="margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+                        <label style="display: flex; align-items: center; cursor: pointer;">
+                            <input type="checkbox" id="immediateFeedbackToggle" style="margin-right: 10px; width: 18px; height: 18px;">
+                            <span><strong>Show immediate feedback</strong> (see answers right away vs at end of test)</span>
+                        </label>
+                    </div>
+                    
+                    <div class="nav-buttons" style="margin-top: 20px;">
+                        <button onclick="startTest()">Start Test</button>
+                        <button class="secondary" onclick="viewStatistics()">📊 Statistics</button>
+                        <button class="secondary" onclick="viewHistory()">View History</button>
+                        <button class="secondary" onclick="clearAllQuestions()" id="clearQuestionsBtn" style="display: none;">Clear All Questions</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="testScreen" class="hidden">
+                <div class="progress">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+                        <span>Question <span id="currentQ">1</span> of <span id="totalQ">10</span></span>
+                        <span><span id="answered">0</span> answered</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                </div>
+                
+                <div id="questionContainer"></div>
+                
+                <div class="nav-buttons">
+                    <button onclick="previousQuestion()" id="prevBtn">Previous</button>
+                    <button onclick="nextQuestion()" id="nextBtn">Next</button>
+                    <button onclick="submitTest()" id="submitBtn" class="hidden">Submit Test</button>
+                </div>
+            </div>
+            
+            <div id="resultsScreen" class="hidden">
+                <div class="score-summary">
+                    <h2>Test Complete! 🎉</h2>
+                    <div class="score-circle" id="scoreCircle">0%</div>
+                    
+                    <div class="stats">
+                        <div class="stat-card">
+                            <div class="stat-value" id="correctStat">0</div>
+                            <div class="stat-label">Correct</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="incorrectStat">0</div>
+                            <div class="stat-label">Incorrect</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="percentStat">0%</div>
+                            <div class="stat-label">Score</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="reviewContainer"></div>
+                
+                <div class="nav-buttons">
+                    <button onclick="returnToSetup()">🏠 Home</button>
+                    <button onclick="startTest()">New Test</button>
+                    <button class="secondary" onclick="viewHistory()">View History</button>
+                    <button class="secondary" onclick="viewStatistics()">📊 Statistics</button>
+                </div>
+            </div>
+            
+            <div id="historyScreen" class="hidden">
+                <h2 style="margin-bottom: 20px;">Test History</h2>
+                <div id="historyContainer"></div>
+                <div class="nav-buttons" style="margin-top: 20px;">
+                    <button onclick="returnToSetup()">🏠 Home</button>
+                    <button class="secondary" onclick="viewStatistics()">📊 Statistics</button>
+                    <button class="secondary" onclick="clearHistory()">Clear History</button>
+                </div>
+            </div>
+            
+            <div id="statisticsScreen" class="hidden">
+                <h2 style="margin-bottom: 20px;">📊 Performance Statistics</h2>
+                
+                <div class="score-summary">
+                    <h3>Overall Performance</h3>
+                    <div class="stats">
+                        <div class="stat-card">
+                            <div class="stat-value" id="totalQuestionsStat">0</div>
+                            <div class="stat-label">Questions Answered</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="overallPercentStat">0%</div>
+                            <div class="stat-label">Overall Accuracy</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <h3 style="margin: 30px 0 20px 0;">Performance by Category</h3>
+                <div id="categoryStatsContainer"></div>
+                
+                <h3 style="margin: 30px 0 20px 0;">Review Collections</h3>
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-value" id="reviewFlaggedStat">0</div>
+                        <div class="stat-label">Flagged Questions</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="reviewIncorrectStat">0</div>
+                        <div class="stat-label">Incorrect Questions</div>
+                    </div>
+                </div>
+                
+                <div class="nav-buttons" style="margin-top: 20px;">
+                    <button onclick="returnToSetup()">🏠 Home</button>
+                    <button class="secondary" onclick="clearFlagged()">Clear Flagged</button>
+                    <button class="secondary" onclick="clearIncorrect()">Clear Incorrect</button>
+                    <button class="secondary" onclick="resetStatistics()">Reset Statistics</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    let allQuestions = [];
+    let currentTest = [];
+    let currentQuestionIndex = 0;
+    let userAnswers = [];
+    let testHistory = [];
+    let loadedFiles = [];
+    let filtersInitialized = false;
+    
+    // Missing variable declarations
+    let immediateFeedback = false;
+    let flaggedQuestions = new Set();
+    let incorrectQuestions = new Set();
+    let categoryStats = {};
+    
+    // Helper function to create unique question identifier
+    function getQuestionHash(question) {
+        return question.stem.substring(0, 50) + question.category;
+    }
+    
+    // localStorage persistence
+    function saveHistory() {
+        try {
+            localStorage.setItem('testHistory', JSON.stringify(testHistory));
+        } catch (e) {
+            console.log('Could not save history:', e);
+        }
+    }
+    
+    function loadHistory() {
+        try {
+            const saved = localStorage.getItem('testHistory');
+            if (saved) testHistory = JSON.parse(saved);
+        } catch (e) {
+            console.log('Could not load history:', e);
+        }
+    }
+    
+    function saveQuestions() {
+        try {
+            localStorage.setItem('allQuestions', JSON.stringify(allQuestions));
+            localStorage.setItem('loadedFiles', JSON.stringify(loadedFiles));
+        } catch (e) {
+            console.log('Could not save questions:', e);
+        }
+    }
+    
+    function loadQuestions() {
+        try {
+            const saved = localStorage.getItem('allQuestions');
+            const files = localStorage.getItem('loadedFiles');
+            if (saved) {
+                allQuestions = JSON.parse(saved);
+                if (allQuestions.length > 0) {
+                    setupFilters();
+                    document.getElementById('filterSection').classList.remove('hidden');
+                }
+            }
+            if (files) {
+                loadedFiles = JSON.parse(files);
+                updateLoadedFilesList();
+            }
+        } catch (e) {
+            console.log('Could not load questions:', e);
+        }
+    }
+    
+    function saveFlaggedQuestions() {
+        try {
+            localStorage.setItem('flaggedQuestions', JSON.stringify([...flaggedQuestions]));
+        } catch (e) {
+            console.log('Could not save flagged questions:', e);
+        }
+    }
+    
+    function loadFlaggedQuestions() {
+        try {
+            const saved = localStorage.getItem('flaggedQuestions');
+            if (saved) {
+                flaggedQuestions = new Set(JSON.parse(saved));
+            }
+        } catch (e) {
+            console.log('Could not load flagged questions:', e);
+        }
+    }
+    
+    function saveIncorrectQuestions() {
+        try {
+            localStorage.setItem('incorrectQuestions', JSON.stringify([...incorrectQuestions]));
+        } catch (e) {
+            console.log('Could not save incorrect questions:', e);
+        }
+    }
+    
+    function loadIncorrectQuestions() {
+        try {
+            const saved = localStorage.getItem('incorrectQuestions');
+            if (saved) {
+                incorrectQuestions = new Set(JSON.parse(saved));
+            }
+        } catch (e) {
+            console.log('Could not load incorrect questions:', e);
+        }
+    }
+    
+    function saveCategoryStats() {
+        try {
+            localStorage.setItem('categoryStats', JSON.stringify(categoryStats));
+        } catch (e) {
+            console.log('Could not save category stats:', e);
+        }
+    }
+    
+    function loadCategoryStats() {
+        try {
+            const saved = localStorage.getItem('categoryStats');
+            if (saved) {
+                categoryStats = JSON.parse(saved);
+            }
+        } catch (e) {
+            console.log('Could not load category stats:', e);
+        }
+    }
+    
+    // Load all data on startup
+    loadHistory();
+    loadQuestions();
+    loadFlaggedQuestions();
+    loadIncorrectQuestions();
+    loadCategoryStats();
+    
+    // Update available count to show flagged/incorrect counts
+    function updateFlaggedIncorrectCounts() {
+        document.getElementById('flaggedCount').textContent = flaggedQuestions.size;
+        document.getElementById('incorrectCount').textContent = incorrectQuestions.size;
+    }
+    
+    document.getElementById('fileInput').addEventListener('change', function(e) {
+        const files = e.target.files;
+        if (files.length === 0) return;
+        
+        let newQuestionsCount = 0;
+        let filesLoaded = [];
+        
+        Array.from(files).forEach((file, index) => {
+            const reader = new FileReader();
+            
+            reader.onerror = function() {
+                alert(`Error reading file: ${file.name}`);
+            };
+            
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    
+                    let questions;
+                    if (Array.isArray(data)) {
+                        questions = data;
+                    } else if (data.questions && Array.isArray(data.questions)) {
+                        questions = data.questions;
+                    } else {
+                        alert(`Invalid format in ${file.name}: JSON must be either a direct array of questions or contain a "questions" array property`);
+                        return;
+                    }
+                    
+                    if (questions.length === 0) {
+                        alert(`No questions found in ${file.name}`);
+                        return;
+                    }
+                    
+                    const firstQ = questions[0];
+                    if (!firstQ.stem || !firstQ.options || !Array.isArray(firstQ.options) || 
+                        firstQ.correctIndex === undefined || !firstQ.explanation || 
+                        !firstQ.category || !firstQ.difficulty) {
+                        alert(`Invalid question format in ${file.name}. Each question must have: stem, options, correctIndex, explanation, category, and difficulty`);
+                        return;
+                    }
+                    
+                    allQuestions.push(...questions);
+                    newQuestionsCount += questions.length;
+                    
+                    loadedFiles.push({
+                        name: file.name,
+                        count: questions.length,
+                        date: new Date().toISOString()
+                    });
+                    
+                    filesLoaded.push(file.name);
+                    
+                    saveQuestions();
+                    setupFilters();
+                    updateLoadedFilesList();
+                    updateFlaggedIncorrectCounts();
+                    document.getElementById('filterSection').classList.remove('hidden');
+                    
+                } catch (error) {
+                    alert(`Error loading ${file.name}: ${error.message}`);
+                    console.error('File load error:', error);
+                }
+            };
+            
+            reader.readAsText(file);
+        });
+        
+        setTimeout(() => {
+            if (newQuestionsCount > 0) {
+                alert(`✓ Successfully loaded ${filesLoaded.length} file(s) with ${newQuestionsCount} questions.\nTotal questions: ${allQuestions.length}`);
+            }
+        }, 500);
+        
+        e.target.value = '';
+    });
+    
+    function setupFilters() {
+        const categories = [...new Set(allQuestions.map(q => q.category))];
+        const categorySelect = document.getElementById('categoryFilter');
+        
+        categorySelect.innerHTML = '<option value="all">All Categories</option>';
+        
+        categories.sort().forEach(cat => {
+            const option = document.createElement('option');
+            option.value = cat;
+            option.textContent = cat;
+            categorySelect.appendChild(option);
+        });
+        
+        if (!filtersInitialized) {
+            document.getElementById('categoryFilter').addEventListener('change', updateAvailableCount);
+            document.getElementById('difficultyFilter').addEventListener('change', updateAvailableCount);
+            document.getElementById('reviewFilter').addEventListener('change', updateAvailableCount);
+            filtersInitialized = true;
+        }
+        
+        updateAvailableCount();
+        updateFlaggedIncorrectCounts();
+    }
+    
+    function updateAvailableCount() {
+        const filtered = getFilteredQuestions();
+        document.getElementById('availableCount').textContent = filtered.length;
+        updateFlaggedIncorrectCounts();
+    }
+    
+    function getFilteredQuestions() {
+        const category = document.getElementById('categoryFilter').value;
+        const difficulty = document.getElementById('difficultyFilter').value;
+        const reviewMode = document.getElementById('reviewFilter').value;
+        
+        return allQuestions.filter(q => {
+            const qHash = getQuestionHash(q);
+            const catMatch = category === 'all' || q.category === category;
+            const diffMatch = difficulty === 'all' || q.difficulty === difficulty;
+            
+            let reviewMatch = true;
+            if (reviewMode === 'flagged') {
+                reviewMatch = flaggedQuestions.has(qHash);
+            } else if (reviewMode === 'incorrect') {
+                reviewMatch = incorrectQuestions.has(qHash);
+            }
+            
+            return catMatch && diffMatch && reviewMatch;
+        });
+    }
+    
+    function startTest() {
+        const filtered = getFilteredQuestions();
+        const numQ = Math.min(parseInt(document.getElementById('numQuestions').value), filtered.length);
+        
+        if (filtered.length === 0) {
+            alert('No questions available with these filters!');
+            return;
+        }
+        
+        immediateFeedback = document.getElementById('immediateFeedbackToggle').checked;
+        
+        currentTest = shuffleArray(filtered).slice(0, numQ);
+        currentQuestionIndex = 0;
+        userAnswers = new Array(currentTest.length).fill(null);
+        
+        document.getElementById('setupScreen').classList.add('hidden');
+        document.getElementById('testScreen').classList.remove('hidden');
+        document.getElementById('totalQ').textContent = currentTest.length;
+        
+        displayQuestion();
+    }
+    
+    function shuffleArray(array) {
+        const newArray = [...array];
+        for (let i = newArray.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+        }
+        return newArray;
+    }
+    
+    function displayQuestion() {
+        const q = currentTest[currentQuestionIndex];
+        const qHash = getQuestionHash(q);
+        const isFlagged = flaggedQuestions.has(qHash);
+        const container = document.getElementById('questionContainer');
+        const userAnswer = userAnswers[currentQuestionIndex];
+        const showFeedback = immediateFeedback && userAnswer !== null;
+        
+        let optionsHTML = '';
+        q.options.forEach((opt, idx) => {
+            let className = 'option';
+            if (showFeedback) {
+                if (idx === q.correctIndex) {
+                    className += ' correct';
+                } else if (idx === userAnswer && idx !== q.correctIndex) {
+                    className += ' incorrect';
+                }
+            } else if (userAnswer === idx) {
+                className += ' selected';
+            }
+            optionsHTML += `<div class="${className}" onclick="selectAnswer(${idx})">${String.fromCharCode(65 + idx)}. ${opt}</div>`;
+        });
+        
+        let explanationHTML = '';
+        if (showFeedback) {
+            explanationHTML = `
+                <div class="explanation">
+                    <strong>${userAnswer === q.correctIndex ? '✓ Correct!' : '✗ Incorrect'}</strong><br>
+                    ${q.explanation}
+                </div>
+            `;
+        }
+        
+        container.innerHTML = `
+            <div class="question-card">
+                <div class="question-header">
+                    <div>
+                        <span class="badge badge-category">${q.category}</span>
+                        <span class="badge badge-difficulty">${q.difficulty.toUpperCase()}</span>
+                    </div>
+                    <button onclick="toggleFlag()" style="background: ${isFlagged ? '#ffc107' : '#e0e0e0'}; padding: 8px 16px; font-size: 14px;">
+                        ${isFlagged ? '★ Flagged' : '☆ Flag'}
+                    </button>
+                </div>
+                <div class="question-stem">${q.stem}</div>
+                <div class="options">
+                    ${optionsHTML}
+                </div>
+                ${explanationHTML}
+            </div>
+        `;
+        
+        updateProgress();
+        updateButtons();
+    }
+    
+    function toggleFlag() {
+        const q = currentTest[currentQuestionIndex];
+        const qHash = getQuestionHash(q);
+        
+        if (flaggedQuestions.has(qHash)) {
+            flaggedQuestions.delete(qHash);
+        } else {
+            flaggedQuestions.add(qHash);
+        }
+        
+        saveFlaggedQuestions();
+        displayQuestion();
+        updateAvailableCount();
+    }
+    
+    function selectAnswer(optionIndex) {
+        if (immediateFeedback && userAnswers[currentQuestionIndex] !== null) {
+            return;
+        }
+        
+        userAnswers[currentQuestionIndex] = optionIndex;
+        displayQuestion();
+    }
+    
+    function updateProgress() {
+        document.getElementById('currentQ').textContent = currentQuestionIndex + 1;
+        const answered = userAnswers.filter(a => a !== null).length;
+        document.getElementById('answered').textContent = answered;
+        const percent = (answered / currentTest.length) * 100;
+        document.getElementById('progressFill').style.width = percent + '%';
+    }
+    
+    function updateButtons() {
+        document.getElementById('prevBtn').disabled = currentQuestionIndex === 0;
+        const isLast = currentQuestionIndex === currentTest.length - 1;
+        document.getElementById('nextBtn').classList.toggle('hidden', isLast);
+        document.getElementById('submitBtn').classList.toggle('hidden', !isLast);
+    }
+    
+    function previousQuestion() {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            displayQuestion();
+        }
+    }
+    
+    function nextQuestion() {
+        if (currentQuestionIndex < currentTest.length - 1) {
+            currentQuestionIndex++;
+            displayQuestion();
+        }
+    }
+    
+    function submitTest() {
+        const unanswered = userAnswers.filter(a => a === null).length;
+        if (unanswered > 0) {
+            if (!confirm(`You have ${unanswered} unanswered question(s). Submit anyway?`)) {
+                return;
+            }
+        }
+        
+        const correct = currentTest.reduce((sum, q, idx) => {
+            return sum + (userAnswers[idx] === q.correctIndex ? 1 : 0);
+        }, 0);
+        
+        currentTest.forEach((q, idx) => {
+            const category = q.category;
+            const qHash = getQuestionHash(q);
+            const isCorrect = userAnswers[idx] === q.correctIndex;
+            
+            if (!categoryStats[category]) {
+                categoryStats[category] = { correct: 0, total: 0 };
+            }
+            categoryStats[category].total++;
+            if (isCorrect) {
+                categoryStats[category].correct++;
+                incorrectQuestions.delete(qHash);
+            } else {
+                incorrectQuestions.add(qHash);
+            }
+        });
+        
+        saveCategoryStats();
+        saveIncorrectQuestions();
+        
+        const result = {
+            date: new Date().toISOString(),
+            total: currentTest.length,
+            correct: correct,
+            percentage: Math.round((correct / currentTest.length) * 100),
+            questions: currentTest.map((q, idx) => ({
+                question: q.stem,
+                category: q.category,
+                userAnswer: userAnswers[idx],
+                correctAnswer: q.correctIndex,
+                isCorrect: userAnswers[idx] === q.correctIndex
+            }))
+        };
+        
+        testHistory.unshift(result);
+        saveHistory();
+        
+        showResults(result);
+    }
+    
+    function showResults(result) {
+        document.getElementById('testScreen').classList.add('hidden');
+        document.getElementById('resultsScreen').classList.remove('hidden');
+        
+        document.getElementById('scoreCircle').textContent = result.percentage + '%';
+        document.getElementById('correctStat').textContent = result.correct;
+        document.getElementById('incorrectStat').textContent = result.total - result.correct;
+        document.getElementById('percentStat').textContent = result.percentage + '%';
+        
+        const reviewContainer = document.getElementById('reviewContainer');
+        reviewContainer.innerHTML = '<h3 style="margin: 30px 0 20px 0;">Review Answers</h3>';
+        
+        currentTest.forEach((q, idx) => {
+            const userAns = userAnswers[idx];
+            const isCorrect = userAns === q.correctIndex;
+            
+            reviewContainer.innerHTML += `
+                <div class="question-card">
+                    <div class="question-header">
+                        <span class="badge badge-category">${q.category}</span>
+                        <span class="badge ${isCorrect ? 'badge-difficulty' : 'badge-category'}" 
+                              style="background: ${isCorrect ? '#c8e6c9' : '#ffcdd2'}; color: ${isCorrect ? '#2e7d32' : '#c62828'};">
+                            ${isCorrect ? '✓ Correct' : '✗ Incorrect'}
+                        </span>
+                    </div>
+                    <div class="question-stem">${q.stem}</div>
+                    <div class="options">
+                        ${q.options.map((opt, optIdx) => {
+                            let className = 'option';
+                            if (optIdx === q.correctIndex) className += ' correct';
+                            else if (optIdx === userAns && !isCorrect) className += ' incorrect';
+                            return `<div class="${className}">${String.fromCharCode(65 + optIdx)}. ${opt}</div>`;
+                        }).join('')}
+                    </div>
+                    <div class="explanation">
+                        <strong>Explanation:</strong> ${q.explanation}
+                    </div>
+                </div>
+            `;
+        });
+    }
+    
+    function viewHistory() {
+        document.getElementById('setupScreen').classList.add('hidden');
+        document.getElementById('resultsScreen').classList.add('hidden');
+        document.getElementById('historyScreen').classList.remove('hidden');
+        document.getElementById('statisticsScreen').classList.add('hidden');
+        
+        const container = document.getElementById('historyContainer');
+        if (testHistory.length === 0) {
+            container.innerHTML = '<p style="text-align: center; color: #6c757d;">No test history yet. Take your first test!</p>';
+            return;
+        }
+        
+        container.innerHTML = testHistory.map((result, idx) => `
+            <div class="question-card">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+                    <strong>Test ${testHistory.length - idx}</strong>
+                    <span>${new Date(result.date).toLocaleString()}</span>
+                </div>
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-value">${result.correct}/${result.total}</div>
+                        <div class="stat-label">Score</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value">${result.percentage}%</div>
+                        <div class="stat-label">Percentage</div>
+                    </div>
+                </div>
+            </div>
+        `).join('');
+    }
+    
+    function returnToSetup() {
+        document.getElementById('testScreen').classList.add('hidden');
+        document.getElementById('resultsScreen').classList.add('hidden');
+        document.getElementById('historyScreen').classList.add('hidden');
+        document.getElementById('statisticsScreen').classList.add('hidden');
+        document.getElementById('setupScreen').classList.remove('hidden');
+    }
+    
+    function viewStatistics() {
+        document.getElementById('setupScreen').classList.add('hidden');
+        document.getElementById('resultsScreen').classList.add('hidden');
+        document.getElementById('historyScreen').classList.add('hidden');
+        document.getElementById('statisticsScreen').classList.remove('hidden');
+        
+        let totalAnswered = 0;
+        let totalCorrect = 0;
+        
+        Object.values(categoryStats).forEach(stat => {
+            totalAnswered += stat.total;
+            totalCorrect += stat.correct;
+        });
+        
+        document.getElementById('totalQuestionsStat').textContent = totalAnswered;
+        document.getElementById('overallPercentStat').textContent = 
+            totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) + '%' : '0%';
+        
+        document.getElementById('reviewFlaggedStat').textContent = flaggedQuestions.size;
+        document.getElementById('reviewIncorrectStat').textContent = incorrectQuestions.size;
+        
+        const container = document.getElementById('categoryStatsContainer');
+        
+        if (Object.keys(categoryStats).length === 0) {
+            container.innerHTML = '<p style="text-align: center; color: #6c757d;">No statistics yet. Take your first test!</p>';
+            return;
+        }
+        
+        const sortedCategories = Object.entries(categoryStats).sort((a, b) => {
+            const percentA = (a[1].correct / a[1].total) * 100;
+            const percentB = (b[1].correct / b[1].total) * 100;
+            return percentA - percentB;
+        });
+        
+        container.innerHTML = sortedCategories.map(([category, stats]) => {
+            const percentage = Math.round((stats.correct / stats.total) * 100);
+            let color = '#4caf50';
+            if (percentage < 70) color = '#f44336';
+            else if (percentage < 85) color = '#ff9800';
+            
+            return `
+                <div class="question-card" style="margin-bottom: 15px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                        <strong style="font-size: 16px;">${category}</strong>
+                        <span style="font-size: 24px; font-weight: bold; color: ${color};">${percentage}%</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; font-size: 14px; color: #6c757d;">
+                        <span>${stats.correct} correct</span>
+                        <span>${stats.total - stats.correct} incorrect</span>
+                        <span>${stats.total} total</span>
+                    </div>
+                    <div style="margin-top: 10px; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden;">
+                        <div style="width: ${percentage}%; height: 100%; background: ${color};"></div>
+                    </div>
+                </div>
+            `;
+        }).join('');
+    }
+    
+    function clearFlagged() {
+        if (confirm('Clear all flagged questions? You can always flag them again later.')) {
+            flaggedQuestions.clear();
+            saveFlaggedQuestions();
+            updateAvailableCount();
+            viewStatistics();
+            alert('✓ All flagged questions cleared.');
+        }
+    }
+    
+    function clearIncorrect() {
+        if (confirm('Clear all incorrect questions? This will reset your incorrect question collection.')) {
+            incorrectQuestions.clear();
+            saveIncorrectQuestions();
+            updateAvailableCount();
+            viewStatistics();
+            alert('✓ All incorrect questions cleared.');
+        }
+    }
+    
+    function resetStatistics() {
+        if (confirm('Reset all performance statistics? This will clear your category performance data but keep your test history.')) {
+            categoryStats = {};
+            saveCategoryStats();
+            viewStatistics();
+            alert('✓ Statistics reset successfully.');
+        }
+    }
+    
+    function copyFormatExample() {
+        const formatText = `ACCEPTED JSON FORMATS:
+
+=== FORMAT 1: DIRECT ARRAY (Recommended) ===
+[
+  {
+    "stem": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paris has been the capital of France since 987 AD.",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which programming language is known for web development?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "Java"
+    ],
+    "correctIndex": 1,
+    "explanation": "JavaScript is the primary language for client-side web development.",
+    "category": "Technology",
+    "difficulty": "medium"
+  }
+]
+
+=== FORMAT 2: WRAPPED OBJECT ===
+{
+  "schemaVersion": "1.0",
+  "questions": [
+    {
+      "stem": "What is the capital of France?",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Paris has been the capital of France since 987 AD.",
+      "category": "Geography",
+      "difficulty": "easy"
+    }
+  ]
+}
+
+REQUIRED FIELDS FOR EACH QUESTION:
+- stem: String (required) - The question text
+- options: Array (required) - 2-6 answer choices
+- correctIndex: Number (required) - Index of correct answer (0-based)
+- explanation: String (required) - Explanation of correct answer
+- category: String (required) - Question category/topic
+- difficulty: String (required) - Must be "easy", "medium", or "hard"
+
+NOTES:
+- correctIndex starts at 0 (first option = 0, second = 1, etc.)
+- All fields are case-sensitive
+- File must be valid JSON
+- Categories are automatically extracted for filtering`;
+        
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(formatText).then(() => {
+                alert('✓ JSON format examples copied to clipboard!');
+            }).catch(err => {
+                fallbackCopy(formatText);
+            });
+        } else {
+            fallbackCopy(formatText);
+        }
+    }
+    
+    function fallbackCopy(text) {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+            document.execCommand('copy');
+            alert('✓ JSON format copied to clipboard!');
+        } catch (err) {
+            alert('Unable to copy. Please create the JSON file manually using the format shown above.');
+        }
+        document.body.removeChild(textarea);
+    }
+    
+    function clearHistory() {
+        if (confirm('Are you sure you want to clear all test history? This cannot be undone.')) {
+            testHistory = [];
+            saveHistory();
+            viewHistory();
+        }
+    }
+    
+    function updateLoadedFilesList() {
+        const container = document.getElementById('loadedFilesList');
+        const clearBtn = document.getElementById('clearQuestionsBtn');
+        
+        if (loadedFiles.length === 0) {
+            container.innerHTML = '';
+            clearBtn.style.display = 'none';
+            return;
+        }
+        
+        clearBtn.style.display = 'inline-block';
+        
+        container.innerHTML = `
+            <div style="background: #e8f5e9; padding: 15px; border-radius: 8px; border-left: 4px solid #4caf50;">
+                <strong>📚 Loaded Question Banks (${allQuestions.length} total questions):</strong>
+                <ul style="margin: 10px 0 0 20px; line-height: 1.8;">
+                    ${loadedFiles.map(file => `
+                        <li>${file.name} - ${file.count} questions</li>
+                    `).join('')}
+                </ul>
+            </div>
+        `;
+    }
+    
+    function clearAllQuestions() {
+        if (confirm('Clear all loaded questions? This will remove all question banks but keep your test history.')) {
+            allQuestions = [];
+            loadedFiles = [];
+            saveQuestions();
+            updateLoadedFilesList();
+            document.getElementById('filterSection').classList.add('hidden');
+            
+            const categorySelect = document.getElementById('categoryFilter');
+            categorySelect.innerHTML = '<option value="all">All Categories</option>';
+            
+            alert('✓ All questions cleared. Load new question banks to start fresh.');
+        }
+    }
+</script>

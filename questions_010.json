@@ -1,0 +1,1302 @@
+[
+  {
+    "stem": "A 50-year-old with schizophrenia on haloperidol develops high fever, rigidity, autonomic instability, and elevated CK. Most likely syndrome?",
+    "options": [
+      "Neuroleptic malignant syndrome",
+      "Serotonin syndrome",
+      "Malignant hyperthermia",
+      "Catatonia"
+    ],
+    "correctIndex": 2,
+    "explanation": "**NMS** = fever, rigidity, autonomic dysregulation, ↑CK with antipsychotics. SS = hyperreflexia/clonus. MH = anesthetics. Catatonia = stupor, waxy flexibility.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What EEG finding is most associated with **photosensitive** generalized epilepsy?",
+    "options": [
+      "Generalized spike–wave with photoparoxysmal response",
+      "Temporal intermittent rhythmic delta activity (TIRDA)",
+      "PLEDs",
+      "Hypsarrhythmia"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Photoparoxysmal response** is generalized spike–wave triggered by photic stimulation. TIRDA suggests temporal lobe epilepsy. PLEDs (LPDs) occur in acute lesions. Hypsarrhythmia is infantile spasms.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 64-year-old with diabetes awakes with painless monocular vision loss, swollen disc. Diagnosis?",
+    "options": [
+      "Optic neuritis",
+      "Papilledema",
+      "CRAO",
+      "Non-arteritic anterior ischemic optic neuropathy"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAION is acute painless monocular vision loss with disc swelling. ON painful. CRAO sudden but pale retina. Papilledema bilateral with ICP.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 24-year-old man is brought after a tonic–clonic seizure. He is tremulous, diaphoretic, hypertensive, and last drank alcohol 24 hours ago. Diagnosis?",
+    "options": [
+      "Alcohol withdrawal seizure",
+      "Epilepsy",
+      "PNES",
+      "Serotonin syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "**Alcohol withdrawal**: seizures within 6–48h, tremor, autonomic hyperactivity. PNES lacks postictal signs. Serotonin syndrome has clonus.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 54-year-old with sudden headache, vision loss, ophthalmoplegia. MRI: pituitary mass with hemorrhage. Diagnosis?",
+    "options": [
+      "Migraine aura",
+      "Pituitary apoplexy",
+      "TIA",
+      "Optic neuritis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pituitary apoplexy presents with acute headache, visual loss, ophthalmoplegia. ON has painful vision loss without mass. TIA transient. Migraine aura not this severe.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 20-year-old man develops painless subacute central vision loss, family history maternal. Diagnosis?",
+    "options": [
+      "Papilledema",
+      "Optic neuritis",
+      "Leber hereditary optic neuropathy",
+      "NAION"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leber hereditary optic neuropathy is a mitochondrial disorder causing subacute bilateral central vision loss in young men. ON is painful, NAION in older vascular patients, papilledema bilateral with ICP.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 6-year-old has nocturnal episodes with vomiting, pallor, and eye deviation lasting 10–20 minutes. Most consistent diagnosis?",
+    "options": [
+      "Autonomic seizures with emesis, pallor, and eye deviation, often prolonged and nocturnal",
+      "Drop attacks with slow spike–wave",
+      "Infantile spasms with hypsarrhythmia",
+      "Simple absence seizures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Self-limited epilepsy with autonomic seizures (Panayiotopoulos). LGS has drop attacks/slow spike–wave. IS has spasms. Absence is brief staring.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A vegan presents with paresthesias, ataxia, macrocytosis. Labs: low B12, high MMA. Which therapy?",
+    "options": [
+      "Vitamin D",
+      "IV folate",
+      "Iron supplementation",
+      "IM vitamin B12 injections"
+    ],
+    "correctIndex": 3,
+    "explanation": "B12 deficiency requires IM replacement. Folate alone does not fix neurologic issues. Iron or vitamin D not relevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 38-year-old with AQP4-IgG–positive NMOSD has relapses on azathioprine. Which class of agents is preferred for relapse prevention?",
+    "options": [
+      "Complement, CD19, or IL-6 receptor–targeted therapies (eculizumab, inebilizumab, or satralizumab)",
+      "Glatiramer acetate",
+      "Natalizumab",
+      "Interferon-beta"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Targeted agents** (complement/CD19/IL-6R) reduce NMOSD relapses markedly. MS DMTs are ineffective or harmful in NMOSD.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 58-year-old presents with convulsive status epilepticus. What is the recommended initial pharmacologic sequence?",
+    "options": [
+      "IV lorazepam followed by a second-line agent (levetiracetam, fosphenytoin, or valproate)",
+      "Wait 30 minutes before treatment",
+      "Use haloperidol first",
+      "Intubate immediately without medication"
+    ],
+    "correctIndex": 0,
+    "explanation": "**Benzodiazepine first**, then a **second-line ASM** (LEV, fosphenytoin, VPA). Delays worsen outcomes. Haloperidol is not an antiseizure drug. Intubation may be needed later if refractory.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old with PD has motor fluctuations on levodopa. You consider adding an MAO-B inhibitor. Which is accurate regarding safinamide?",
+    "options": [
+      "It is a reversible MAO-B inhibitor with additional non-dopaminergic actions and may improve ON time without increasing troublesome dyskinesia",
+      "It is an irreversible MAO-B inhibitor that increases dyskinesia",
+      "It is contraindicated with SSRIs at any dose",
+      "It worsens OFF time compared with placebo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safinamide is a reversible MAO‑B inhibitor with glutamatergic modulation; trials show increased ON time without troublesome dyskinesia. Selegiline/rasagiline are irreversible. SSRI interactions require caution but not absolute contraindication at usual doses.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 34-year-old starting cladribine tablets asks about pretreatment testing. Which is essential?",
+    "options": [
+      "Screen for latent infections (e.g., VZV, hepatitis) and ensure reliable contraception",
+      "Start live vaccines during therapy",
+      "Combine with interferon-beta for synergy",
+      "No laboratory monitoring is needed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cladribine causes **lymphodepletion**; screen for infections and avoid live vaccines; contraception is required. Routine combination with interferon is not used.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 64-year-old with advanced Parkinson disease has unpredictable OFF episodes despite optimized levodopa. Which medication provides rapid rescue for OFF periods?",
+    "options": [
+      "Pimavanserin",
+      "Entacapone",
+      "Apomorphine subcutaneous",
+      "Benztropine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Apomorphine SC acts rapidly to rescue OFF episodes. Entacapone (B) smooths wearing-off but is not a rescue. Pimavanserin (C) treats psychosis. Benztropine (D) helps tremor, not OFF.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 7-month-old without TSC has epileptic spasms and hypsarrhythmia. Which initial therapy has the strongest evidence?",
+    "options": [
+      "Carbamazepine",
+      "High-dose ACTH",
+      "Levetiracetam",
+      "Vigabatrin first-line for all"
+    ],
+    "correctIndex": 1,
+    "explanation": "For non‑TSC infantile spasms, ACTH (or high-dose oral steroids) is first-line. Vigabatrin is first-line in TSC. Carbamazepine can worsen spasms.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 10-year-old boy with sickle cell disease presents with acute right hemiparesis. Best acute management?",
+    "options": [
+      "Exchange transfusion",
+      "Carbamazepine",
+      "tPA",
+      "Aspirin only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pediatric stroke in SCD is managed with exchange transfusion. tPA is rarely used. Aspirin only insufficient. Carbamazepine irrelevant.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 59-year-old with external ventricular drain develops fever, neutrophilic CSF, and gram-negative rods on culture. Best initial antimicrobial approach?",
+    "options": [
+      "Stop the drain and observe",
+      "Oral amoxicillin-clavulanate",
+      "Empiric broad-spectrum IV antibiotics with CNS penetration (e.g., cefepime/meropenem) ± intraventricular therapy pending sensitivities",
+      "High-dose steroids alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Healthcare-associated **ventriculitis** needs **broad IV antibiotics** with CNS penetration; intraventricular antibiotics may be added. Oral Augmentin is inadequate; observation/steroids alone are unsafe.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 63-year-old with chronic SIADH had serum Na corrected from 118 to 131 mEq/L in 14 hours. He now has brisk urine output and rising Na. Best strategy to mitigate osmotic demyelination risk?",
+    "options": [
+      "Administer desmopressin and free water (e.g., D5W) to re-lower or stabilize sodium",
+      "Give additional hypertonic saline to raise sodium faster",
+      "Start loop diuretic to promote further aquaresis",
+      "Observation only, as overcorrection is harmless"
+    ],
+    "correctIndex": 2,
+    "explanation": "Overly rapid correction risks **osmotic demyelination**. **DDAVP** halts water diuresis; giving free water can re-lower/stabilize Na to safe limits. Hypertonic saline or diuretics would worsen overcorrection; watchful waiting is unsafe.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old with bipolar disorder presents with tremor, ataxia, confusion, creatinine 3.4. Lithium level 3.8 mmol/L. Best therapy?",
+    "options": [
+      "Activated charcoal",
+      "Hemodialysis",
+      "IV fluids only",
+      "Flumazenil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Severe lithium toxicity requires hemodialysis. Charcoal is ineffective. IV fluids help but not definitive. Flumazenil for benzos.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 62-year-old diabetic on metformin presents with lactic acidosis and renal failure. Best therapy?",
+    "options": [
+      "IV calcium",
+      "Insulin",
+      "Hemodialysis",
+      "Prednisone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Severe metformin-associated lactic acidosis is treated with hemodialysis. Insulin is not antidote. Calcium not helpful. Prednisone irrelevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient on isoniazid develops neuropathy. Which vitamin deficiency?",
+    "options": [
+      "Vitamin E",
+      "Vitamin B12",
+      "Vitamin B1",
+      "Vitamin B6 (pyridoxine)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Isoniazid causes pyridoxine deficiency neuropathy. Corrected with supplementation.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 31-year-old with RRMS has two relapses in 12 months despite interferon-beta; MRI shows new enhancing lesions. She is JCV antibody positive (high index). Best escalation?",
+    "options": [
+      "Ocrelizumab (anti-CD20)",
+      "Alemtuzumab in all patients as next step",
+      "Continue interferon-beta",
+      "Natalizumab"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Anti-CD20** therapy offers high efficacy without natalizumab’s PML risk in JCV+ patients. Continuing a failing agent is inappropriate; alemtuzumab is potent but reserved due to autoimmune risks.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old has perimenstrual seizure clustering. What management strategy is reasonable?",
+    "options": [
+      "Perimenstrual seizure clustering may respond to intermittent benzodiazepines or acetazolamide; hormonal strategies can help",
+      "Estrogen reduces seizures; progesterone worsens them",
+      "No pattern-based therapy exists",
+      "Carbamazepine is preferred universally"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Intermittent benzodiazepines/acetazolamide** and **hormonal approaches** are options. Estrogen is generally **proconvulsant**; progesterone **anticonvulsant**. Therapy is individualized.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A woman discontinued fingolimod 6 weeks ago and now has severe rebound disease activity. Which pre-emptive strategy could have reduced this risk?",
+    "options": [
+      "Initiate teriflunomide",
+      "Long washout with no therapy",
+      "Monthly IV steroids for a year",
+      "Bridge to natalizumab or anti-CD20 therapy before washout"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bridging to **high-efficacy therapy** minimizes rebound. Long washout risks severe relapses; teriflunomide is teratogenic; chronic monthly steroids lack evidence.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 19-year-old collapses at rave after MDMA ingestion, Na 114, seizures. Best therapy?",
+    "options": [
+      "Diazepam only",
+      "Fluid restriction only",
+      "Hypertonic saline bolus",
+      "Naloxone"
+    ],
+    "correctIndex": 2,
+    "explanation": "MDMA causes SIADH and polydipsia leading to severe hyponatremia; hypertonic saline bolus is indicated. Restriction not sufficient acutely.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old with RRMS is stable on ocrelizumab and becomes pregnant. What is recommended?",
+    "options": [
+      "Hold ocrelizumab during pregnancy",
+      "Continue ocrelizumab throughout pregnancy",
+      "Switch to teriflunomide",
+      "Start fingolimod"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anti-CD20 mAbs are avoided in pregnancy after conception; may be used pre-conception for coverage. Teriflunomide and fingolimod are teratogenic.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 60-year-old woman with depression is started on phenelzine. After wine/cheese, she develops severe hypertension and headache. Which mechanism?",
+    "options": [
+      "Tyramine-induced hypertensive crisis",
+      "Serotonin syndrome",
+      "Neuroleptic malignant syndrome",
+      "Hypertensive urgency unrelated"
+    ],
+    "correctIndex": 0,
+    "explanation": "MAOIs + tyramine → **hypertensive crisis**. Serotonin syndrome = hyperreflexia/clonus. NMS = rigidity, high CK.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A pesticide worker develops GI distress, neuropathy, and Mee’s lines on nails. Which chelator?",
+    "options": [
+      "Deferoxamine",
+      "Dimercaprol (BAL) or DMSA",
+      "EDTA",
+      "Penicillamine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arsenic treated with BAL or DMSA. Deferoxamine is for iron. EDTA for lead. Penicillamine less common.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 36-year-old woman with generalized myasthenia is intubated for hypercapnic respiratory failure. Best disease-directed acute therapy?",
+    "options": [
+      "High-dose steroids alone immediately without bridge",
+      "Increase pyridostigmine dose alone",
+      "Plasma exchange or IVIG",
+      "Start azathioprine now for rapid effect"
+    ],
+    "correctIndex": 0,
+    "explanation": "**PLEX or IVIG** hasten improvement in crisis. Pyridostigmine alone is inadequate; azathioprine takes months; high-dose steroids can transiently worsen weakness unless bridged with PLEX/IVIG.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 6-year-old boy develops language regression and seizures. EEG shows epileptiform discharges in temporal regions during sleep. Diagnosis?",
+    "options": [
+      "Dravet syndrome",
+      "Landau-Kleffner syndrome",
+      "Lennox-Gastaut syndrome",
+      "Rasmussen encephalitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Landau-Kleffner (acquired epileptic aphasia) presents with language regression and epileptiform EEG in sleep. LGS has multiple seizure types and slow spike-wave. Dravet presents earlier with febrile seizures. Rasmussen is progressive focal epilepsy.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 3-year-old with two focal seizures lasting 20 minutes each during fever. What type of seizure is this?",
+    "options": [
+      "Complex febrile seizure",
+      "Epileptic spasm",
+      "Simple febrile seizure",
+      "Absence seizure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prolonged, focal, or recurrent within 24h = complex febrile seizure. Simple are brief, generalized, single. Epileptic spasm is different. Absence not triggered by fever.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 33-year-old woman with MS notes transient blurry vision during hot showers. What is this phenomenon and implication?",
+    "options": [
+      "Uhthoff phenomenon; reflects transient conduction block in demyelinated axons",
+      "Lhermitte sign; indicates cervical spondylosis",
+      "Adie phenomenon; peripheral neuropathy",
+      "Marcus Gunn pupil; optic tract lesion"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Uhthoff** is heat-induced worsening due to **conduction block** in demyelinated pathways. The other terms are unrelated.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old insulin-dependent diabetic becomes confused, sweaty, then seizes. FS glucose 35. Which therapy?",
+    "options": [
+      "IV insulin",
+      "IV dextrose",
+      "Glucagon only",
+      "Prednisone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypoglycemia requires IV dextrose acutely. Insulin would worsen. Glucagon is backup when IV access unavailable. Prednisone not useful.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 57-year-old with restless legs syndrome on pramipexole reports earlier onset of symptoms and spread to arms. Best strategy?",
+    "options": [
+      "Add levodopa nightly",
+      "Increase pramipexole dose further",
+      "Switch to an alpha-2-delta ligand (gabapentin/pregabalin) and reduce/stop dopamine agonist",
+      "Start haloperidol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dopamine agonists can cause augmentation; switch to gabapentinoids and taper agonist. Increasing dose (B) worsens augmentation; levodopa (C) causes rebound; haloperidol (D) worsens symptoms.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "On cEEG, alternating flat periods with bursts of activity appear during propofol sedation. What does this represent?",
+    "options": [
+      "Deep anesthetic effect or severe encephalopathy; used as a target in refractory SE management",
+      "Normal in drowsiness",
+      "Specific to hepatic encephalopathy",
+      "Indicates psychogenic events"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Burst suppression** occurs with deep anesthesia or profound encephalopathy; it is a **treatment target** for refractory SE. Not normal or specific to one etiology.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 7-year-old presents with multifocal neurologic deficits after viral illness. MRI shows large bilateral white matter lesions. CSF mild pleocytosis. Diagnosis?",
+    "options": [
+      "Acute disseminated encephalomyelitis",
+      "Multiple sclerosis",
+      "NMOSD",
+      "PML"
+    ],
+    "correctIndex": 0,
+    "explanation": "ADEM is monophasic, often post-infectious. MS has smaller lesions with dissemination. NMOSD has optic-spinal pattern. PML in immunosuppressed.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 27-year-old woman presents with auditory hallucinations and disorganized speech for 2 months. Function is impaired. Which diagnosis is most likely?",
+    "options": [
+      "Schizophreniform disorder",
+      "Brief psychotic disorder",
+      "Schizophrenia",
+      "Delusional disorder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Symptoms >1 month but <6 months → **schizophreniform**. Brief psychotic lasts <1 month; schizophrenia requires ≥6 months; delusional disorder lacks disorganization/hallucinations.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 40-year-old on haloperidol develops rigidity, fever, autonomic instability, CK 20,000. Diagnosis and treatment?",
+    "options": [
+      "Serotonin syndrome; cyproheptadine",
+      "Heat stroke",
+      "Malignant hyperthermia; dantrolene",
+      "Neuroleptic malignant syndrome; stop drug, supportive care, dantrolene or bromocriptine"
+    ],
+    "correctIndex": 3,
+    "explanation": "NMS requires stopping antipsychotic, supportive care, dantrolene/bromocriptine. Serotonin syndrome has clonus/hyperreflexia. MH is anesthesia-related.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old with super-refractory status epilepticus remains seizing despite propofol and midazolam. Blood pressure is marginal. Which agent is reasonable to add?",
+    "options": [
+      "Haloperidol",
+      "Ketamine infusion",
+      "Dantrolene",
+      "Naloxone"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Ketamine** (NMDA antagonist) is useful in super-refractory SE and is relatively hemodynamically stable. The others are not antiepileptic therapies.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 62-year-old on unfractionated heparin develops intraparenchymal hemorrhage. What reverses the anticoagulant effect?",
+    "options": [
+      "Andexanet alfa",
+      "Vitamin K",
+      "Idarucizumab",
+      "Protamine sulfate"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Protamine** reverses heparin. Vitamin K reverses warfarin; idarucizumab reverses dabigatran; andexanet reverses factor Xa inhibitors.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 1-year-old infant with developmental regression, macrocephaly, seizures, cherry-red macula. Diagnosis?",
+    "options": [
+      "Metachromatic leukodystrophy",
+      "Krabbe disease",
+      "Adrenoleukodystrophy",
+      "Tay-Sachs disease"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tay-Sachs is GM2 gangliosidosis with cherry-red macula. Krabbe causes irritability and demyelination. MLD causes peripheral neuropathy. ALD adrenal and CNS demyelination.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 67-year-old with unexplained coma after ICH remains unresponsive despite sedation off. CT is stable. Which test is essential to detect ongoing seizures?",
+    "options": [
+      "Continuous EEG monitoring",
+      "Serum prolactin",
+      "Lumbar puncture",
+      "Somatosensory evoked potentials"
+    ],
+    "correctIndex": 3,
+    "explanation": "**cEEG** is key to detect **nonconvulsive status epilepticus** in comatose patients. Other tests are not diagnostic for NCSE.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 22-year-old found agitated, nystagmus, hypertension, violent behavior. Which therapy is preferred?",
+    "options": [
+      "Naloxone",
+      "Haloperidol high dose",
+      "Benzodiazepines",
+      "Activated charcoal only"
+    ],
+    "correctIndex": 2,
+    "explanation": "PCP intoxication treated with benzodiazepines. Haloperidol can worsen dystonia/seizures. Naloxone irrelevant. Charcoal not primary.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 44-year-old with severe TBI and impending herniation requires hyperosmolar therapy. He is hypotensive with AKI. Which is preferred?",
+    "options": [
+      "Mannitol bolus",
+      "3% hypertonic saline bolus",
+      "Continuous furosemide infusion",
+      "Dexamethasone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypertonic saline is preferred in hypotension/AKI since mannitol promotes diuresis and can worsen hypotension/renal function. Furosemide (C) is not primary ICP therapy; dexamethasone (D) is not indicated in TBI.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What is a key safety consideration with valproate?",
+    "options": [
+      "Avoid in women of childbearing potential when possible due to teratogenicity and neurodevelopmental risks",
+      "First-line in pregnancy",
+      "No effect on weight or PCOS risk",
+      "Safe in urea cycle disorders"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Avoid in women of childbearing potential**; risks include neural tube defects and developmental issues. It may cause weight gain/PCOS. Contraindicated in urea cycle disorders.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 60-year-old homeless man is found with core temp 29°C, bradycardia, AMS. What therapy is indicated?",
+    "options": [
+      "Active rewarming (warmed IV fluids, heated blankets, airway warming)",
+      "Antipyretics",
+      "IV steroids",
+      "Immediate dialysis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hypothermia treated with active rewarming. Antipyretics not useful. Steroids not indicated. Dialysis not required unless other issue.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 34-year-old overdosed on alprazolam, drowsy but stable vitals. Which antidote?",
+    "options": [
+      "No antidote needed",
+      "Naloxone",
+      "Atropine",
+      "Flumazenil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Flumazenil is rarely used due to seizure risk; most benzo overdoses managed with supportive care. Naloxone for opioids. Atropine not relevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old with bradycardia, hypothermia, and coma is diagnosed with myxedema coma. Which therapy is indicated?",
+    "options": [
+      "Oral levothyroxine only",
+      "IV levothyroxine ± liothyronine and hydrocortisone",
+      "IV insulin",
+      "Plasmapheresis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Myxedema coma requires IV thyroid hormone and empiric steroids. Oral therapy not adequate. Insulin not treatment. PLEX not useful.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 74-year-old collapses with coma, quadriparesis, and gaze palsy. Noncontrast CT suggests a hyperdense basilar artery. Which imaging sign is this and what does it imply?",
+    "options": [
+      "'Dense basilar' artery sign on CT with quadriparesis, coma, cranial nerve abnormalities",
+      "Horner syndrome with facial pain loss",
+      "Broca aphasia with face-arm weakness",
+      "Isolated hand weakness"
+    ],
+    "correctIndex": 0,
+    "explanation": "The dense basilar sign indicates acute basilar thrombosis, often causing coma, quadriparesis, and cranial nerve findings.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 37-year-old with focal epilepsy refractory to two ASMs is started on cenobamate. What is essential in the titration plan?",
+    "options": [
+      "Rapid titration over 2 weeks to reach efficacy quickly",
+      "No need to adjust concurrent clobazam",
+      "Gradual titration over several weeks to reduce risk of DRESS and CNS adverse effects",
+      "Avoid checking for drug–drug interactions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cenobamate requires slow titration to mitigate DRESS risk and CNS effects; it can increase clobazam metabolite levels (desmethylclobazam), necessitating dose reductions. Rapid titration (A) is unsafe; ignoring interactions (D) is risky.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient post-gastric bypass develops spastic gait, sensory ataxia, and anemia. Which deficiency?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Vitamin A",
+      "Copper"
+    ],
+    "correctIndex": 3,
+    "explanation": "Copper deficiency mimics B12 deficiency with myelopathy and anemia. Excess zinc causes copper deficiency. Iron causes microcytosis. Vit A not relevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 68-year-old with small-cell lung cancer presents with a generalized tonic-clonic seizure; serum sodium is 112 mEq/L. Best immediate therapy?",
+    "options": [
+      "Oral tolvaptan immediately",
+      "Hypertonic 3% saline bolus",
+      "Fluid restriction only",
+      "IV furosemide alone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute symptomatic hyponatremia with seizure requires hypertonic saline bolus. Fluid restriction is for chronic; tolvaptan not for emergency; furosemide alone is not definitive.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 68-year-old with early symptomatic Alzheimer disease meets criteria for anti-amyloid therapy. Which monitoring is essential with lecanemab?",
+    "options": [
+      "INR checks",
+      "Weekly CBC for agranulocytosis",
+      "MRI surveillance for ARIA (edema/hemorrhage)",
+      "No monitoring needed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anti-amyloid mAbs (e.g., lecanemab) carry ARIA risk; MRI monitoring is mandated. CBC/INR monitoring are not specific requirements.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 36-year-old has intrusive thoughts about contamination and spends 3 hours per day handwashing. She recognizes the thoughts as irrational. Most likely diagnosis?",
+    "options": [
+      "Obsessive–compulsive disorder",
+      "Obsessive–compulsive personality disorder",
+      "Illness anxiety disorder",
+      "Generalized anxiety disorder"
+    ],
+    "correctIndex": 2,
+    "explanation": "**OCD** = obsessions + compulsions, ego-dystonic. OCPD = perfectionism, ego-syntonic. Illness anxiety = preoccupation with health. GAD = excessive worry across domains.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A child presents with acute necrotizing encephalopathy after influenza. Genetic testing shows RANBP2 mutation. Which preventive strategy is important?",
+    "options": [
+      "Aggressive early immunomodulation during febrile illness",
+      "Chronic valproate",
+      "Chronic prednisone daily",
+      "IV phenytoin prophylaxis"
+    ],
+    "correctIndex": 0,
+    "explanation": "RANBP2-related ANE recurs with febrile infections; early steroids/PLEX/IVIG can help. Chronic ASMs are not preventive.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 5-year-old girl with severe developmental delay, ataxia, frequent laughter, seizures. Diagnosis?",
+    "options": [
+      "Tay-Sachs disease",
+      "Angelman syndrome",
+      "Fragile X",
+      "Rett syndrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Angelman: happy affect, ataxia, seizures, maternal chromosome 15q11 deletion. Rett in girls with regression and hand-wringing. Fragile X in boys. Tay-Sachs is metabolic with regression and cherry-red spot.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 63-year-old on unfractionated heparin develops a spontaneous ICH. What reversal strategy is indicated?",
+    "options": [
+      "Idarucizumab",
+      "Vitamin K",
+      "Protamine sulfate",
+      "Andexanet alfa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Protamine reverses heparin. Vitamin K reverses warfarin; idarucizumab reverses dabigatran; andexanet reverses factor Xa inhibitors.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 48-year-old chronic drinker has a tonic-clonic seizure 12 hours after last alcohol intake. Which therapy is most appropriate?",
+    "options": [
+      "Phenobarbital only",
+      "Phenytoin",
+      "IV benzodiazepines",
+      "Haloperidol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benzodiazepines are first-line for alcohol withdrawal seizures. Phenytoin is ineffective. Haloperidol is for agitation not seizures. Phenobarbital is second-line.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "During EEG, rhythmic occipital activity entrains with photic stimuli at the same frequency. Interpretation?",
+    "options": [
+      "Normal occipital rhythmic response to photic stimulation is physiologic 'photic driving'",
+      "Any photic-locked discharges mean epilepsy",
+      "Photic driving equals photoparoxysmal response",
+      "Photic stimulation is contraindicated in all patients"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Photic driving** is a **normal** physiologic response. Photoparoxysmal response involves **generalized spike–wave** and suggests photosensitivity.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 25-year-old marathon runner collapses with confusion, core temp 41°C, dry skin, hypotension. What is the mainstay of treatment?",
+    "options": [
+      "Broad-spectrum antibiotics only",
+      "Rapid external cooling (ice water immersion)",
+      "IV steroids",
+      "Antipyretics"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heat stroke requires rapid cooling. Antipyretics not effective. Steroids not indicated. Antibiotics only if infection.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 42-year-old with recurrent IDH1-mutant, 1p/19q–non-codeleted astrocytoma (WHO grade 2) after prior surgery and radiation seeks systemic options. MGMT promoter is unmethylated. Which targeted agent has emerging evidence for IDH1-mutant diffuse glioma?",
+    "options": [
+      "Temozolomide re-challenge",
+      "Ivosidenib",
+      "Bevacizumab monotherapy",
+      "Erlotinib"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ivosidenib (IDH1 inhibitor) has activity in IDH1-mutant diffuse gliomas and is an option in selected recurrent cases. Incorrect: Temozolomide rechallenge (A) is less effective with unmethylated MGMT. Bevacizumab (C) reduces edema but lacks OS benefit as monotherapy. Erlotinib (D) targets EGFR and is not standard for diffuse glioma.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 73-year-old on aspirin develops spontaneous lobar ICH. Which hemostatic measure aligns with evidence?",
+    "options": [
+      "Transfuse platelets routinely for all aspirin-associated ICH",
+      "Start 7-day tranexamic acid infusion",
+      "Reverse with vitamin K",
+      "Consider desmopressin to improve platelet function; avoid routine platelet transfusion"
+    ],
+    "correctIndex": 1,
+    "explanation": "**PATCH** showed harm from routine platelet transfusion. **DDAVP** may transiently improve platelet function. Vitamin K is for warfarin; prolonged TXA is not standard.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 40-year-old presents comatose with high anion gap metabolic acidosis, calcium oxalate crystals in urine. Which treatment is specific antidote?",
+    "options": [
+      "Naloxone",
+      "Sodium bicarbonate only",
+      "IV insulin",
+      "Fomepizole"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ethylene glycol is treated with fomepizole (ADH inhibitor) ± dialysis. Naloxone is for opioids. Insulin for DKA. Bicarbonate treats acidosis but not underlying cause.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 17-year-old with amphetamine overdose has severe agitation and tachycardia. Which first-line medication?",
+    "options": [
+      "Benzodiazepines",
+      "Beta-blockers",
+      "Haloperidol",
+      "Flumazenil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amphetamine intoxication treated with benzodiazepines. Beta-blockers avoided. Haloperidol not first-line. Flumazenil irrelevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 30-year-old woman has dilated pupil with poor light response but preserved near constriction. What is diagnosis?",
+    "options": [
+      "Adie tonic pupil",
+      "Horner syndrome",
+      "Argyll Robertson pupil",
+      "CN III palsy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adie tonic pupil reacts poorly to light but constricts to near. Horner has small pupil. CN III palsy has ptosis/diplopia. Argyll Robertson is small pupils with light-near dissociation due to neurosyphilis.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old overdosed on amitriptyline presents with wide QRS, hypotension, seizure. Which treatment?",
+    "options": [
+      "IV calcium",
+      "IV sodium bicarbonate",
+      "Hemodialysis",
+      "Naloxone"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCA overdose treated with sodium bicarbonate. Naloxone for opioids. Dialysis ineffective. Calcium not antidote.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What pre-prescription screening reduces severe rash risk for carbamazepine?",
+    "options": [
+      "Test HLA-B*1502 in patients of certain Asian ancestry to reduce SJS/TEN risk",
+      "No genetic testing is needed",
+      "HLA-B*5701 is the only relevant allele",
+      "Screen only after a rash occurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "**HLA-B*1502** screening is recommended in specific Asian populations. HLA-B*5701 is for abacavir. Screening should be **before** exposure.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old on valproate needs lamotrigine add-on. How do you adjust?",
+    "options": [
+      "Reduce and slow lamotrigine titration when combined with valproate",
+      "Increase lamotrigine aggressively to overcome inhibition",
+      "No interaction exists",
+      "Stop valproate abruptly to avoid rash"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valproate **inhibits** LTG metabolism → **slow, lower-dose titration**. Aggressive titration raises rash risk. There is an interaction. Stopping VPA abruptly is unsafe.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What do **lateralized periodic discharges** typically indicate?",
+    "options": [
+      "Lateralized periodic discharges often indicate an acute focal structural lesion and increased seizure risk",
+      "LPDs are pathognomonic for HSV encephalitis",
+      "LPDs confirm non-epileptic events",
+      "LPDs are benign background rhythms"
+    ],
+    "correctIndex": 2,
+    "explanation": "**LPDs** are associated with **acute focal lesions** (stroke, tumor, encephalitis) and carry **high seizure risk**. They are not pathognomonic for HSV, nor benign.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What is a key principle in managing epilepsy during pregnancy?",
+    "options": [
+      "Use the lowest effective dose, avoid valproate if possible, and use folic acid supplementation",
+      "Switch all women to valproate",
+      "Stop all ASMs during pregnancy",
+      "Dose changes are never needed"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Avoid valproate** when possible; **use lowest effective doses** and **folate**. Stopping ASMs may risk seizures. Doses may require adjustment (e.g., lamotrigine clearance rises).",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 6-month-old presents with irritability, stiffness, regression, peripheral neuropathy. MRI shows demyelination. Diagnosis?",
+    "options": [
+      "Krabbe disease",
+      "Tay-Sachs disease",
+      "Adrenoleukodystrophy",
+      "MELAS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Krabbe is leukodystrophy with galactocerebrosidase deficiency. Tay-Sachs has cherry-red macula. ALD adrenal insufficiency and CNS demyelination. MELAS is mitochondrial with strokes.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 45-year-old woman has ptosis, miosis, anhidrosis. MRI neck shows apical lung mass. Which syndrome?",
+    "options": [
+      "Horner syndrome from sympathetic chain compression",
+      "Optic neuritis",
+      "CN VII palsy",
+      "Third nerve palsy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Horner syndrome = ptosis, miosis, anhidrosis. Apical lung tumor compresses sympathetic chain. 3rd nerve palsy causes ptosis + mydriasis. CN VII palsy causes facial weakness. Optic neuritis vision loss.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 72-year-old woman with jaw claudication, vision loss, ESR 100. What therapy prevents contralateral blindness?",
+    "options": [
+      "Observation",
+      "Low-dose aspirin only",
+      "High-dose IV steroids immediately",
+      "Methotrexate only"
+    ],
+    "correctIndex": 3,
+    "explanation": "GCA requires immediate high-dose IV/PO steroids. ASA is adjunct. MTX for steroid-sparing. Observation dangerous.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A worker exposed to aniline dyes becomes cyanotic with normal PaO2. What treatment is indicated?",
+    "options": [
+      "Naloxone",
+      "High-dose oxygen alone",
+      "IV methylene blue",
+      "Hydroxocobalamin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Methemoglobinemia responds to methylene blue. Oxygen alone is insufficient. Naloxone for opioids. Hydroxocobalamin treats cyanide.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 69-year-old ischemic stroke (non-cardioembolic) with LDL 128 mg/dL and diabetes. What lipid therapy is indicated?",
+    "options": [
+      "Moderate-intensity statin only",
+      "High-intensity statin with goal LDL <70 mg/dL; consider ezetimibe if needed",
+      "PCSK9 inhibitor monotherapy first-line",
+      "No lipid therapy needed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guidelines recommend high-intensity statin post-ischemic stroke; add ezetimibe if LDL remains ≥70. PCSK9 reserved if goals unmet despite statin/ezetimibe.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 5-year-old with ADEM improves on IV methylprednisolone. What is the recommended next step to reduce relapse?",
+    "options": [
+      "Abrupt stop after IV course",
+      "Start interferon-beta",
+      "Prolonged oral steroid taper over weeks",
+      "Begin monthly IVIG for all"
+    ],
+    "correctIndex": 2,
+    "explanation": "A slow oral steroid taper reduces early recurrence; interferon is for MS; IVIG is reserved for refractory/relapsing cases.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 61-year-old with ALS has sialorrhea causing aspiration risk. Which medication is most appropriate?",
+    "options": [
+      "Levodopa",
+      "Glycopyrrolate",
+      "SSRIs",
+      "Carbamazepine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glycopyrrolate reduces secretions without crossing BBB; other anticholinergics or botulinum toxin to salivary glands are options. Levodopa (B) is for PD; SSRIs (C) not for sialorrhea; carbamazepine (D) unrelated.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 33-year-old is found unconscious in a garage with car running; SpO2 is 99% on room air. What therapy is indicated?",
+    "options": [
+      "No treatment needed as SpO2 is normal",
+      "100% oxygen, consider hyperbaric oxygen",
+      "IV methylene blue",
+      "Naloxone"
+    ],
+    "correctIndex": 1,
+    "explanation": "CO poisoning requires high-flow O2; SpO2 can appear normal. Hyperbaric O2 may be indicated. Methylene blue is for methemoglobinemia. Naloxone is for opioids.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old man presents with sudden painless monocular vision loss. Fundus shows cherry-red spot. Best acute therapy?",
+    "options": [
+      "Ocular massage and lowering IOP",
+      "Observation",
+      "IV tPA always",
+      "High-dose steroids"
+    ],
+    "correctIndex": 1,
+    "explanation": "CRAO is an emergency; ocular massage, IOP lowering, consider intra-arterial therapy. Steroids are for GCA. tPA use investigational. Observation inadequate.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 5-year-old with seizures worsened by fasting, CSF glucose low but normal serum glucose. Diagnosis?",
+    "options": [
+      "GLUT1 deficiency",
+      "MELAS",
+      "Pyruvate dehydrogenase deficiency",
+      "Maple syrup urine disease"
+    ],
+    "correctIndex": 0,
+    "explanation": "GLUT1 deficiency causes low CSF glucose with normal serum. Treated with ketogenic diet. MELAS has stroke-like episodes. PDH deficiency different labs. MSUD neonatally.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 72-year-old with cold intolerance, bradycardia, hypothermia, AMS. Dx myxedema coma. Best therapy?",
+    "options": [
+      "Oral levothyroxine",
+      "Prednisone only",
+      "IV levothyroxine ± liothyronine, IV hydrocortisone",
+      "Insulin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Myxedema coma requires IV thyroid hormone and empiric steroids. Oral not adequate. Prednisone only insufficient. Insulin not treatment.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old with cocaine intoxication develops agitation, chest pain, and seizures. Which medication should be avoided?",
+    "options": [
+      "Phentolamine",
+      "Benzodiazepine",
+      "Nitroglycerin",
+      "Beta-blocker"
+    ],
+    "correctIndex": 3,
+    "explanation": "Beta-blockers cause unopposed alpha vasospasm in cocaine tox. Benzos/nitrates/phentolamine are used.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient with refractory vasospasm/DCI after SAH fails induced hypertension and develops focal deficits. Next salvage option at a comprehensive center?",
+    "options": [
+      "Endovascular therapy (balloon angioplasty and/or intra-arterial vasodilators)",
+      "High-dose nimodipine bolus",
+      "Therapeutic hypothermia",
+      "Systemic anticoagulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Endovascular** angioplasty or intra-arterial vasodilators can rescue refractory **DCI**. Nimodipine is preventive and oral; hypothermia/anticoagulation are not indicated.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "On day 7 after aneurysmal SAH (aneurysm secured), a patient develops new aphasia and hemiparesis; TCD velocities are markedly elevated. Best immediate therapy?",
+    "options": [
+      "Induced hypertension to augment cerebral perfusion, while ruling out other causes",
+      "Heparin infusion to dissolve spasm",
+      "High-dose steroids",
+      "Platelet transfusion"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Symptomatic DCI/vasospasm** is treated with **induced hypertension** once the aneurysm is secured. Anticoagulation and steroids are not indicated; platelets are unrelated.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 52-year-old with Guillain–Barré syndrome has labile BP and arrhythmias in the ICU. Which statement is correct?",
+    "options": [
+      "Daily plasmapheresis and IVIG together improve outcomes more than either alone",
+      "Therapeutic anticoagulation is first-line therapy",
+      "High-dose steroids improve outcomes",
+      "Autonomic instability is common and requires continuous cardiac monitoring and careful fluid/pressor management"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Autonomic instability** is a major GBS complication; monitor and manage hemodynamics. Anticoagulation is not disease-modifying; steroids **do not** help; **PLEX and IVIG are equivalent**, not combined routinely.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 9-year-old with Duchenne muscular dystrophy is ambulatory but worsening. Which steroid regimen is evidence-based?",
+    "options": [
+      "Daily or intermittent prednisone/deflazacort",
+      "Chronic IVIG",
+      "Methotrexate",
+      "Levetiracetam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Steroids prolong ambulation in DMD. IVIG not used. Methotrexate is not standard. Levetiracetam is an ASM.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old woman stops fingolimod due to pregnancy plans and presents 6 weeks later with severe rebound MS activity. Which bridge strategy could have reduced this risk?",
+    "options": [
+      "Long washout with no therapy",
+      "High-dose steroids monthly for a year",
+      "Start teriflunomide",
+      "Immediate switch to natalizumab or anti-CD20 therapy prior to washout"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bridging to a high-efficacy agent (e.g., natalizumab/anti‑CD20) minimizes rebound. Long washout (B) risks rebound. Teriflunomide (C) is teratogenic. Routine monthly steroids (D) lack evidence.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient ingests Amanita phalloides mushrooms and develops hepatic failure. Which therapy is most useful?",
+    "options": [
+      "Vitamin K only",
+      "Naloxone",
+      "Activated charcoal only",
+      "IV silibinin (milk thistle extract)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Amanita poisoning responds to silibinin; charcoal can help early, but silibinin is specific therapy. Naloxone irrelevant. Vit K only for coagulopathy adjunct.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 60-year-old with recurrent GBM has steroid-related myopathy. Which agent can reduce edema and steroid dependence?",
+    "options": [
+      "Bevacizumab",
+      "Cyclophosphamide",
+      "Cisplatin",
+      "Temozolomide dose increase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bevacizumab reduces vascular permeability and edema, helping taper steroids. The others are not steroid-sparing for edema.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which semiology is most consistent with **mesial temporal lobe** onset?",
+    "options": [
+      "Rising epigastric sensation, déjà vu, and behavioral arrest with postictal confusion",
+      "Ictal visual flashes and homonymous hemianopia",
+      "Contralateral leg shaking without aura",
+      "Sudden loss of muscle tone without warning"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mesial temporal seizures often start with **viscerosensory aura** (epigastric rising), déjà vu, fear, then impaired awareness and postictal confusion. Visual auras imply occipital. Pure leg motor suggests frontal/anterior parasagittal. Atonic falls fit generalized epilepsies.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which pattern suggests **frontal lobe** seizures?",
+    "options": [
+      "Brief nocturnal hypermotor events, clustering, minimal postictal confusion",
+      "Prolonged staring spells with 3-Hz spike–wave",
+      "Rising epigastric aura with orobuccal automatisms",
+      "Prolonged postictal aphasia typical"
+    ],
+    "correctIndex": 3,
+    "explanation": "Frontal seizures are **brief**, often **nocturnal**, **hypermotor**, with **clusters** and minimal postictal phase. Absence is 3-Hz spike–wave. Mesial temporal gives visceral aura/automatisms. Long postictal aphasia is temporal/dominant.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient presents with pinpoint pupils, respiratory depression, hypotension. Which antidote?",
+    "options": [
+      "Atropine",
+      "Flumazenil",
+      "Epinephrine",
+      "Naloxone"
+    ],
+    "correctIndex": 3,
+    "explanation": "Opioid toxicity reversed with naloxone. Flumazenil for benzos. Atropine for organophosphates. Epinephrine not antidote.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 9-year-old has frequent staring spells; hyperventilation triggers 3-Hz spike–wave on EEG. Best first-line therapy?",
+    "options": [
+      "Ethosuximide",
+      "Carbamazepine",
+      "Vigabatrin",
+      "Phenobarbital first-line"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Ethosuximide** is first-line for typical absence. Carbamazepine can worsen. Vigabatrin is for infantile spasms in TSC. Phenobarbital is not first-line.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old with super-refractory status epilepticus fails midazolam and propofol. Which anesthetic can be added that may preserve blood pressure and provide NMDA antagonism?",
+    "options": [
+      "High-dose phenobarbital first",
+      "Isoflurane inhalation only",
+      "Dexmedetomidine alone",
+      "Ketamine infusion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ketamine provides NMDA blockade and hemodynamic stability; useful in super-refractory SE. Phenobarbital (C) can be used but risks hypotension; dexmedetomidine (D) is not sufficient as sole antiepileptic.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 27-year-old man presents after a first unprovoked generalized tonic–clonic seizure. Exam is normal. What is the most appropriate initial evaluation?",
+    "options": [
+      "Obtain brain MRI with epilepsy protocol and routine EEG within 24–48 hours",
+      "No imaging is needed if the neurological exam is normal",
+      "Head CT alone is sufficient in all cases",
+      "Begin lifelong ASM therapy before any evaluation"
+    ],
+    "correctIndex": 3,
+    "explanation": "**MRI with epilepsy protocol** and **EEG** are recommended after a first unprovoked seizure to stratify recurrence risk. CT alone can miss mesial temporal or cortical dysplasia. Immediate, lifelong ASM without evaluation is not standard.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 46-year-old with MS has severe lower-extremity spasticity interfering with sleep and function despite oral baclofen. Next best option?",
+    "options": [
+      "Donepezil",
+      "Carbamazepine",
+      "High-dose prednisone",
+      "Tizanidine or intrathecal baclofen pump evaluation"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Tizanidine** is an alternative oral antispastic; **intrathecal baclofen** helps refractory cases. Carbamazepine is for neuropathic pain; steroids are for relapses; donepezil is cognitive.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 45-year-old woman develops acute confusion, inattention, and fluctuating alertness during pneumonia admission. EEG shows generalized slowing. Diagnosis?",
+    "options": [
+      "Delirium",
+      "Dementia",
+      "Psychosis",
+      "Conversion disorder"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Delirium** = acute fluctuating disturbance in attention/awareness, often medical. EEG: diffuse slowing. Dementia is chronic. Psychosis is not acute/medical. Conversion = functional neuro deficit.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 60-year-old presents with right ptosis, eye 'down and out' with a dilated pupil, and left-sided hemiparesis. What syndrome best fits?",
+    "options": [
+      "Ipsilateral third nerve palsy with contralateral hemiparesis (Weber syndrome)",
+      "Ipsilateral sixth nerve palsy with contralateral ataxia",
+      "Bilateral abulia",
+      "Ipsilateral facial numbness with contralateral facial weakness"
+    ],
+    "correctIndex": 0,
+    "explanation": "Midbrain basis infarct (Weber) affects CN III fascicles and cerebral peduncle causing ipsilateral CN III palsy and contralateral hemiparesis.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 37-year-old with RRMS on natalizumab for 3 years has JCV antibody index 2.1. What is the major safety concern?",
+    "options": [
+      "Nephrolithiasis",
+      "Tuberculosis reactivation",
+      "Progressive multifocal leukoencephalopathy",
+      "Cardiotoxicity"
+    ],
+    "correctIndex": 2,
+    "explanation": "**PML** risk increases with natalizumab exposure duration and positive JCV serology (high index). TB reactivation is associated with other agents (e.g., anti-TNF).",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 25-year-old alcoholic with refeeding develops weakness and respiratory failure. Serum phosphate 0.7 mg/dL. Which therapy is required?",
+    "options": [
+      "Oral phosphate only",
+      "Fluid restriction",
+      "Calcium supplementation",
+      "IV phosphate replacement"
+    ],
+    "correctIndex": 3,
+    "explanation": "Severe symptomatic hypophosphatemia requires IV replacement. Oral is for mild. Calcium not indicated. Fluid restriction irrelevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient on levetiracetam develops severe irritability. Best next step?",
+    "options": [
+      "Irritability and mood changes may require dose reduction or switching",
+      "Levetiracetam has no neuropsychiatric effects",
+      "Add SSRI and continue indefinitely",
+      "Switch to carbamazepine for generalized epilepsy"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Levetiracetam** can cause behavioral adverse effects; consider **dose reduction or switch**. SSRIs help some but do not fix the cause. Carbamazepine may worsen generalized epilepsies.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,1263 @@
+[
+  {
+    "stem": "A patient from a house fire has lactic acidosis, confusion, soot in airway. Which empiric antidote is best?",
+    "options": [
+      "Hydroxocobalamin",
+      "Methylene blue",
+      "Atropine",
+      "Pralidoxime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hydroxocobalamin is used empirically for suspected cyanide from smoke inhalation. Methylene blue for methemoglobinemia. Atropine/pralidoxime for organophosphates.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 50-year-old found down with rhabdomyolysis has CK 75,000, K 6.8. Which complication is most life-threatening?",
+    "options": [
+      "Anemia",
+      "Hyperkalemia-induced arrhythmia",
+      "Iron overload",
+      "Hypocalcemia neuropathy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rhabdo causes hyperkalemia leading to arrhythmia. Hypocalcemia is common but less lethal acutely.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 45-year-old with cirrhosis presents with confusion, asterixis, and ammonia 140 μmol/L. What is the best initial therapy?",
+    "options": [
+      "Rifaximin only",
+      "Lactulose",
+      "Phenytoin",
+      "Valproate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lactulose is first-line to reduce ammonia. Rifaximin can be added but not alone initially. Valproate can worsen hyperammonemia. Phenytoin is irrelevant.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 19-year-old college student has periods of decreased need for sleep, pressured speech, inflated self-esteem, distractibility, and risky behavior lasting 5 days with marked impairment but no psychosis. Which diagnosis?",
+    "options": [
+      "Manic episode",
+      "Hypomanic episode",
+      "Cyclothymic disorder",
+      "Borderline personality disorder"
+    ],
+    "correctIndex": 1,
+    "explanation": "≥1 week (or any duration if hospitalization) with marked impairment = **mania**. Hypomania = ≥4 days but without marked impairment. Cyclothymia = chronic fluctuating subthreshold episodes. BPD is personality disorder.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 32-year-old with drug-resistant mesial temporal lobe epilepsy (failure of two ASMs) asks about outcomes. What is accurate?",
+    "options": [
+      "Drug-resistant mesial temporal lobe epilepsy has high rates of seizure freedom with anterior temporal lobectomy",
+      "Continue trying monotherapy endlessly",
+      "VNS is first-line cure",
+      "Surgery is contraindicated if MRI shows hippocampal sclerosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Anterior temporal lobectomy** offers the highest chance of seizure freedom in **drug-resistant MTLE**. Prolonging med trials delays effective care. VNS reduces seizures but rarely cures.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old received IV alteplase for AIS. What BP goal is recommended for the first 24 hours?",
+    "options": [
+      "≤140/80 mmHg for all",
+      "≤220/120 mmHg",
+      "≤180/105 mmHg",
+      "No specific target is needed"
+    ],
+    "correctIndex": 0,
+    "explanation": "After IVT, maintain BP **≤180/105** to reduce hemorrhagic transformation risk. Higher thresholds increase risk; overly low BP may impair perfusion.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 41-year-old with ARDS from pneumonia also has severe TBI with ICP 24. On the ventilator he has asynchrony despite deep sedation. Best next step?",
+    "options": [
+      "Consider a short course of neuromuscular blockade with close ICP and oxygenation monitoring",
+      "Permissive hypercapnia without limits",
+      "Avoid NMB entirely in neuro patients",
+      "Increase PEEP to 20 cmH2O without monitoring"
+    ],
+    "correctIndex": 3,
+    "explanation": "Short-term **NMB** can improve synchrony and oxygenation; monitor ICP/CPP. Excessive PEEP or hypercapnia can raise ICP. NMB is not absolutely contraindicated but requires careful monitoring.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 35-year-old has bilateral optic neuritis with good steroid response and longitudinally extensive myelitis; AQP4-IgG is negative and MOG-IgG positive. Which preventive therapy is favored?",
+    "options": [
+      "B-cell–directed therapy such as rituximab",
+      "Glatiramer acetate",
+      "Interferon-beta",
+      "Natalizumab"
+    ],
+    "correctIndex": 2,
+    "explanation": "**MOGAD** tends to respond to **B-cell–depleting therapy**; MS DMTs (interferon, GA, natalizumab) are less effective or inappropriate for MOGAD.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 52-year-old man with primary progressive MS (PPMS) has gradual gait decline. Which therapy has proven benefit?",
+    "options": [
+      "Fingolimod",
+      "Interferon-beta",
+      "Ocrelizumab",
+      "Glatiramer acetate"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Ocrelizumab** is the only FDA-approved therapy for PPMS with demonstrated benefit.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 58-year-old man is comatose after out-of-hospital VF arrest. He underwent targeted temperature management (TTM) to 33°C for 24 hours. At 72 hours after rewarming, exam shows absent pupillary and corneal reflexes; motor no better than extensor posturing. EEG shows unreactive burst suppression with identical bursts; neuron-specific enolase is highly elevated. What is the most accurate statement regarding prognosis?",
+    "options": [
+      "Prognostication should have been done at 6 hours after the arrest",
+      "EEG alone anytime after return of spontaneous circulation is sufficient to predict outcome",
+      "These multimodal findings portend a very high likelihood of poor functional outcome with low false-positive rate when assessed ≥72 h post-rewarming",
+      "The findings fulfill brain-death criteria automatically"
+    ],
+    "correctIndex": 2,
+    "explanation": "Guidelines recommend **delayed, multimodal** prognostication ≥72 h after rewarming; the combination of *absent brainstem reflexes*, *malignant unreactive EEG (burst suppression with identical bursts)*, and *marked biomarker elevation* has a very high specificity for poor outcome. EEG alone is insufficient; early prognostication is unreliable; these findings do **not** equal brain death without meeting formal criteria.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 9-year-old with epilepsy has a home rescue plan. Which intranasal medication is evidence-based for seizure clusters?",
+    "options": [
+      "Lorazepam",
+      "Midazolam",
+      "Clonazepam ODT",
+      "Carbamazepine suspension"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intranasal midazolam is effective and practical. Intranasal lorazepam lacks stable formulation; clonazepam ODT is buccal; carbamazepine is not rescue.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 23-year-old on **perampanel** develops significant aggression. What is the best approach?",
+    "options": [
+      "Aggression/irritability may necessitate dose reduction or discontinuation",
+      "No psychiatric side effects",
+      "Best for absence seizures",
+      "Combine with carbamazepine to reduce behavior effects"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Perampanel** can cause **hostility/aggression**; reducing or discontinuing is appropriate. It is not best for absence; enzyme inducers complicate PK.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 48-year-old with primary CNS lymphoma on a clinical trial receives CAR T cells and develops fever, confusion, and hypotension on day 3, then later aphasia and seizures. Which initial medication best addresses the early syndrome?",
+    "options": [
+      "Tocilizumab",
+      "High-dose dexamethasone as sole first step for all patients",
+      "Broad-spectrum antibiotics only",
+      "Bevacizumab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Early cytokine release syndrome (CRS) after CAR T is treated with IL-6 blockade (tocilizumab); later neurotoxicity (ICANS) often needs steroids. Antibiotics (C) may be needed but do not treat CRS; bevacizumab (D) is unrelated.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 38-year-old with super-refractory status epilepticus has been on high-dose propofol for 72 hours. He develops metabolic acidosis, rhabdomyolysis, renal failure, and bradyarrhythmia. Best management?",
+    "options": [
+      "Stop propofol due to suspected propofol infusion syndrome and switch to an alternative anesthetic",
+      "Increase propofol dose to achieve EEG burst suppression",
+      "Give bicarbonate only and continue propofol",
+      "Stop all sedation immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Propofol infusion syndrome** is life-threatening; **stop propofol** and switch agents (e.g., midazolam/ketamine). Escalating or continuing propofol is dangerous; abrupt cessation of all sedation risks uncontrolled seizures.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 71-year-old on apixaban presents with a large lobar ICH 2 hours after last dose. Optimal hemostatic strategy?",
+    "options": [
+      "No reversal is needed within 4 hours of dosing",
+      "Andexanet alfa (or 4-factor PCC if unavailable) plus BP control",
+      "Idarucizumab",
+      "Vitamin K 10 mg IV"
+    ],
+    "correctIndex": 1,
+    "explanation": "Andexanet reverses factor Xa inhibitors; **4F-PCC** is an alternative if andexanet is unavailable. Vitamin K reverses warfarin, not apixaban; idarucizumab is for dabigatran; doing nothing is unsafe.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 24-year-old overdosed on acetaminophen, AST/ALT 10,000. What is antidote?",
+    "options": [
+      "Hemodialysis only",
+      "Deferoxamine",
+      "EDTA",
+      "N-acetylcysteine"
+    ],
+    "correctIndex": 3,
+    "explanation": "NAC replenishes glutathione and prevents hepatic necrosis. Deferoxamine is for iron. EDTA for lead. Dialysis not primary antidote.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old with acute ischemic stroke arrives at 80 minutes; disabling deficit; no contraindications. CT-angiography shows no LVO. Which thrombolytic choice is reasonable per contemporary data?",
+    "options": [
+      "Alteplase 0.9 mg/kg IV",
+      "Tenecteplase 0.4 mg/kg IV bolus",
+      "Tenecteplase 0.25 mg/kg IV bolus",
+      "No thrombolysis since no LVO"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tenecteplase 0.25 mg/kg has evidence as an alternative to alteplase, with practical bolus dosing; 0.4 mg/kg (C) is associated with worse outcomes. Not giving thrombolysis (D) would miss benefit in eligible non-LVO patients.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What SUDEP counseling point is accurate?",
+    "options": [
+      "Night-time generalized tonic–clonic seizures are a risk; improving seizure control and adherence reduces SUDEP risk",
+      "SUDEP is unrelated to seizure control",
+      "No counseling is needed",
+      "Only status epilepticus matters"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Poorly controlled GTCS**, especially nocturnal, increase SUDEP risk. **Optimizing control, adherence, and supervision** lowers risk.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 58-year-old with CIDP has diabetes and severe tremor with steroids. Which disease-modifying therapy is preferred?",
+    "options": [
+      "Long-term high-dose prednisone",
+      "Cyclosporine first-line",
+      "IVIG or subcutaneous immunoglobulin maintenance",
+      "No immunotherapy needed"
+    ],
+    "correctIndex": 2,
+    "explanation": "IVIG or SCIg are effective and avoid steroid complications. Cyclosporine (C) is not first-line. With progressive disability, immunotherapy is needed.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which distinction between MERRF and MELAS is most accurate?",
+    "options": [
+      "MERRF presents with myoclonic epilepsy and ragged-red fibers; stroke-like episodes are characteristic of MELAS",
+      "MERRF is caused by NOTCH3 mutations",
+      "MELAS is X-linked",
+      "Both strictly obey vascular territories on MRI"
+    ],
+    "correctIndex": 0,
+    "explanation": "MERRF (myoclonic epilepsy with ragged-red fibers) features myoclonus and myopathy; MELAS has stroke-like episodes. Neither follows vascular territories. CADASIL is NOTCH3.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 32-year-old with typical optic neuritis seeks faster recovery. Which regimen is recommended?",
+    "options": [
+      "IV methylprednisolone 1 g/day for 3 days followed by oral taper",
+      "Oral prednisone alone 1 mg/kg for 14 days",
+      "No steroids ever",
+      "Plasmapheresis first-line for all"
+    ],
+    "correctIndex": 0,
+    "explanation": "IV steroids speed visual recovery; oral prednisone alone increases relapse risk (ONTT). PLEX is second-line for steroid-refractory severe cases.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 1-year-old girl has SMA type 1. Which therapy provides gene replacement of SMN1?",
+    "options": [
+      "Onasemnogene abeparvovec",
+      "Nusinersen",
+      "Valproate",
+      "Corticosteroids"
+    ],
+    "correctIndex": 1,
+    "explanation": "Onasemnogene abeparvovec is AAV9-based gene therapy delivering SMN1. Nusinersen modifies SMN2 splicing. Valproate and steroids are not disease-modifying.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 45-year-old woman on ocrelizumab asks about vaccine timing. What is the best guidance?",
+    "options": [
+      "No vaccine response occurs; avoid all vaccines",
+      "Live vaccines are safe anytime on ocrelizumab",
+      "Administer vaccines (especially live vaccines) at least several weeks before the next infusion; avoid live vaccines during B-cell depletion",
+      "Give vaccines immediately after infusion for best effect"
+    ],
+    "correctIndex": 0,
+    "explanation": "**B-cell–depleting therapy** blunts vaccine responses; administer vaccines **before** infusion when possible; **avoid live vaccines** during treatment.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old woman with painful monocular vision loss and an afferent pupillary defect is diagnosed with typical optic neuritis. What therapy speeds visual recovery?",
+    "options": [
+      "No steroid therapy improves recovery",
+      "Oral prednisone alone for 2 weeks",
+      "IV methylprednisolone for 3 days followed by oral taper",
+      "Plasma exchange first-line for all"
+    ],
+    "correctIndex": 2,
+    "explanation": "**IV steroids** speed recovery (ONTT). **Oral prednisone alone** increases relapse risk. PLEX is for steroid-refractory severe cases.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 12-year-old boy has intellectual disability, long face, large ears, macroorchidism. Diagnosis?",
+    "options": [
+      "Rett syndrome",
+      "Klinefelter syndrome",
+      "Fragile X syndrome",
+      "Angelman syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fragile X is X-linked with intellectual disability, long face, large ears, macroorchidism. Klinefelter is XXY. Angelman has ataxia/happy affect. Rett in girls with regression.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "What is best practice after confirming PNES on video-EEG?",
+    "options": [
+      "Deliver diagnosis empathetically, explain the mechanism, and offer CBT referral; taper unnecessary ASMs",
+      "Confront the patient and discharge without follow-up",
+      "Continue escalating ASMs",
+      "Advise there is no treatment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use **empathetic communication**, validate symptoms, explain **functional** mechanism, and **refer for CBT**. Deprescribe unnecessary ASMs.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 36-year-old with RRMS has disabling fatigue despite sleep optimization. Which medication has evidence for MS-related fatigue?",
+    "options": [
+      "Carbidopa/levodopa",
+      "Teriflunomide",
+      "High-dose benzodiazepines",
+      "Amantadine or modafinil"
+    ],
+    "correctIndex": 0,
+    "explanation": "**Amantadine** or **modafinil** may help MS fatigue. Dopaminergic therapy is for PD; benzodiazepines worsen fatigue; teriflunomide is disease-modifying, not symptomatic.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 35-year-old on phenytoin presents with nystagmus, ataxia, slurred speech. Serum level 40 mcg/mL. Best management?",
+    "options": [
+      "Hemodialysis",
+      "Administer naloxone",
+      "Give flumazenil",
+      "Stop phenytoin and supportive care"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phenytoin toxicity is managed supportively; dialysis is ineffective. Flumazenil for benzos; naloxone for opioids.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 22-year-old on valproate develops confusion, elevated ammonia, normal LFTs. Best treatment?",
+    "options": [
+      "L-carnitine",
+      "Stop valproate but no antidote",
+      "Hemodialysis only",
+      "Prednisone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Valproate can cause hyperammonemia; L-carnitine is helpful. Stopping valproate (B) is insufficient alone. Dialysis rarely needed. Prednisone not useful.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 35-year-old with thyrotoxicosis develops fever, agitation, arrhythmia. Which initial therapy is essential?",
+    "options": [
+      "Calcium",
+      "Levothyroxine",
+      "Beta-blocker, thionamide, iodine, steroids",
+      "Prednisone alone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thyroid storm managed with propranolol, PTU/methimazole, iodine, steroids. Levothyroxine is for hypothyroidism. Calcium not specific.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient on SSRI + linezolid develops hyperreflexia, clonus, hyperthermia. How to differentiate from NMS?",
+    "options": [
+      "Serotonin syndrome has hyperreflexia/clonus; NMS has rigidity/bradyreflexia",
+      "Serotonin syndrome is slower onset",
+      "NMS has myoclonus",
+      "Serotonin syndrome has bradykinesia"
+    ],
+    "correctIndex": 0,
+    "explanation": "SS shows clonus, hyperreflexia, rapid onset. NMS slower onset, rigidity, hyporeflexia.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 30-year-old with papilledema develops transient visual obscurations when standing up. What is the mechanism?",
+    "options": [
+      "Acute glaucoma",
+      "Transient optic nerve head ischemia from raised ICP",
+      "Retinal detachment",
+      "Optic neuritis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Transient visual obscurations occur in papilledema due to raised ICP causing transient ischemia. Retinal detachment causes persistent loss. Glaucoma causes pain/halos. Optic neuritis causes persistent painful vision loss.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 2-year-old girl has prolonged febrile seizures, later multiple seizure types, and SCN1A mutation. Diagnosis?",
+    "options": [
+      "Doose syndrome",
+      "West syndrome",
+      "Lennox-Gastaut",
+      "Dravet syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dravet begins in infancy with prolonged febrile seizures and later multiple seizure types, associated with SCN1A mutations. West has spasms. LGS has multiple seizure types later. Doose presents with myoclonic-astatic seizures.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 7-year-old has nocturnal focal facial twitching and drooling; EEG shows high-amplitude centrotemporal spikes. Most likely syndrome?",
+    "options": [
+      "Rolandic spikes maximal at C5/C6 (centrotemporal), nocturnal focal motor seizures with orofacial involvement",
+      "Occipital spikes with visual auras",
+      "Hypsarrhythmia with spasms",
+      "Generalized polyspike–wave with myoclonus on awakening"
+    ],
+    "correctIndex": 2,
+    "explanation": "Self-limited epilepsy with centrotemporal spikes (formerly BECTS/SeLECTS). Occipital spikes fit Panayiotopoulos/occipital epilepsies. Hypsarrhythmia is IS. JME features polyspike–wave.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which adverse effect profile fits **topiramate**?",
+    "options": [
+      "Word-finding difficulty, paresthesias, weight loss, and risk of kidney stones",
+      "Weight gain and hyponatremia",
+      "No cognitive side effects",
+      "Hyperammonemia always"
+    ],
+    "correctIndex": 3,
+    "explanation": "**Cognitive slowing**, paresthesias, weight loss, and **nephrolithiasis** risk are typical. Weight gain/hyponatremia fit other ASMs. Hyperammonemia is valproate-related.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 7-month-old with clusters of flexor spasms and hypsarrhythmia. Best initial therapy?",
+    "options": [
+      "ACTH or high-dose prednisolone; vigabatrin if TSC",
+      "Lamotrigine first-line",
+      "Carbamazepine first-line",
+      "Topiramate is curative"
+    ],
+    "correctIndex": 0,
+    "explanation": "**ACTH/high-dose steroids** are first-line; **vigabatrin** for TSC. Lamotrigine, carbamazepine, topiramate are not first-line curative.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 17-year-old with morning myoclonic jerks and generalized tonic–clonic seizures; EEG shows generalized polyspike–wave. Best ASM?",
+    "options": [
+      "Valproate (or alternatives like levetiracetam, lamotrigine if valproate contraindicated)",
+      "Carbamazepine",
+      "Phenytoin",
+      "Tiagabine"
+    ],
+    "correctIndex": 0,
+    "explanation": "**JME** responds to **valproate**; LEV or LTG are alternatives. Carbamazepine/phenytoin/tiagabine can **worsen** generalized epilepsies.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old obese woman with headaches and papilledema has LP OP 34. Best initial treatment?",
+    "options": [
+      "Acetazolamide",
+      "Shunt immediately",
+      "Prednisone",
+      "Topiramate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acetazolamide reduces CSF production. Topiramate can help but acetazolamide is standard. Steroids not first-line. Shunt reserved for refractory.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 10-month-old without TSC has epileptic spasms. Which first-line therapy is most effective?",
+    "options": [
+      "Vigabatrin",
+      "Carbamazepine",
+      "Lamotrigine",
+      "ACTH or high-dose oral prednisolone"
+    ],
+    "correctIndex": 3,
+    "explanation": "For non-TSC infantile spasms, steroids are first-line. Vigabatrin is first-line for TSC. Carbamazepine can worsen.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 62-year-old has embolic stroke of undetermined source (ESUS) after thorough workup. Which antithrombotic is recommended?",
+    "options": [
+      "Aspirin monotherapy",
+      "Dual antiplatelet for life",
+      "Warfarin",
+      "DOAC empirically for all ESUS"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trials (e.g., NAVIGATE‑ESUS, RE‑SPECT ESUS) did not show DOAC superiority over aspirin; aspirin remains standard pending a detected cardioembolic source.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which statement regarding fosphenytoin vs phenytoin is true?",
+    "options": [
+      "Fosphenytoin can be administered faster IV/IM with fewer infusion-site reactions than phenytoin",
+      "Phenytoin is water-soluble and painless IV",
+      "Fosphenytoin causes purple glove syndrome frequently",
+      "Phenytoin has no arrhythmia risk"
+    ],
+    "correctIndex": 0,
+    "explanation": "**Fosphenytoin** allows **faster IV/IM** administration with fewer local reactions. Phenytoin is not water-soluble, can cause **purple glove**, and both carry arrhythmia risk with rapid infusion.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 2-year-old with seizures, hypomelanotic macules, and cortical tubers. Which tumor is commonly associated?",
+    "options": [
+      "Subependymal giant cell astrocytoma",
+      "Optic glioma",
+      "Medulloblastoma",
+      "Ependymoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "TSC associated with SEGAs. Optic glioma with NF1. Medulloblastoma sporadic. Ependymoma not specific.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 62-year-old with acute CN III palsy and pupillary involvement. What is most concerning cause?",
+    "options": [
+      "Myasthenia gravis",
+      "Posterior communicating artery aneurysm",
+      "Diabetic ischemic neuropathy",
+      "Internuclear ophthalmoplegia"
+    ],
+    "correctIndex": 0,
+    "explanation": "CN III palsy with pupil involvement suggests compressive lesion like PCom aneurysm. Diabetic palsy usually spares pupil. MG causes fluctuating ptosis. INO is due to MLF lesion.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 22-year-old woman with MS has impaired adduction of right eye with left nystagmus on left gaze. Diagnosis?",
+    "options": [
+      "Right internuclear ophthalmoplegia",
+      "CN III palsy",
+      "One-and-a-half syndrome",
+      "Horner syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "INO from MLF lesion causes impaired adduction with contralateral abducting nystagmus. CN III palsy has ptosis and mydriasis. Horner different. One-and-a-half is more severe lesion.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old with AF on digoxin presents with nausea, xanthopsia, bradyarrhythmia. Digoxin level is high. Which antidote?",
+    "options": [
+      "Beta-blocker",
+      "Calcium gluconate",
+      "Digoxin-specific Fab fragments",
+      "Dialysis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Digoxin toxicity is treated with Fab fragments. Calcium can worsen arrhythmia. Beta-blocker worsens bradycardia. Dialysis is ineffective.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 61-year-old with Lambert-Eaton myasthenic syndrome has negative CT chest. Best next step to evaluate for malignancy?",
+    "options": [
+      "Brain MRI only",
+      "No further workup",
+      "Colonoscopy only",
+      "FDG-PET/CT and repeat imaging at intervals"
+    ],
+    "correctIndex": 3,
+    "explanation": "LEMS is often paraneoplastic (SCLC); FDG-PET improves detection. Ongoing surveillance is recommended even if initial imaging is negative.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient exposed to mercury vapor has tremor, neuropsychiatric symptoms, and gingivitis. Which chelator is indicated?",
+    "options": [
+      "Deferoxamine",
+      "Dimercaprol (BAL) or succimer (DMSA)",
+      "EDTA",
+      "Atropine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mercury poisoning treated with BAL or DMSA. EDTA is less effective. Deferoxamine is for iron. Atropine not indicated.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 6-year-old develops acute encephalopathy and liver failure after aspirin for viral illness. What is the diagnosis?",
+    "options": [
+      "MELAS",
+      "Reye syndrome",
+      "Wilson disease",
+      "Maple syrup urine disease"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reye syndrome is acute encephalopathy and hepatic failure linked to aspirin in children. Wilson disease and metabolic disorders present differently.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 49-year-old with myasthenic crisis is intubated. Which ventilator strategy is preferred initially?",
+    "options": [
+      "Zero PEEP to avoid intracranial hypertension",
+      "High tidal volumes (10–12 mL/kg) to prevent atelectasis",
+      "Low tidal volumes with appropriate PEEP; avoid excessive sedation and monitor for atelectasis",
+      "Immediate extubation to noninvasive ventilation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use **lung-protective** settings; maintain moderate PEEP and monitor secretion burden. High tidal volumes injure lungs; zero PEEP worsens atelectasis; extubation is premature.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 34-year-old with highly active RRMS is starting cladribine. Which pre-treatment measure is essential?",
+    "options": [
+      "Live vaccines during therapy",
+      "Start interferon-beta concurrently",
+      "No lab monitoring is needed",
+      "Screen for latent infections (e.g., varicella, hepatitis) and ensure contraception"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cladribine causes lymphodepletion; screen for infections and avoid live vaccines during/soon after treatment; reliable contraception required. Interferon is not co-administered.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 30-year-old with RRMS reports electric shocks down the spine with neck flexion. What is the localization of this sign?",
+    "options": [
+      "Cauda equina inflammation",
+      "Peripheral neuropathy",
+      "Basal ganglia lesion",
+      "Cervical dorsal column demyelination"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Lhermitte sign** reflects **cervical posterior column** involvement. The other localizations are inconsistent.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 68-year-old with TIA and 75% ipsilateral carotid stenosis is optimized medically. What timing for carotid endarterectomy reduces recurrent stroke risk most?",
+    "options": [
+      "No surgical therapy",
+      "Delay 3 months",
+      "Only if asymptomatic",
+      "Within 2 weeks of the index event"
+    ],
+    "correctIndex": 3,
+    "explanation": "CEA within 2 weeks provides maximal benefit in symptomatic high-grade stenosis. Delays reduce benefit.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old woman with a severe MS relapse has minimal improvement after 5 days of IV methylprednisolone. Next best step?",
+    "options": [
+      "Natalizumab infusion",
+      "Cyclophosphamide immediately",
+      "Observation for several weeks",
+      "Plasma exchange"
+    ],
+    "correctIndex": 0,
+    "explanation": "**PLEX** is recommended for **steroid-refractory** severe demyelinating attacks. The others are not first-line for acute rescue.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 5-year-old with refractory epilepsy not controlled on 3 ASMs. Next dietary therapy?",
+    "options": [
+      "High-protein diet",
+      "Gluten-free diet",
+      "No dietary therapy works",
+      "Ketogenic diet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ketogenic diet is effective for refractory epilepsy in children. Gluten-free only if celiac. High-protein not established.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 35-year-old presents with vision loss, headache, and high anion gap metabolic acidosis after ingesting windshield fluid. Which specific therapy is indicated?",
+    "options": [
+      "Atropine",
+      "Thiamine",
+      "Fomepizole",
+      "Naloxone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Methanol poisoning is treated with fomepizole ± dialysis. Thiamine is for Wernicke. Atropine for organophosphates. Naloxone for opioids.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A malnourished patient develops dermatitis, diarrhea, and dementia. Which deficiency?",
+    "options": [
+      "Thiamine (B1)",
+      "Niacin (B3)",
+      "Riboflavin (B2)",
+      "Vitamin C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pellagra (3D’s) due to niacin deficiency. B1 deficiency causes Wernicke. B2 deficiency causes cheilosis. Vit C causes scurvy.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 48-year-old has generalized seizures 12 hours after alcohol cessation. Best management?",
+    "options": [
+      "Treat with benzodiazepines; phenytoin is ineffective for withdrawal seizures",
+      "Start chronic ASM indefinitely",
+      "Use antipsychotics only",
+      "No therapy is required"
+    ],
+    "correctIndex": 2,
+    "explanation": "**Benzodiazepines** treat alcohol withdrawal; chronic ASM is not indicated unless underlying epilepsy. Antipsychotics do not prevent withdrawal seizures.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old remains confused after convulsions stop; movements cease but he is unresponsive. What is required to diagnose ongoing NCSE?",
+    "options": [
+      "Continuous EEG is essential to diagnose nonconvulsive status in persistently altered patients",
+      "Serum prolactin reliably detects NCSE",
+      "Routine EEG is unnecessary",
+      "NCSE presents only with myoclonus"
+    ],
+    "correctIndex": 1,
+    "explanation": "**Continuous EEG** is needed to detect NCSE. Prolactin is not diagnostic. Routine EEG may miss intermittent seizures. NCSE often has no motor signs.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 64-year-old with diabetes develops slurred speech and clumsy right hand without aphasia or sensory loss. Which mechanism/localization is most likely?",
+    "options": [
+      "Lacunar infarct of the genu of internal capsule or basis pontis",
+      "Inferior division MCA cortical infarct",
+      "Lateral medullary infarct",
+      "Cervical radiculopathy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dysarthria–clumsy hand is a lacunar syndrome from a small deep lesion (genu internal capsule/basis pontis) affecting corticobulbar and corticospinal fibers. Inferior division MCA lesions cause aphasia/hemianopia; lateral medullary infarcts cause vertigo/dysphagia; radiculopathy is peripheral.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A sudden onset of vertigo, ipsilateral facial paralysis, hyperacusis with reduced lacrimation/salivation, and ipsilateral hearing loss localizes to which vascular territory/syndrome?",
+    "options": [
+      "Ipsilateral facial paralysis, decreased lacrimation/salivation, loss of taste anterior 2/3 tongue, and hearing loss",
+      "Dysphagia and hoarseness with nucleus ambiguus involvement",
+      "Vertical gaze palsy and Parinaud syndrome",
+      "Aphasia and gaze deviation to lesion"
+    ],
+    "correctIndex": 3,
+    "explanation": "AICA lateral pontine syndrome affects CN VII nucleus/fibers (facial paralysis, lacrimation/salivation/taste) and CN VIII (hearing). Nucleus ambiguus is lateral medullary; Parinaud is dorsal midbrain; aphasia/gaze deviation is MCA cortex.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 72-year-old with amaurosis fugax and 75% ipsilateral ICA stenosis is otherwise a good surgical candidate. What timing optimizes benefit?",
+    "options": [
+      "Carotid endarterectomy within 14 days of TIA/minor stroke in suitable surgical candidates",
+      "Delay revascularization for 3 months to allow plaque stabilization",
+      "Carotid stenting in all octogenarians",
+      "Medical therapy only is always superior"
+    ],
+    "correctIndex": 2,
+    "explanation": "CEA within 2 weeks of symptoms offers maximal stroke reduction in appropriate candidates; long delays reduce benefit.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient has vertigo, nystagmus, dysphagia, hoarseness, ipsilateral facial pain/temp loss and contralateral body pain/temp loss after vertebral artery occlusion. Which constellation best describes the syndrome?",
+    "options": [
+      "Ipsilateral facial pain/temperature loss with contralateral body pain/temperature loss, dysphagia, hoarseness, ipsilateral Horner syndrome",
+      "Contralateral facial weakness with aphasia",
+      "Bilateral cortical blindness",
+      "Pure motor hemiplegia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lateral medullary (Wallenberg) syndrome produces crossed sensory findings, nucleus ambiguus involvement (hoarseness/dysphagia), vestibulocerebellar signs, and ipsilateral Horner. Aphasia is cortical; cortical blindness is PCA; pure motor suggests lacune.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 37-year-old with accidental CO exposure improves initially but 3 weeks later develops cognitive decline and parkinsonism. Which statement is correct?",
+    "options": [
+      "Carbon monoxide poisoning can cause bilateral globus pallidus injury and delayed leukoencephalopathy presenting with cognitive/neurologic decline days later",
+      "CO poisoning primarily injures the cerebellar vermis only",
+      "Methemoglobinemia is the dominant mechanism",
+      "MRI is always normal"
+    ],
+    "correctIndex": 1,
+    "explanation": "CO poisoning often injures the globus pallidus and can lead to delayed post-hypoxic leukoencephalopathy with subacute deterioration. Methemoglobinemia is a different entity; MRI often shows white-matter changes.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 7-year-old develops intractable focal seizures, hemiparesis, and progressive cognitive decline. MRI: unilateral cortical atrophy. Diagnosis?",
+    "options": [
+      "Landau-Kleffner",
+      "Lennox-Gastaut",
+      "Dravet syndrome",
+      "Rasmussen encephalitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rasmussen encephalitis is a progressive autoimmune focal epilepsy. LGS has multiple seizure types. LKS has language regression. Dravet presents earlier with febrile seizures.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 45-year-old presents with thunderclap headaches after exertion. CTA shows multifocal segmental narrowing that normalizes on repeat imaging at 8 weeks; CSF is normal. What is the most likely diagnosis?",
+    "options": [
+      "Recurrent thunderclap headaches with segmental vasoconstriction on angiography that resolves in weeks (RCVS)",
+      "Chronic progressive headaches with CSF pleocytosis and persistent angiographic beading (PACNS)",
+      "Migraine with aura only",
+      "Idiopathic intracranial hypertension"
+    ],
+    "correctIndex": 1,
+    "explanation": "RCVS presents with recurrent thunderclap headaches and reversible segmental vasoconstriction; PACNS has inflammatory CSF and persistent arteriopathy.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 5-year-old with intellectual disability, tonic seizures, drop attacks, EEG slow spike-wave. Which syndrome?",
+    "options": [
+      "Lennox-Gastaut",
+      "Dravet",
+      "West syndrome",
+      "Rasmussen encephalitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "LGS has multiple seizure types, drop attacks, slow spike-wave. West is spasms with hypsarrhythmia in infancy. Dravet onset in infancy with prolonged seizures. Rasmussen is focal progressive.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 34-year-old after minor neck trauma develops unilateral neck pain, partial ptosis/miosis, and transient aphasia. Which mechanism best fits?",
+    "options": [
+      "Ipsilateral neck pain/headache with partial Horner syndrome and anterior circulation ischemia in a young adult",
+      "Thunderclap headache with normal neuro exam",
+      "Progressive bilateral leg weakness and abulia",
+      "Ataxia with hearing loss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carotid artery dissection presents with neck pain, partial Horner, and anterior circulation ischemia in younger patients.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 67-year-old with hypotension during surgery develops acute paraplegia; exam shows loss of pinprick and temperature below T8 with preserved vibration/position sense. Which vascular syndrome?",
+    "options": [
+      "Acute flaccid paraplegia with pain/temperature loss below the lesion and preserved dorsal column function",
+      "Bilateral vibration/proprioception loss with preserved pain/temperature",
+      "Brown-Séquard hemicord syndrome",
+      "Subacute combined degeneration from B12 deficiency"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anterior spinal artery infarct affects anterior two-thirds of cord (corticospinal + spinothalamic) sparing dorsal columns.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 35-year-old with carotid artery dissection causing TIA asks about antithrombotic therapy. What is most accurate?",
+    "options": [
+      "Either antiplatelet or anticoagulation is reasonable for 3–6 months with similar outcomes in many studies",
+      "Lifelong dual antiplatelet therapy is standard",
+      "No therapy is required",
+      "Immediate carotid endarterectomy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trials/registries suggest comparable outcomes with antiplatelet vs anticoagulation for several months; choice individualized. Long-term DAPT is not standard; surgery is rarely indicated.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 56-year-old experiences presyncope and ataxia only when turning his head far to the left; Doppler during rotation shows vertebral flow cessation. What is the diagnosis?",
+    "options": [
+      "Rotational vertebral artery occlusion causing vertebrobasilar ischemic symptoms when the head turns",
+      "Subclavian steal syndrome from proximal subclavian stenosis",
+      "Carotid sinus hypersensitivity",
+      "RCVS"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bow Hunter’s syndrome is dynamic occlusion of the vertebral artery with head rotation, causing vertebrobasilar symptoms.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient with vertebral/ASA infarction has contralateral hemiparesis, contralateral position/vibration loss, and tongue deviates toward the lesion. What is the classic brainstem syndrome?",
+    "options": [
+      "Contralateral hemiparesis, contralateral loss of vibration/proprioception, and ipsilateral tongue weakness",
+      "Ipsilateral facial paralysis and taste loss",
+      "Vertical diplopia with internuclear ophthalmoplegia",
+      "Hemineglect with homonymous hemianopia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Medial medullary (Dejerine) syndrome from ASA/vertebral infarct involves pyramid, medial lemniscus, and hypoglossal nucleus/nerve. Other choices localize elsewhere.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 67-year-old with a high-risk TIA (ABCD2=6) presents within 12 hours; imaging shows no hemorrhage. Which antithrombotic strategy reduces early recurrence?",
+    "options": [
+      "Short-course dual antiplatelet therapy (aspirin + clopidogrel) started early for ~21 days",
+      "Aspirin monotherapy only from day 1",
+      "Warfarin for all non-cardioembolic TIAs",
+      "Lifelong DAPT for all"
+    ],
+    "correctIndex": 3,
+    "explanation": "Short-term DAPT reduces early recurrence after minor stroke/high-risk TIA when started early; lifelong DAPT increases bleeding; warfarin is for cardioembolic sources.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old presents with sudden painless monocular blindness; fundus shows a cherry-red spot. What immediate steps are appropriate?",
+    "options": [
+      "Immediate ocular massage, IOP-lowering measures, and emergent stroke workup; consider intra-arterial therapy in centers",
+      "Start steroids for presumed arteritis in all",
+      "Observe and re-evaluate in 1 week",
+      "Heparin infusion for 7 days in all cases"
+    ],
+    "correctIndex": 0,
+    "explanation": "CRAO is a stroke equivalent; urgent ocular massage/IOP lowering may help and a full stroke workup is indicated. Steroids only if GCA; observation alone misses the therapeutic window.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 9-year-old with sickle cell disease presents with acute hemiparesis; MRI confirms an MCA infarct. What is the recommended acute and preventive strategy?",
+    "options": [
+      "Urgent exchange transfusion acutely and chronic transfusions for secondary prevention",
+      "Immediate IV tPA is standard in all children",
+      "Aspirin monotherapy suffices",
+      "Warfarin lifelong is first-line"
+    ],
+    "correctIndex": 3,
+    "explanation": "Exchange transfusion improves oxygen delivery and reduces sickling; chronic transfusion programs reduce recurrence. Evidence for tPA in children with SCD is limited; aspirin alone is inadequate; warfarin is not first-line.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 69-year-old has sudden left homonymous hemianopia; language intact but severe difficulty reading with preserved writing. Which vascular syndrome?",
+    "options": [
+      "Contralateral homonymous hemianopia ± macular sparing; in dominant splenial lesions: alexia without agraphia",
+      "Broca aphasia with right hemiparesis",
+      "Pure motor hemiparesis",
+      "Ipsilateral limb ataxia only"
+    ],
+    "correctIndex": 1,
+    "explanation": "PCA territory infarct (occipital cortex/splenium) can cause homonymous hemianopia; dominant splenial lesions cause alexia without agraphia.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A right-handed 58-year-old develops nonfluent speech with good comprehension, plus face/arm > leg weakness on the right. Which cortical vascular syndrome explains this?",
+    "options": [
+      "Contralateral face/arm weakness and expressive (Broca) aphasia with intact comprehension of simple commands",
+      "Contralateral homonymous hemianopia with alexia without agraphia",
+      "Contralateral leg weakness predominating with abulia",
+      "Ipsilateral ataxia without weakness"
+    ],
+    "correctIndex": 1,
+    "explanation": "Left (dominant) superior division MCA strokes involve Broca's area and precentral gyrus (face/arm weakness). Alexia without agraphia is PCA splenium; ACA lesions cause leg weakness/abulia.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old postpartum woman has severe headache, papilledema, and seizures; MRV shows superior sagittal sinus thrombosis with small hemorrhagic venous infarcts. Best initial management?",
+    "options": [
+      "Therapeutic anticoagulation with heparin/LMWH even if small hemorrhagic venous infarcts are present",
+      "Immediate decompressive craniectomy only",
+      "tPA systemic thrombolysis",
+      "Aspirin monotherapy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anticoagulation is indicated in CVST despite small hemorrhagic venous infarcts; it prevents extension and improves outcomes. Surgery is for malignant edema; aspirin alone is inadequate.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 29-year-old develops occipital pain, vertigo, diplopia, and ataxia after chiropractic manipulation. What mechanism is most likely?",
+    "options": [
+      "Posterior circulation symptoms (vertigo, diplopia, ataxia) after neck rotation with occipital pain",
+      "Pure motor hemiparesis without sensory signs",
+      "Broca aphasia",
+      "Gradual apathy and incontinence"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vertebral artery dissection causes posterior circulation ischemia symptoms after neck rotation/trauma.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 59-year-old with large PICA cerebellar infarct develops decreased arousal, cranial nerve deficits, and obstructive hydrocephalus. What is the most appropriate management?",
+    "options": [
+      "Urgent neurosurgical decompression (suboccipital craniectomy) when there is brainstem compression or hydrocephalus",
+      "High-dose steroids reduce cytotoxic edema and are standard",
+      "Anticoagulation immediately",
+      "No intervention; observe for 72 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Large cerebellar infarcts causing brainstem compression/hydrocephalus warrant surgical decompression ± ventricular drainage. Steroids do not help cytotoxic edema; observation risks herniation.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient received IV thrombolysis for AIS. What blood pressure target is recommended for the first 24 hours?",
+    "options": [
+      "Maintain BP ≤180/105 mmHg for 24 hours after IV thrombolysis",
+      "Allow SBP up to 220 mmHg after IVT",
+      "Target ≤120/70 mmHg",
+      "No BP monitoring is necessary"
+    ],
+    "correctIndex": 3,
+    "explanation": "Post-thrombolysis BP should be maintained ≤180/105 to limit hemorrhagic transformation risk.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 9-year-old has recurrent transient weakness and speech arrest; MRA shows bilateral distal ICA narrowing with basal collateral networks. What disease is this and what general strategy helps?",
+    "options": [
+      "Steno-occlusion of distal ICA with basal collateral 'puff of smoke' and ischemic TIAs in children or hemorrhage in adults; treat with revascularization",
+      "Carotid dissection with subintimal hematoma",
+      "Vasospasm after SAH only",
+      "Calcific emboli from aortic arch"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moyamoya disease features distal ICA stenosis with collateral 'puff of smoke'; surgical revascularization (direct/indirect) reduces ischemic events.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 72-year-old with spontaneous ICH presents with SBP 196 mmHg. What BP goal strategy is supported by evidence?",
+    "options": [
+      "Early intensive BP lowering to systolic ~140 mmHg is reasonable to reduce hematoma expansion",
+      "Aim systolic ≤220 mmHg",
+      "BP management is not necessary",
+      "Lower to ≤100 mmHg for maximal protection"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trials support early BP lowering to ~140 mmHg to limit expansion; excessive lowering risks hypoperfusion; permissive severe hypertension is harmful.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 62-year-old has fluent but nonsensical speech, poor comprehension, and right upper quadrantanopia. Which syndrome fits?",
+    "options": [
+      "Fluent aphasia with impaired comprehension and right superior quadrantanopia",
+      "Nonfluent aphasia with agraphia but intact comprehension",
+      "Pure motor hemiparesis",
+      "Ipsilateral facial paralysis and hearing loss"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inferior division MCA (Wernicke) involves posterior superior temporal gyrus and Meyer loop. Nonfluent aphasia is superior division; pure motor is lacunar; facial paralysis/hearing loss implies AICA.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 66-year-old with long-standing hypertension develops sudden pure right-sided face–arm–leg weakness without aphasia or cortical signs. CT head is negative; MRI shows a small DWI lesion deep in the left hemisphere. Most likely lesion?",
+    "options": [
+      "Lacunar infarct of the posterior limb of the internal capsule due to lipohyalinosis",
+      "Cortical MCA infarct of precentral gyrus with aphasia",
+      "Lateral medullary infarct from PICA occlusion",
+      "Pontine tegmental hemorrhage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pure motor hemiparesis without cortical deficits localizes to the corticospinal tract in the internal capsule basis; lacunar infarcts are usually due to lipohyalinosis of penetrating arteries. Cortical MCA strokes commonly add aphasia/neglect; lateral medullary infarcts cause crossed brainstem signs; pontine hemorrhage causes coma or gaze palsies.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 19-year-old with short stature and hearing loss develops recurrent 'stroke-like' episodes involving temporo-occipital cortex that do not respect arterial territories; lactate is elevated. Which statement is correct?",
+    "options": [
+      "Mitochondrial stroke-like episodes not respecting vascular territories, with lactic acidosis; treat acutely with seizure control and consider arginine",
+      "PCA territorial infarct with homonymous hemianopia",
+      "RCVS from catecholamine surge",
+      "CADASIL small-vessel stroke"
+    ],
+    "correctIndex": 1,
+    "explanation": "MELAS produces stroke-like lesions that cross vascular boundaries; management focuses on seizures, metabolic support (e.g., arginine/citrulline in some protocols), and genetics.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient with anterograde amnesia after thiamine deficiency most likely has damage in:",
+    "options": [
+      "Mammillary bodies",
+      "Cerebellum",
+      "Basal ganglia",
+      "Frontal pole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Korsakoff syndrome damages mammillary bodies, medial thalamus.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 61-year-old presents 14 hours after last known well with aphasia and hemiplegia; perfusion imaging shows small core with large penumbra and left ICA terminus occlusion. What is the best strategy?",
+    "options": [
+      "Endovascular thrombectomy up to 24 hours in selected patients with small core/large mismatch on CTP/MR perfusion",
+      "Thrombolysis alone beyond 4.5 hours is sufficient for ICA terminus occlusion",
+      "No reperfusion therapy after 6 hours",
+      "Heparin infusion is preferred"
+    ],
+    "correctIndex": 1,
+    "explanation": "Late-window EVT (e.g., DAWN/DEFUSE 3 selection) benefits patients with favorable perfusion mismatch; thrombolysis windows are much shorter and ineffective for ICA terminus LVO; heparin is not used for reperfusion.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 41-year-old with family history of early strokes has migraine with aura and MRI with anterior temporal pole and external capsule hyperintensities. Most likely diagnosis?",
+    "options": [
+      "Autosomal dominant small-vessel disease due to NOTCH3; migraine with aura, subcortical strokes, cognitive decline",
+      "Autoimmune angiitis of medium vessels",
+      "X-linked adrenoleukodystrophy",
+      "Antiphospholipid syndrome only"
+    ],
+    "correctIndex": 3,
+    "explanation": "CADASIL (NOTCH3) presents with migraine with aura, subcortical strokes, and characteristic MRI in anterior temporal poles/external capsule.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 72-year-old presents with left leg > arm weakness and ipsilateral limb ataxia without cortical signs. Which localization best fits ataxic hemiparesis?",
+    "options": [
+      "Lacunar infarct in the contralateral basis pontis",
+      "Cerebellar hemispheric infarct only",
+      "PCA thalamic stroke",
+      "Cervical myelopathy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ataxic hemiparesis is a classic lacunar syndrome localizing to contralateral basis pontis (or internal capsule). Pure cerebellar strokes cause ataxia without weakness; PCA thalamic lesions cause sensory issues; cervical myelopathy produces bilateral long tract signs.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 62-year-old man has insidious progressive spastic paraparesis, worse with exertion; MRI shows serpiginous flow voids and T2 cord edema; symptoms improve when supine. What is the diagnosis and treatment approach?",
+    "options": [
+      "Progressive myelopathy with congestive cord edema from spinal dural arteriovenous fistula; worse with Valsalva; treat by endovascular/surgical disconnection",
+      "Ischemic anterior cord infarct from ASA atherosclerosis",
+      "Paraneoplastic myeloneuropathy",
+      "Multiple sclerosis relapse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Foix–Alajouanine (subacute congestive myelopathy) is due to a spinal dural AV fistula causing venous hypertension; therapy is fistula disconnection (endovascular or open).",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 70-year-old awakens with aphasia; MRI shows DWI restriction in left insula but no FLAIR hyperintensity. What does this imply for therapy?",
+    "options": [
+      "In wake-up stroke, DWI-positive/FLAIR-negative mismatch suggests symptom onset within ~4.5 hours and supports IV thrombolysis in eligible patients",
+      "FLAIR positivity always excludes thrombolysis",
+      "DWI-negative excludes ischemia",
+      "Mismatch is used only for hemorrhage selection"
+    ],
+    "correctIndex": 2,
+    "explanation": "FLAIR–DWI mismatch indicates likely recent onset (<4.5h) and can support IV thrombolysis eligibility in wake-up stroke protocols.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 71-year-old develops profound apathy, urinary incontinence, and left leg greater than arm weakness. Which vascular syndrome fits best?",
+    "options": [
+      "Contralateral leg-predominant weakness, abulia, and urinary incontinence",
+      "Contralateral face/arm weakness and aphasia",
+      "Ipsilateral limb ataxia only",
+      "Contralateral hemianopia with visual agnosia"
+    ],
+    "correctIndex": 2,
+    "explanation": "ACA infarcts cause leg-predominant weakness, abulia (medial frontal), and incontinence. MCA causes face/arm weakness and aphasia; PCA causes visual syndromes.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 46-year-old has an embolic-appearing cortical stroke; TEE shows a large PFO with atrial septal aneurysm. What is an appropriate management consideration?",
+    "options": [
+      "Evaluate for DVT and consider PFO closure in selected cryptogenic stroke patients with high-risk PFO anatomy",
+      "No investigation for venous thrombosis is necessary",
+      "Warfarin is mandatory in all PFO-related strokes",
+      "Aspirin alone prevents all recurrences"
+    ],
+    "correctIndex": 2,
+    "explanation": "In selected patients <60 with cryptogenic stroke and high-risk PFO, closure reduces recurrence; venous evaluation is important. Antithrombotic strategy is individualized; warfarin is not mandatory in all.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 7-year-old with intellectual disability has tonic and drop seizures; EEG shows 2–2.5 Hz slow spike–wave. Most likely syndrome?",
+    "options": [
+      "Multiple seizure types (tonic, atonic, atypical absence) with slow spike–wave EEG",
+      "Typical absence only",
+      "Hypermotor nocturnal seizures only",
+      "Single seizure type with normal intellect"
+    ],
+    "correctIndex": 0,
+    "explanation": "**LGS** features **multiple seizure types** and **slow spike–wave**; often developmental delay.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 58-year-old develops sudden gait ataxia and profound loss of joint position sense below T6 after severe hypotension. Motor strength is near normal. Which syndrome?",
+    "options": [
+      "Flaccid paraplegia with loss of pain/temperature",
+      "Upper motor neuron signs only",
+      "Loss of vibration and proprioception with sensory ataxia; relative preservation of strength",
+      "Syringomyelia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Posterior spinal artery infarcts cause dorsal column dysfunction with sensory ataxia and relatively preserved strength.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 63-year-old develops dense hemisensory loss after a small posterior circulation stroke and months later has severe burning pain. What is this syndrome?",
+    "options": [
+      "Contralateral hemisensory loss followed by severe central pain (thalamic pain syndrome)",
+      "Ipsilateral facial numbness with contralateral facial weakness",
+      "Bitemporal hemianopia",
+      "Pure motor hemiparesis with dysarthria"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thalamic (Dejerine–Roussy) syndrome from thalamic infarction causes contralateral sensory loss and later central post-stroke pain.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 68-year-old with ischemic stroke 5 hours from onset is not a thrombolysis candidate. BP is 210/115 mmHg. What initial BP approach is appropriate?",
+    "options": [
+      "Lower to ≤140/90 immediately in all",
+      "Treat only if systolic >220 or diastolic >120 mmHg acutely (permissive hypertension)",
+      "Start nicardipine to <160/90",
+      "Start labetalol to <120/80"
+    ],
+    "correctIndex": 1,
+    "explanation": "When not treating with IV thrombolysis/EVT, permissive hypertension is allowed; treat if >220/120, avoiding aggressive reductions that compromise penumbra.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  }
+]

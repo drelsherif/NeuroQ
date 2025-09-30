@@ -1,0 +1,1302 @@
+[
+  {
+    "stem": "A 62-year-old smoker has proximal weakness that improves with brief exercise, dry mouth, and areflexia. NCS shows low CMAP amplitudes that increase >100% after brief maximal contraction. Which is most likely?",
+    "options": [
+      "ALS",
+      "Myasthenia gravis due to AChR antibodies",
+      "CIDP",
+      "Lambert–Eaton myasthenic syndrome due to P/Q-type calcium channel antibodies"
+    ],
+    "correctIndex": 3,
+    "explanation": "Facilitation on rapid exercise and autonomic symptoms point to LEMS (VGCC antibodies), often paraneoplastic (SCLC). Incorrect: (2) MG shows fatigability without facilitation. (3) CIDP is demyelinating and sensory. (4) ALS has UMN/LMN signs, normal sensation.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 23-year-old presents with subacute psychiatric symptoms, orofacial dyskinesias, autonomic instability, and seizures. CSF: lymphocytic pleocytosis; EEG: extreme delta brush. Best immediate management?",
+    "options": [
+      "Wait for antibody results",
+      "Start chronic valproate only",
+      "Haloperidol monotherapy",
+      "High-dose steroids plus IVIG or plasma exchange while sending autoimmune panel and tumor screening"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anti‑NMDA receptor encephalitis is likely; early immunotherapy and tumor search (e.g., ovarian teratoma) improve outcomes. Incorrect: (2) Delaying treatment worsens prognosis. (3) Antipsychotics alone may worsen dyskinesias and don’t treat the cause. (4) ASMs treat seizures but not encephalitis.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 34-year-old woman with fluctuating ptosis and bulbar weakness has AChR antibody–positive generalized myasthenia gravis. CT chest shows thymic hyperplasia. She has frequent crises despite pyridostigmine and prednisone. Which disease-modifying strategy offers the best long-term outcome?",
+    "options": [
+      "High-dose pyridostigmine monotherapy",
+      "Thymectomy plus steroid-sparing immunotherapy (e.g., azathioprine or mycophenolate)",
+      "Chronic IVIG every 4 weeks indefinitely without surgery",
+      "Avoid immunotherapy due to infection risk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thymectomy in AChR+ generalized MG (especially <60) improves outcomes; adding a steroid‑sparing agent reduces steroid exposure and crises. Incorrect: (2) IVIG is effective for bridging or refractory flares but not ideal as sole long-term DM therapy in most. (3) Pyridostigmine treats symptoms only. (4) Untreated MG risks respiratory failure.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 37-year-old has severe bilateral optic neuritis with poor recovery and longitudinally extensive transverse myelitis (>3 vertebral segments). Brain MRI lacks Dawson’s fingers; serum AQP4-IgG is positive. Which therapy is preferred for relapse prevention?",
+    "options": [
+      "Natalizumab",
+      "B-cell or complement–targeted therapy (e.g., rituximab/inebilizumab or eculizumab)",
+      "Glatiramer acetate",
+      "Interferon-beta"
+    ],
+    "correctIndex": 1,
+    "explanation": "NMOSD responds to B-cell/complement–targeted agents; interferon and glatiramer are ineffective or harmful. Incorrect: (2)(3) Not indicated. (4) Natalizumab is for MS; benefits in NMOSD are unproven and risks exist.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 52-year-old man with alcoholism is admitted with confusion, ataxia, and ophthalmoplegia. Which medication must be given immediately?",
+    "options": [
+      "IV folate only",
+      "IV glucose before thiamine",
+      "IV pyridoxine only",
+      "IV thiamine before glucose administration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wernicke encephalopathy requires urgent IV thiamine before glucose; glucose first can worsen deficiency. Pyridoxine is for isoniazid toxicity; folate does not treat WE.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient with acalculia, agraphia, left–right disorientation, and finger agnosia has:",
+    "options": [
+      "Balint syndrome",
+      "Anton syndrome",
+      "Gerstmann syndrome",
+      "Thalamic syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gerstmann = angular gyrus lesion.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 35-year-old woman presents with episodic severe headaches occurring daily for the past 2 weeks. Each episode lasts 45-90 minutes, is strictly right-sided, and is associated with right eye tearing, nasal congestion, and right eyelid drooping. Between attacks, she is completely asymptomatic. What is the most effective acute treatment?",
+    "options": [
+      "Oral sumatriptan",
+      "Ibuprofen 800 mg",
+      "High-flow oxygen (100% at 12-15 L/min)",
+      "Intravenous dihydroergotamine"
+    ],
+    "correctIndex": 2,
+    "explanation": "This patient has cluster headache, characterized by severe unilateral headache with ipsilateral cranial autonomic symptoms (lacrimation, nasal congestion, ptosis) occurring in clusters. High-flow oxygen (100% at 12-15 L/min for 15-20 minutes) is highly effective for aborting cluster headaches and is considered first-line treatment along with subcutaneous sumatriptan. Oral sumatriptan is too slow for the rapid-onset cluster headache. NSAIDs are generally ineffective for cluster headache. IV dihydroergotamine can be effective but is not first-line and has more contraindications and side effects than oxygen.",
+    "category": "Headache Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 74-year-old on apixaban (last dose 6 hours ago, CrCl 90 mL/min) presents 120 minutes after sudden aphasia and right hemiplegia. NCCT is normal; CTA: left M1 occlusion; CT perfusion shows small core/large penumbra. What is the best next step?",
+    "options": [
+      "Start IV heparin and admit to ICU",
+      "Administer IV alteplase and then transfer for thrombectomy",
+      "Proceed directly to mechanical thrombectomy without IV thrombolysis",
+      "Reverse apixaban with andexanet alfa and give IV alteplase"
+    ],
+    "correctIndex": 2,
+    "explanation": "Recent DOAC ingestion (<48 h with normal renal function) is an exclusion to IV thrombolysis. With a clear LVO and favorable imaging, immediate EVT offers benefit. Incorrect: (2) IVT is contraindicated here due to recent apixaban. (3) Reversal solely to give IVT is not guideline-standard and risks delay; EVT offers proven benefit. (4) Heparin has no role in acute AIS reperfusion and risks hemorrhage.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 55-year-old woman presents with 6 months of progressive difficulty with speech and language. She has trouble finding words and her speech is effortful and agrammatic, but comprehension is relatively preserved. MRI shows left frontal atrophy. What type of aphasia is this most consistent with?",
+    "options": [
+      "Broca's aphasia",
+      "Wernicke's aphasia",
+      "Primary progressive aphasia - semantic variant",
+      "Primary progressive aphasia - nonfluent variant"
+    ],
+    "correctIndex": 3,
+    "explanation": "This presentation is consistent with primary progressive aphasia (PPA) - nonfluent/agrammatic variant. PPA is characterized by isolated, progressive language decline for at least 2 years. The nonfluent variant shows effortful, agrammatic speech with relatively preserved comprehension and left frontal atrophy. This differs from acute Broca's aphasia which has sudden onset. The semantic variant (svPPA) presents with loss of word meaning and temporal atrophy. The logopenic variant has word-finding difficulties with preserved grammar and is associated with Alzheimer's pathology.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 65-year-old man with a history of hypertension and diabetes presents with sudden onset of vertigo, nausea, vomiting, and ataxia. Examination reveals nystagmus, dysarthria, dysphagia, and loss of pain and temperature sensation on the right side of the face and left side of the body. What vascular territory is most likely affected?",
+    "options": [
+      "Right posterior inferior cerebellar artery (PICA)",
+      "Right anterior cerebral artery",
+      "Basilar artery",
+      "Left middle cerebral artery"
+    ],
+    "correctIndex": 0,
+    "explanation": "This patient presents with Wallenberg syndrome (lateral medullary syndrome), caused by occlusion of the posterior inferior cerebellar artery (PICA) or vertebral artery. The classic findings include: vertigo/nausea (vestibular nuclei), ataxia (cerebellar connections), dysarthria/dysphagia (nucleus ambiguus), and crossed sensory loss - ipsilateral facial pain/temperature loss (trigeminal tract) and contralateral body pain/temperature loss (spinothalamic tract). MCA stroke would cause hemiparesis and cortical signs. Basilar artery occlusion typically causes more severe brainstem signs including altered consciousness. ACA stroke would cause leg weakness and behavioral changes.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A patient has intact repetition but nonfluent speech and impaired comprehension. Diagnosis?",
+    "options": [
+      "Conduction aphasia",
+      "Transcortical mixed aphasia",
+      "Broca aphasia",
+      "Global aphasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Transcortical mixed preserves repetition but both fluency and comprehension impaired.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 30-year-old woman presents with acute onset of right-sided weakness and numbness. MRI shows a T2 hyperintense lesion in the left corona radiata. CSF analysis reveals 25 lymphocytes/μL, elevated IgG index, and oligoclonal bands. Visual evoked potentials show prolonged latencies bilaterally. What is the most likely diagnosis?",
+    "options": [
+      "Multiple sclerosis",
+      "Primary CNS vasculitis",
+      "Neuromyelitis optica spectrum disorder",
+      "Acute disseminated encephalomyelitis (ADEM)"
+    ],
+    "correctIndex": 0,
+    "explanation": "This presentation suggests multiple sclerosis with clinical evidence of CNS demyelination (acute focal neurological deficit), MRI lesion in typical location, CSF findings consistent with inflammatory demyelinating disease (lymphocytic pleocytosis, elevated IgG index, oligoclonal bands), and subclinical involvement of visual pathways (abnormal VEPs). This demonstrates dissemination in space and time. ADEM typically occurs after infection/vaccination and is monophasic. NMOSD typically involves optic nerves and spinal cord with different CSF/MRI patterns. CNS vasculitis would have different imaging and CSF findings.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A patient with severe autonomic instability, hyperthermia, rigidity, and elevated CK after antipsychotics likely has:",
+    "options": [
+      "Malignant hyperthermia; give succinylcholine",
+      "Neuroleptic malignant syndrome; treat with supportive care, dantrolene/bromocriptine, and stop the agent",
+      "Serotonin syndrome; give cyproheptadine only",
+      "Heat exhaustion; ice water immersion only"
+    ],
+    "correctIndex": 1,
+    "explanation": "NMS is a neurocritical emergency; management is immediate cessation, aggressive cooling/support, and specific agents (dantrolene/bromocriptine).",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 6-year-old boy is brought to clinic by his parents who report frequent 'staring spells' during which he becomes unresponsive for 10-15 seconds. During these episodes, he stops what he's doing and stares blankly, sometimes with eyelid fluttering. He immediately returns to normal activity afterward with no memory of the event. EEG during an episode would most likely show:",
+    "options": [
+      "Normal background activity",
+      "Focal sharp waves in the temporal region",
+      "3-Hz spike-and-wave discharges",
+      "Hypsarrhythmia pattern"
+    ],
+    "correctIndex": 2,
+    "explanation": "This is a classic presentation of childhood absence epilepsy. The brief episodes of staring with loss of awareness, eyelid fluttering, and immediate return to baseline without postictal confusion are pathognomonic. The characteristic EEG finding during absence seizures is generalized 3-Hz spike-and-wave discharges that begin and end abruptly. Focal sharp waves would suggest focal epilepsy. Hypsarrhythmia is seen in infantile spasms (West syndrome). Normal EEG during a clinical event would suggest a non-epileptic event, but the description is classic for absence seizures.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Serotonin syndrome key differentiator from NMS is:",
+    "options": [
+      "Severe leukopenia",
+      "Lead-pipe rigidity with hyporeflexia",
+      "Hyperreflexia and clonus (especially lower limbs)",
+      "Bradykinesia and masked facies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Serotonin syndrome features neuromuscular hyperactivity (clonus, hyperreflexia); NMS shows rigidity and hyporeflexia.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 62-year-old man with lung cancer presents with 3 weeks of progressive proximal muscle weakness, particularly difficulty rising from chairs and climbing stairs. On examination, strength improves with repeated muscle contractions. Deep tendon reflexes are diminished but increase after exercise. EMG shows incremental response to repetitive nerve stimulation. What is the most likely diagnosis?",
+    "options": [
+      "Steroid myopathy",
+      "Myasthenia gravis",
+      "Polymyositis",
+      "Lambert-Eaton myasthenic syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "This patient has Lambert-Eaton myasthenic syndrome (LEMS), characterized by proximal weakness that improves with exercise (facilitation), diminished reflexes that increase after exercise, and incremental response on repetitive nerve stimulation. LEMS is strongly associated with small cell lung cancer (60% of cases) and is caused by antibodies against presynaptic voltage-gated calcium channels. This contrasts with myasthenia gravis, which shows fatigable weakness (worsening with exercise) and decremental response on repetitive stimulation. Polymyositis and steroid myopathy would not show the characteristic electrophysiological findings or improvement with exercise.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 58-year-old with acute, painful monocular vision loss and RAPD has disc swelling and jaw claudication. ESR/CRP are high. What is the immediate management to prevent bilateral blindness?",
+    "options": [
+      "Start aspirin only",
+      "Wait for biopsy before steroids",
+      "Start high-dose IV or oral steroids immediately, then temporal artery biopsy",
+      "Treat with carbamazepine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Suspected giant cell arteritis (arteritic AION) mandates immediate steroids to prevent vision loss in the other eye; biopsy should not delay treatment. Incorrect: (2) Waiting risks blindness. (3) Aspirin alone is insufficient. (4) Carbamazepine is irrelevant.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 59-year-old has behavioral disinhibition, apathy, and compulsive eating. MRI: frontal and anterior temporal atrophy. Diagnosis?",
+    "options": [
+      "Behavioral variant frontotemporal dementia",
+      "Alzheimer disease",
+      "Lewy body dementia",
+      "Vascular dementia"
+    ],
+    "correctIndex": 0,
+    "explanation": "bvFTD = early personality/behavior changes, frontal/anterior temporal atrophy.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Main ICU complication of prolonged neuromuscular blockade and immobility?",
+    "options": [
+      "CIDP",
+      "ALS",
+      "Critical illness polyneuropathy/myopathy",
+      "Myasthenia gravis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prolonged critical illness can lead to diffuse neuropathy/myopathy.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 75-year-old man presents with gait impairment, urinary incontinence, and dementia. MRI shows ventriculomegaly out of proportion to atrophy. Diagnosis?",
+    "options": [
+      "Vascular dementia",
+      "Normal pressure hydrocephalus",
+      "Alzheimer disease",
+      "FTD"
+    ],
+    "correctIndex": 1,
+    "explanation": "Classic triad of NPH: gait, incontinence, dementia; ventriculomegaly.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Ocrelizumab, approved for relapsing and primary progressive MS, targets which molecule?",
+    "options": [
+      "CD20 on B cells",
+      "CD52",
+      "Integrin α4",
+      "IL-2 receptor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ocrelizumab is an anti-CD20 monoclonal antibody.",
+    "category": "Neuroimmunology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which treatment is contraindicated in NMOSD?",
+    "options": [
+      "Inebilizumab",
+      "Rituximab",
+      "Interferon-beta",
+      "Eculizumab"
+    ],
+    "correctIndex": 2,
+    "explanation": "Interferon-beta is ineffective/harmful in NMOSD; B-cell/complement–targeted therapies are effective.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which molecular marker in glioblastoma predicts responsiveness to temozolomide?",
+    "options": [
+      "EGFR amplification",
+      "BRAF V600E",
+      "MGMT promoter methylation",
+      "NF2 deletion"
+    ],
+    "correctIndex": 2,
+    "explanation": "MGMT methylation predicts better response to alkylating agents like temozolomide.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which EEG background strongly predicts poor outcome after anoxic injury when persistent and unreactive?",
+    "options": [
+      "Sleep spindles",
+      "Reactive continuous background",
+      "Normal alpha rhythm with reactivity",
+      "Suppressed or burst-suppression background with identical bursts"
+    ],
+    "correctIndex": 3,
+    "explanation": "Highly malignant EEG patterns (suppression or identical-burst suppression) portend poor outcome, especially when persistent and unreactive.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which disease-modifying therapy is associated with risk of progressive multifocal leukoencephalopathy (PML) due to JC virus reactivation?",
+    "options": [
+      "Interferon-beta",
+      "Natalizumab",
+      "Glatiramer acetate",
+      "Teriflunomide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natalizumab carries PML risk; risk stratified by JC virus antibody, treatment duration, prior immunosuppression.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Fluent speech with impaired comprehension and paraphasic errors localizes to:",
+    "options": [
+      "Cerebellum",
+      "Broca area",
+      "Arcuate fasciculus",
+      "Wernicke aphasia (left superior temporal gyrus)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wernicke = fluent, poor comprehension, word salad.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 1-year-old with multiple seizure types (tonic, atonic) and developmental delay has EEG with 1.5–2.5 Hz slow spike-and-wave. Diagnosis?",
+    "options": [
+      "Lennox–Gastaut syndrome",
+      "Infantile spasms only",
+      "Childhood absence epilepsy",
+      "SeLECTS"
+    ],
+    "correctIndex": 0,
+    "explanation": "LGS presents with multiple seizure types, developmental regression, and slow spike-and-wave EEG.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which cancer most commonly causes hemorrhagic brain metastases?",
+    "options": [
+      "Prostate",
+      "Melanoma, renal cell carcinoma, choriocarcinoma",
+      "Colon",
+      "Thyroid papillary carcinoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Melanoma, RCC, and choriocarcinoma metastases often hemorrhage.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 45-year-old woman presents with new daily persistent headache that began suddenly 4 months ago. She can pinpoint the exact day it started. The headache is constant, described as pressure-like, and has not responded to over-the-counter medications. Neurological exam and imaging are normal. What is the most likely diagnosis?",
+    "options": [
+      "Chronic migraine",
+      "Chronic tension-type headache",
+      "Medication overuse headache",
+      "New daily persistent headache"
+    ],
+    "correctIndex": 3,
+    "explanation": "New daily persistent headache (NDPH) is characterized by the sudden onset of continuous daily headache that patients can pinpoint to a specific day. It often begins in previously headache-free individuals and becomes chronic from onset. The ability to remember the exact day of onset is pathognomonic for NDPH. Chronic migraine evolves gradually from episodic migraine. Medication overuse headache develops from frequent analgesic use. Chronic tension-type headache typically evolves from episodic tension headaches. NDPH is often refractory to treatment and may require aggressive preventive therapy.",
+    "category": "Headache Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 65-year-old immunocompromised patient has periventricular enhancing mass. Most likely tumor?",
+    "options": [
+      "Metastasis",
+      "Glioblastoma",
+      "Primary CNS lymphoma",
+      "Toxoplasmosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "PCNSL: periventricular, enhances homogeneously; often in immunocompromised.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 30-year-old pregnant woman at 32 weeks gestation presents with her first generalized tonic-clonic seizure. Blood pressure is 160/100 mmHg, and she has 3+ proteinuria. What is the most appropriate immediate treatment?",
+    "options": [
+      "Intravenous magnesium sulfate",
+      "Intravenous lorazepam",
+      "Oral levetiracetam",
+      "Intravenous phenytoin"
+    ],
+    "correctIndex": 0,
+    "explanation": "This patient has eclampsia (seizures in the setting of preeclampsia with hypertension and proteinuria). Magnesium sulfate is the treatment of choice for eclamptic seizures, both for acute treatment and seizure prevention. It is superior to conventional antiepileptic drugs in this setting and has been proven to reduce maternal morbidity and mortality. While benzodiazepines could be used for immediate seizure control, magnesium addresses both the seizure and the underlying pathophysiology of eclampsia. Traditional AEDs are not first-line for eclamptic seizures.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A child has stroke-like episodes, lactic acidosis, and ragged red fibers on muscle biopsy. Diagnosis?",
+    "options": [
+      "MELAS",
+      "Wilson disease",
+      "X-ALD",
+      "Leigh syndrome only"
+    ],
+    "correctIndex": 0,
+    "explanation": "MELAS is a mitochondrial disorder with stroke-like episodes and lactic acidosis.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which factor predicts worse MS prognosis?",
+    "options": [
+      "Isolated optic neuritis with full recovery",
+      "Frequent early relapses with incomplete recovery",
+      "Low lesion burden on MRI",
+      "Female sex"
+    ],
+    "correctIndex": 1,
+    "explanation": "Early frequent relapses with incomplete recovery and high MRI burden predict worse outcomes.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Edaravone in ALS has shown benefit mainly in:",
+    "options": [
+      "Non-motor symptoms",
+      "Early disease with preserved function",
+      "Only bulbar onset",
+      "End-stage disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Edaravone slows decline modestly in early ALS with preserved function.",
+    "category": "Neuromuscular Disorders",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A child with moyamoya disease presents with TIAs triggered by hyperventilation/crying. Angiography shows 'puff-of-smoke' collaterals. Best long-term therapy?",
+    "options": [
+      "High-dose steroids",
+      "Long-term warfarin alone",
+      "No therapy",
+      "Surgical revascularization (e.g., EDAS)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indirect/direct revascularization improves perfusion and reduces ischemic events in moyamoya.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which biomarker pattern supports Alzheimer disease on CSF testing?",
+    "options": [
+      "↓ tau, ↑ Aβ42",
+      "↓ Aβ42, ↑ total tau, ↑ phospho-tau",
+      "↑ Aβ42, ↓ tau",
+      "Normal Aβ42, normal tau"
+    ],
+    "correctIndex": 1,
+    "explanation": "AD shows low CSF amyloid beta 42 and high tau/phospho-tau due to amyloid deposition and neurodegeneration.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 60-year-old diabetic man presents with severe burning pain in his feet, worse at night. Physical examination reveals decreased vibration and pinprick sensation in a stocking distribution. Ankle reflexes are absent. What is the most appropriate initial treatment for his pain?",
+    "options": [
+      "Gabapentin starting at 300 mg daily",
+      "Morphine 15 mg twice daily",
+      "Ibuprofen 800 mg three times daily",
+      "Topical lidocaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "This patient has diabetic peripheral neuropathy with neuropathic pain. Gabapentin is a first-line treatment for neuropathic pain, typically started at 300 mg daily and gradually titrated up to effective dose (often 900-1800 mg daily in divided doses). Other first-line options include pregabalin and tricyclic antidepressants. NSAIDs like ibuprofen are ineffective for neuropathic pain and have significant side effects in diabetics. Opioids are not first-line for chronic neuropathic pain due to limited efficacy and risk of dependence. Topical agents can be adjunctive but are not typically first-line for widespread neuropathic pain.",
+    "category": "General Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "NF2 gene mutation is most strongly associated with:",
+    "options": [
+      "Bilateral vestibular schwannomas",
+      "Optic gliomas",
+      "Neurofibromas",
+      "Hemangioblastomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "NF2 hallmark = bilateral vestibular schwannomas.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 2-year-old with prolonged febrile seizures, regression, and multiple seizure types has SCN1A mutation. Which drug class should be avoided?",
+    "options": [
+      "Valproate",
+      "Sodium-channel blockers (e.g., carbamazepine)",
+      "Clobazam",
+      "Stiripentol"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dravet syndrome often worsens with sodium-channel blockers; use valproate, clobazam, stiripentol, and others instead.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "After benzodiazepines, which agents are evidence-based second-line for SE?",
+    "options": [
+      "Topiramate PO",
+      "Oral carbamazepine",
+      "Haloperidol",
+      "IV levetiracetam, valproate, or fosphenytoin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Second-line IV ASMs include levetiracetam, valproate, fosphenytoin.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 5-year-old with morning headaches and vomiting has posterior fossa mass; MRI shows cyst with mural nodule. Most likely tumor?",
+    "options": [
+      "Craniopharyngioma",
+      "Medulloblastoma",
+      "Pilocytic astrocytoma",
+      "Ependymoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pilocytic astrocytoma often presents with cyst and mural nodule in posterior fossa.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which DMT is considered safe in pregnancy?",
+    "options": [
+      "Alemtuzumab",
+      "Teriflunomide",
+      "Cladribine",
+      "Glatiramer acetate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Glatiramer is among the safest for use in pregnancy.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 1-year-old fed home-canned food develops hypotonia, poor suck, and descending paralysis. Likely diagnosis?",
+    "options": [
+      "Lambert–Eaton",
+      "Guillain–Barré syndrome",
+      "Infant botulism",
+      "Polio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clostridial toxin causes presynaptic ACh release blockade with descending paralysis; treat with botulism immune globulin.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Capgras delusion (belief loved one replaced by impostor) is associated with lesions in:",
+    "options": [
+      "Cerebellum",
+      "Occipital pole",
+      "Right frontal and temporal regions",
+      "Left hippocampus only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capgras is linked to right frontal–temporal dysfunction affecting familiarity recognition.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A child with truncal ataxia and headaches is diagnosed with medulloblastoma. Which spread is common and must be evaluated?",
+    "options": [
+      "Direct skull base invasion only",
+      "CSF 'drop metastases' to spine",
+      "Perineural spread via CN VII",
+      "Hematogenous lung metastases only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Medulloblastoma often seeds the neuraxis; spinal MRI/CSF cytology are part of staging.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 25-year-old man presents with acute onset of severe dystonia affecting his neck and face after starting a new medication for nausea. His head is pulled to the right and his jaw is deviated. What is the most appropriate immediate treatment?",
+    "options": [
+      "Oral baclofen",
+      "Intravenous diphenhydramine",
+      "Botulinum toxin injection",
+      "Increase the causative medication"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is acute dystonic reaction, likely caused by a dopamine receptor blocking agent (antiemetic). Acute dystonic reactions are treated with anticholinergic medications, with IV diphenhydramine (Benadryl) being highly effective and rapidly acting. Alternatively, benztropine can be used. Baclofen is used for chronic spasticity. Botulinum toxin is for chronic focal dystonia. Increasing the causative medication would worsen the dystonia. These reactions are more common in young males and can be prevented by prophylactic anticholinergics when using dopamine blockers.",
+    "category": "Movement Disorders",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A vegan toddler presents with ataxia, loss of vibration sense, and macrocytic anemia. Which deficiency is most likely?",
+    "options": [
+      "Vitamin C deficiency",
+      "Vitamin D deficiency",
+      "Niacin deficiency",
+      "Vitamin B12 deficiency"
+    ],
+    "correctIndex": 3,
+    "explanation": "B12 deficiency causes subacute combined degeneration and macrocytosis; consider dietary history.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Which feature favors dementia with Lewy bodies over Parkinson disease dementia?",
+    "options": [
+      "Marked hippocampal atrophy early",
+      "Motor symptoms >1 year before cognitive decline",
+      "Predominantly language deficits early",
+      "Cognitive impairment precedes or occurs within 1 year of motor symptoms"
+    ],
+    "correctIndex": 3,
+    "explanation": "DLB vs PDD: '1-year rule' distinguishes timing of cognitive vs motor symptoms.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 50-year-old man presents with daily headaches for 6 weeks. Each headache lasts 2-3 hours, is located around the right eye, and is associated with right eyelid drooping and nasal congestion. Between attacks, he is completely normal. What medication is most effective for prevention of these headaches?",
+    "options": [
+      "Propranolol",
+      "Topiramate",
+      "Amitriptyline",
+      "Verapamil"
+    ],
+    "correctIndex": 3,
+    "explanation": "This patient has cluster headache with the characteristic pattern of unilateral headache with ipsilateral autonomic symptoms (ptosis, nasal congestion) occurring in clusters. Verapamil is the first-line preventive medication for cluster headache, typically starting at 240mg daily and titrating up. EKG monitoring is required due to potential cardiac conduction effects. Propranolol, amitriptyline, and topiramate are migraine preventives but are not effective for cluster headache. Other cluster preventives include lithium, methysergide, and corticosteroids for transitional therapy.",
+    "category": "Headache Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 9-year-old develops chorea weeks after streptococcal pharyngitis. Diagnosis?",
+    "options": [
+      "Tourette syndrome",
+      "Huntington disease",
+      "Sydenham chorea",
+      "Wilson disease"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sydenham chorea is a post-streptococcal autoimmune movement disorder; evaluate for rheumatic fever.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Most common functional pituitary adenoma?",
+    "options": [
+      "ACTH adenoma",
+      "TSH adenoma",
+      "GH adenoma",
+      "Prolactinoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prolactinomas are most common functional pituitary tumors.",
+    "category": "Neuro-oncology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which respiratory parameter best predicts need for intubation in Guillain–Barré syndrome?",
+    "options": [
+      "Vital capacity <15 mL/kg",
+      "Oxygen saturation",
+      "Peak cough flow",
+      "Chest X-ray"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vital capacity <15 mL/kg or rapid decline predicts impending respiratory failure.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 56-year-old man is unresponsive. Exam: eyes open spontaneously but no awareness of self or environment. Motor: withdrawal to pain. Best diagnosis?",
+    "options": [
+      "Locked-in syndrome",
+      "Minimally conscious state",
+      "Vegetative state",
+      "Brain death"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vegetative state: wakefulness without awareness. Minimally conscious has intermittent purposeful behaviors. Locked-in: awareness intact, motor paralysis.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 35-year-old woman presents with seizures and headaches. MRI shows a well-circumscribed, cystic lesion in the left temporal lobe with a solid nodule that enhances with contrast. The patient has no history of other malignancies. What is the most likely diagnosis?",
+    "options": [
+      "Metastatic tumor",
+      "Glioblastoma",
+      "Pilocytic astrocytoma",
+      "Brain abscess"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pilocytic astrocytoma typically presents as a cystic lesion with an enhancing mural nodule, classically in the cerebellum but can occur in cerebral hemispheres in adults. This is a WHO Grade I tumor with excellent prognosis after complete resection. Glioblastoma would show irregular enhancement and necrosis. Metastatic disease is less likely without primary cancer history and with this characteristic cystic appearance. Brain abscess would have clinical signs of infection and different enhancement pattern (rim enhancement). The cyst with enhancing nodule appearance is pathognomonic for pilocytic astrocytoma.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 60-year-old woman presents with progressive headaches and left arm weakness. MRI shows a homogeneously enhancing extra-axial mass with a dural tail along the right convexity. What is the most appropriate next step in management?",
+    "options": [
+      "Stereotactic radiosurgery",
+      "Surgical resection",
+      "Chemotherapy",
+      "Observation with serial imaging"
+    ],
+    "correctIndex": 1,
+    "explanation": "This imaging appearance is classic for meningioma: extra-axial location, homogeneous enhancement, and dural tail. For symptomatic meningiomas causing neurological deficits (left arm weakness), surgical resection is the treatment of choice, especially in younger patients. Complete resection offers potential cure for benign meningiomas. Radiosurgery is used for small, asymptomatic tumors or recurrent disease. Chemotherapy is rarely effective for meningiomas. Observation is appropriate only for small, asymptomatic meningiomas in elderly patients. The patient's symptoms and good surgical candidacy make resection the best option.",
+    "category": "Neuro-oncology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which MRI finding distinguishes NMOSD from MS?",
+    "options": [
+      "Periventricular Dawson’s fingers",
+      "Juxtacortical plaques",
+      "Longitudinally extensive spinal cord lesion (>3 vertebral segments)",
+      "Small brainstem lesions only"
+    ],
+    "correctIndex": 2,
+    "explanation": "LETM is characteristic of NMOSD, not MS.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 55-year-old with glioblastoma is treated with radiation plus temozolomide. This regimen is known as:",
+    "options": [
+      "Stupp protocol",
+      "CHOP regimen",
+      "FOLFOX",
+      "R-CHOP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Standard-of-care glioblastoma therapy is the Stupp protocol.",
+    "category": "Neuro-oncology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A school-aged child with foot deformities (pes cavus), distal weakness, and areflexia has demyelinating neuropathy on NCS. Most likely diagnosis?",
+    "options": [
+      "Lambert–Eaton",
+      "CIDP",
+      "Charcot–Marie–Tooth disease type 1",
+      "ALS"
+    ],
+    "correctIndex": 2,
+    "explanation": "CMT1 is a hereditary demyelinating neuropathy causing distal weakness and foot deformities.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 3-year-old previously healthy child had a 6-minute generalized tonic–clonic seizure during a 39°C fever, with rapid recovery and normal exam. Appropriate next step?",
+    "options": [
+      "Lumbar puncture in all cases",
+      "Start daily antiseizure medication",
+      "Urgent MRI brain",
+      "Reassurance and outpatient follow-up"
+    ],
+    "correctIndex": 3,
+    "explanation": "Simple febrile seizure: generalized, <15 minutes, single in 24 hours, normal exam → no chronic ASM or routine imaging/LP unless clinical concerns.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Argyll Robertson pupil is classically associated with:",
+    "options": [
+      "Diabetes",
+      "Multiple sclerosis",
+      "Neurosyphilis",
+      "Horner syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "ARP: pupils accommodate but do not react to light; seen in neurosyphilis.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 20-year-old with depression, tremor, and dystonia has low ceruloplasmin, elevated 24‑h urine copper, and Kayser–Fleischer rings. Which initial therapy is most appropriate?",
+    "options": [
+      "No treatment; this will remit",
+      "Levodopa",
+      "High-dose vitamin C only",
+      "Copper chelation (penicillamine or trientine) and consider zinc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Wilson disease requires chelation to remove copper; zinc reduces absorption. Incorrect: (2) Levodopa treats PD but not copper toxicity. (3) Vitamin C is not disease-modifying. (4) Untreated disease progresses.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In warfarin-associated ICH (INR 3.6), which reversal regimen is preferred?",
+    "options": [
+      "No reversal if INR <4.0",
+      "FFP alone",
+      "Oral vitamin K only",
+      "4‑factor PCC plus IV vitamin K"
+    ],
+    "correctIndex": 3,
+    "explanation": "4F-PCC rapidly normalizes INR; IV vitamin K sustains reversal. FFP alone is slower and less reliable.",
+    "category": "Neurointensive Care",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 46-year-old has a frontal lobe tumor that is IDH1-mutant with 1p/19q codeletion and ATRX retained. What is the WHO CNS5 integrated diagnosis?",
+    "options": [
+      "Oligodendroglioma, IDH‑mutant and 1p/19q‑codeleted",
+      "Astrocytoma, IDH‑mutant, grade 4",
+      "Glioblastoma, IDH‑wildtype",
+      "Diffuse midline glioma, H3 K27‑altered"
+    ],
+    "correctIndex": 0,
+    "explanation": "By definition, oligodendroglioma requires IDH mutation and 1p/19q codeletion (often with ATRX retention). Incorrect: (2) Astrocytoma lacks 1p/19q codeletion and often has ATRX loss. (3) GBM is IDH‑wildtype. (4) Diffuse midline glioma involves H3 K27 alteration in midline structures.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A chronic alcoholic becomes comatose; MRI shows symmetric T2 hyperintensity in mammillary bodies. Diagnosis?",
+    "options": [
+      "Wernicke encephalopathy",
+      "Osmotic demyelination",
+      "Hypoglycemia",
+      "Carbon monoxide poisoning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wernicke: thiamine deficiency → ophthalmoplegia, ataxia, confusion; mammillary body lesions.",
+    "category": "Neurointensive Care",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 40-year-old woman presents with acute onset of diplopia and ptosis affecting the right eye. Examination reveals a dilated right pupil, inability to adduct, elevate, or depress the right eye, with the eye positioned 'down and out.' The patient reports severe retro-orbital pain. What is the most concerning diagnosis that must be ruled out immediately?",
+    "options": [
+      "Diabetic third nerve palsy",
+      "Posterior communicating artery aneurysm",
+      "Myasthenia gravis",
+      "Cavernous sinus thrombosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "This patient presents with a complete third nerve palsy with pupillary involvement (mydriasis) and pain. This combination, especially with pain, raises immediate concern for a posterior communicating artery aneurysm compressing the third nerve. The pupillary fibers run on the surface of the third nerve and are affected early by external compression but spared in ischemic (diabetic) third nerve palsies. This is a neurosurgical emergency requiring immediate CT angiography or MR angiography. Diabetic third nerve palsy typically spares the pupil. Myasthenia gravis rarely causes complete unilateral third nerve palsy. Cavernous sinus thrombosis would involve multiple cranial nerves.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "First-line therapy for primary CNS lymphoma?",
+    "options": [
+      "Radiation only",
+      "Surgical resection",
+      "Temozolomide",
+      "High-dose methotrexate–based chemotherapy"
+    ],
+    "correctIndex": 3,
+    "explanation": "HD-MTX is cornerstone; resection usually not feasible due to diffuse growth.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 40-year-old man presents with 2 years of progressive tremor that affects his hands during writing and holding objects, but not at rest. The tremor improves significantly with small amounts of alcohol. Family history reveals his father and brother have similar tremors. What is the most appropriate first-line treatment?",
+    "options": [
+      "Carbidopa/levodopa",
+      "Alcohol in small amounts",
+      "Deep brain stimulation",
+      "Propranolol"
+    ],
+    "correctIndex": 3,
+    "explanation": "This is essential tremor (ET): action tremor (not rest), family history, and alcohol responsiveness are characteristic features. Propranolol is first-line treatment for ET, typically starting at 40mg twice daily and titrating up. Primidone is an alternative first-line agent. Levodopa is ineffective for ET and is used for parkinsonian tremor. While alcohol improves ET, it's not appropriate as a treatment due to risk of dependence. DBS is reserved for medically refractory cases. ET is the most common movement disorder and often has a strong family history with autosomal dominant inheritance.",
+    "category": "Movement Disorders",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 7-year-old has episodes of sitting up, screaming, and autonomic arousal about 1–2 hours after sleep onset with no recall. Diagnosis?",
+    "options": [
+      "Sleep terrors (NREM parasomnia)",
+      "Nightmares (REM)",
+      "Nocturnal seizures",
+      "Narcolepsy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sleep terrors arise from deep NREM sleep early in the night and lack recall.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 45-year-old man presents with 6 months of progressive memory loss, personality changes, and myoclonus. EEG shows periodic sharp wave complexes. CSF analysis reveals elevated 14-3-3 protein. Brain MRI shows symmetric hyperintensity in the caudate and putamen on diffusion-weighted imaging. What is the most likely diagnosis?",
+    "options": [
+      "Creutzfeldt-Jakob disease",
+      "Frontotemporal dementia",
+      "Huntington's disease",
+      "Alzheimer's disease"
+    ],
+    "correctIndex": 0,
+    "explanation": "This constellation of findings is classic for Creutzfeldt-Jakob disease (CJD): rapidly progressive dementia, myoclonus, periodic sharp waves on EEG, elevated CSF 14-3-3 protein, and symmetric DWI hyperintensity in basal ganglia (the 'pulvinar sign' and 'hockey stick sign'). CJD is a prion disease with rapid progression over months, unlike other dementias that progress over years. The CSF 14-3-3 protein and characteristic MRI findings support the diagnosis. RT-QuIC (real-time quaking-induced conversion) testing is now available for more specific diagnosis. CJD is ultimately fatal with no effective treatment.",
+    "category": "General Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A newborn of a mother with myasthenia gravis develops hypotonia and weak cry shortly after birth. Cause?",
+    "options": [
+      "Transient neonatal myasthenia due to transplacental AChR antibodies",
+      "Congenital MG due to genetic defect",
+      "Cerebral palsy",
+      "Hypoxic–ischemic encephalopathy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maternal antibodies cross placenta and cause transient neonatal MG; improves as antibodies clear.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 35-year-old man presents with recurrent episodes of diplopia and dysarthria that resolve completely between attacks. Episodes last several days and occur every few months. MRI shows periventricular white matter lesions. CSF oligoclonal bands are present. What is the most likely MS phenotype?",
+    "options": [
+      "Clinically isolated syndrome",
+      "Secondary progressive multiple sclerosis",
+      "Primary progressive multiple sclerosis",
+      "Relapsing-remitting multiple sclerosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "This patient has relapsing-remitting multiple sclerosis (RRMS), characterized by distinct attacks (relapses) with complete or partial recovery and no progression between attacks. The recurrent episodes of neurological symptoms with complete resolution, typical MRI lesions, and positive oligoclonal bands confirm the diagnosis. CIS is a single episode. PPMS shows gradual progression from onset without relapses. SPMS develops after an initial RRMS course with gradual progression. RRMS is the most common initial course of MS, affecting about 85% of patients at diagnosis.",
+    "category": "Neuroimmunology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "After cardiac arrest, when is prognostication of poor neurologic outcome most reliable?",
+    "options": [
+      "By early CT alone",
+      "Immediately on ICU arrival",
+      "Within first 6 hours based on a single exam",
+      "≥72 hours after ROSC (or after rewarming if cooled), using a multimodal approach"
+    ],
+    "correctIndex": 3,
+    "explanation": "Guidelines emphasize delayed, **multimodal** prognostication (exam, EEG, SSEP, imaging, biomarkers) and avoiding confounders like sedation/hypothermia.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 69-year-old man presents with 6 months of progressive gait instability, urinary urgency, and mild memory problems. MRI shows enlarged ventricles with periventricular white matter changes. A large volume lumbar puncture (40 mL CSF removal) results in significant improvement in his gait. What is the most appropriate treatment?",
+    "options": [
+      "Acetazolamide",
+      "Ventriculoperitoneal shunt",
+      "Serial lumbar punctures",
+      "Cholinesterase inhibitors"
+    ],
+    "correctIndex": 1,
+    "explanation": "This patient has normal pressure hydrocephalus (NPH) with the classic triad of gait disturbance, urinary incontinence, and cognitive decline. The positive response to large volume LP (tap test) predicts good response to CSF diversion. Ventriculoperitoneal shunt is the definitive treatment for NPH and can significantly improve symptoms, particularly gait. Acetazolamide is used for idiopathic intracranial hypertension. Serial LPs are not practical long-term management. Cholinesterase inhibitors may help cognition but don't address the underlying CSF dynamics problem.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 66-year-old with parkinsonism has early postural instability, vertical supranuclear gaze palsy, axial rigidity greater than limb rigidity, and poor levodopa response. MRI shows midbrain atrophy with the 'hummingbird sign.' Which diagnosis is most likely?",
+    "options": [
+      "Corticobasal degeneration",
+      "Multiple system atrophy (parkinsonian type)",
+      "Parkinson disease",
+      "Progressive supranuclear palsy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vertical gaze palsy, early falls, axial rigidity, poor levodopa response, and midbrain atrophy point to PSP. Incorrect: (2) MSA-P shows autonomic failure and putaminal changes more than vertical gaze palsy. (3) CBD has asymmetric apraxia/alien limb. (4) PD typically responds to levodopa and lacks early gaze palsy.",
+    "category": "Movement Disorders",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 6-month-old infant presents with brief episodes of sudden flexion of the neck, arms, and legs lasting 1-2 seconds, occurring in clusters upon awakening. EEG shows hypsarrhythmia. What is the most appropriate initial treatment?",
+    "options": [
+      "Phenytoin",
+      "Levetiracetam",
+      "Ketogenic diet",
+      "ACTH or vigabatrin"
+    ],
+    "correctIndex": 3,
+    "explanation": "This infant has infantile spasms (West syndrome), characterized by clusters of brief flexor spasms, developmental regression, and hypsarrhythmia on EEG. ACTH is first-line treatment for infantile spasms and can dramatically improve both seizures and development if started early. Vigabatrin is also first-line, especially in tuberous sclerosis complex. Conventional antiepileptics like phenytoin and levetiracetam are ineffective for infantile spasms. Ketogenic diet is a second-line option. Early treatment is crucial as delayed treatment is associated with worse developmental outcomes.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Which condition is most associated with arteritic anterior ischemic optic neuropathy (AAION)?",
+    "options": [
+      "Hypertension",
+      "Multiple sclerosis",
+      "Giant cell arteritis",
+      "Myasthenia gravis"
+    ],
+    "correctIndex": 2,
+    "explanation": "GCA causes arteritic AION; urgent steroids needed to prevent bilateral blindness.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "An infant with developmental delay, hypotonia, and failure to thrive develops progressive encephalopathy; MRI shows symmetric basal ganglia and brainstem lesions. Diagnosis?",
+    "options": [
+      "Rett syndrome",
+      "Menkes disease",
+      "MCAD deficiency",
+      "Leigh syndrome"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leigh syndrome presents in infancy with progressive neurodegeneration and characteristic MRI lesions.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 28-year-old with known mesial temporal lobe epilepsy due to hippocampal sclerosis is evaluated for surgery. Scalp EEG, semiology, PET, and neuropsychology all concordantly lateralize to the left mesial temporal lobe. What intervention maximizes chance of seizure freedom with acceptable cognitive risk?",
+    "options": [
+      "Vagus nerve stimulation",
+      "Responsive neurostimulation with bilateral hippocampal leads",
+      "Left anterior temporal lobectomy with amygdalohippocampectomy",
+      "Deep brain stimulation of the anterior nucleus of thalamus"
+    ],
+    "correctIndex": 2,
+    "explanation": "With strong concordant unilateral mesial temporal localization, resection (ATL with amygdalohippocampectomy) has the highest seizure‑freedom rates. Incorrect: (2) RNS reduces seizures but has lower seizure‑freedom rates than definitive resection. (3) VNS is palliative. (4) ANT‑DBS reduces frequency but rarely cures.",
+    "category": "Epilepsy & EEG",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "Genetic mechanism in Duchenne muscular dystrophy:",
+    "options": [
+      "SMN1 deletion",
+      "Frameshift/nonsense mutations in dystrophin gene",
+      "In-frame mutation in dystrophin",
+      "FMR1 CGG expansion"
+    ],
+    "correctIndex": 1,
+    "explanation": "DMD typically results from out-of-frame mutations causing absent dystrophin; in-frame mutations → Becker.",
+    "category": "Pediatric Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "Anti-Hu (ANNA-1) antibodies are associated with which paraneoplastic syndrome?",
+    "options": [
+      "NMDA encephalitis",
+      "Opsoclonus-myoclonus",
+      "Lambert–Eaton",
+      "Paraneoplastic encephalomyelitis and sensory neuropathy in small-cell lung cancer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anti-Hu occurs in SCLC with paraneoplastic encephalitis/neuropathy.",
+    "category": "Neuro-oncology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A child with headache and vomiting has posterior fossa mass with cyst + mural nodule. Most likely diagnosis?",
+    "options": [
+      "Diffuse intrinsic pontine glioma",
+      "Medulloblastoma",
+      "Ependymoma",
+      "Pilocytic astrocytoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pilocytic astrocytoma commonly presents with cyst and mural nodule.",
+    "category": "Neuro-oncology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Best bedside tool to screen for vasospasm after SAH:",
+    "options": [
+      "Transcranial Doppler velocities rising in MCA/basilar",
+      "Carotid duplex",
+      "Fundoscopy",
+      "Toe–brachial index"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rising TCD velocities correlate with vasospasm risk and guide further imaging/intervention.",
+    "category": "Neurointensive Care",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 62-year-old with diabetes develops acute diplopia. Exam: impaired adduction, ptosis, but pupil spared. Likely etiology?",
+    "options": [
+      "Compressive posterior communicating artery aneurysm",
+      "CN IV palsy",
+      "Microvascular ischemic CN III palsy",
+      "Myasthenia gravis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Microvascular CN III palsy typically spares pupil fibers; aneurysm compresses pupillomotor fibers.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 55-year-old after out-of-hospital cardiac arrest is comatose post-targeted temperature management. At 72 hours post-rewarming, exam shows absent pupillary/corneal reflexes and extensor posturing. EEG: unreactive burst-suppression with identical bursts. NSE is markedly elevated. Which statement is correct?",
+    "options": [
+      "Early do-not-resuscitate orders at 6 hours would have been appropriate",
+      "Multimodal testing indicates very poor prognosis with high specificity for unfavorable outcome",
+      "EEG alone is sufficient for prognostication at any time point",
+      "The findings mandate immediate brain death declaration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guidelines support delayed, multimodal prognostication ≥72 h after rewarming; absent brainstem reflexes + malignant EEG + biomarker elevation strongly predict poor outcome. Incorrect: (2) Early prognostication is unreliable. (3) Single-modality is insufficient. (4) These findings do not equal brain death.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 55-year-old with SAH is at risk of delayed cerebral ischemia. Preventive therapy?",
+    "options": [
+      "Magnesium infusion",
+      "Nimodipine",
+      "Steroids",
+      "Ticlopidine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nimodipine reduces delayed cerebral ischemia after aneurysmal SAH.",
+    "category": "Neurointensive Care",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 52-year-old woman has a dural-based extra-axial tumor with calcifications and whorls. Diagnosis?",
+    "options": [
+      "Meningioma",
+      "Glioblastoma",
+      "Oligodendroglioma",
+      "Hemangioblastoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Meningiomas are extra-axial, dural-based, with whorl histology and psammoma bodies.",
+    "category": "Neuro-oncology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 55-year-old woman presents with left-sided weakness that developed over 3 days. MRI shows multiple small acute infarcts in different vascular territories. Echocardiogram reveals a large left atrial thrombus. What is the most appropriate long-term secondary prevention?",
+    "options": [
+      "Aspirin 81 mg daily",
+      "Clopidogrel 75 mg daily",
+      "Warfarin with target INR 2-3",
+      "Dual antiplatelet therapy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiple acute infarcts in different territories suggest a cardioembolic source, confirmed by the large left atrial thrombus. For cardioembolic stroke, anticoagulation with warfarin (INR 2-3) or a DOAC is superior to antiplatelet therapy for secondary prevention. Aspirin and clopidogrel are appropriate for non-cardioembolic stroke. Dual antiplatelet therapy is used for minor stroke/high-risk TIA but not for established cardioembolic stroke. The patient needs anticoagulation to prevent further embolic events from the atrial thrombus.",
+    "category": "Stroke & Cerebrovascular",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which MRI finding is most characteristic of MS?",
+    "options": [
+      "Ovoid periventricular lesions oriented perpendicular to ventricles (Dawson’s fingers)",
+      "Temporal pole atrophy only",
+      "Ring-enhancing mass with edema",
+      "Bilateral hippocampal sclerosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dawson’s fingers represent demyelinating plaques along medullary veins in MS.",
+    "category": "Neuroimmunology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A patient under anesthesia develops hypercarbia, rigidity, tachycardia, hyperthermia. Diagnosis?",
+    "options": [
+      "Neuroleptic malignant syndrome; treat with bromocriptine",
+      "Serotonin syndrome; treat with cyproheptadine",
+      "Malignant hyperthermia; treat with dantrolene",
+      "Heat stroke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Malignant hyperthermia is treated with IV dantrolene. NMS treated with bromocriptine/dantrolene. Serotonin syndrome treated with cyproheptadine. Heat stroke is environmental.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 50-year-old chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia. He has been eating poorly for several weeks. What is the most appropriate immediate treatment?",
+    "options": [
+      "IV glucose",
+      "IV magnesium",
+      "IV multivitamins",
+      "IV thiamine"
+    ],
+    "correctIndex": 3,
+    "explanation": "This patient has Wernicke's encephalopathy, characterized by the classic triad of confusion, ataxia, and ophthalmoplegia in the setting of chronic alcoholism and malnutrition. IV thiamine is the immediate treatment and must be given before glucose administration to prevent precipitating or worsening Wernicke's encephalopathy. Thiamine deficiency impairs glucose metabolism, and giving glucose without thiamine can rapidly deplete remaining thiamine stores and worsen symptoms. The condition can progress to irreversible Korsakoff syndrome if not promptly treated. High-dose parenteral thiamine should be continued for several days.",
+    "category": "General Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Which childhood brain tumor is associated with drop metastases through CSF pathways?",
+    "options": [
+      "Craniopharyngioma",
+      "Pilocytic astrocytoma",
+      "Meningioma",
+      "Medulloblastoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Medulloblastoma often seeds CSF → spinal drop metastases.",
+    "category": "Neuro-oncology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A patient cannot abduct the right eye. Which nerve is affected?",
+    "options": [
+      "Right oculomotor (CN III)",
+      "Right abducens (CN VI)",
+      "Left trochlear (CN IV)",
+      "Optic nerve"
+    ],
+    "correctIndex": 1,
+    "explanation": "CN VI innervates lateral rectus for abduction.",
+    "category": "Neuro-ophthalmology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "Precocious puberty with café-au-lait spots and polyostotic fibrous dysplasia suggests:",
+    "options": [
+      "TSC",
+      "NF1",
+      "McCune–Albright syndrome",
+      "Apert syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "McCune–Albright results from activating GNAS mutations; endocrine abnormalities are common.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 72-year-old woman presents with a 2-year history of progressive memory loss and confusion. Her daughter reports she frequently gets lost in familiar places and has difficulty recognizing faces. Mini-Mental State Exam score is 18/30. MRI shows bilateral hippocampal and temporal lobe atrophy. CSF analysis reveals decreased Aβ42 and elevated total tau and phosphorylated tau. What is the most likely diagnosis?",
+    "options": [
+      "Frontotemporal dementia",
+      "Alzheimer's disease",
+      "Lewy body dementia",
+      "Normal pressure hydrocephalus"
+    ],
+    "correctIndex": 1,
+    "explanation": "This patient presents with classic Alzheimer's disease: progressive memory loss, visuospatial difficulties (getting lost), temporal lobe atrophy on MRI, and characteristic CSF biomarkers (low Aβ42, high tau). The CSF pattern is highly specific for AD pathology. Frontotemporal dementia typically presents with behavioral changes and frontal atrophy. Lewy body dementia would have visual hallucinations, fluctuating cognition, and parkinsonism. Normal pressure hydrocephalus presents with the triad of gait disturbance, urinary incontinence, and dementia, with ventricular enlargement on imaging.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 72-year-old woman presents with fluctuating confusion, visual hallucinations of people and animals, and mild parkinsonian features. Cognitive testing shows prominent visuospatial deficits. What is the most likely underlying pathology?",
+    "options": [
+      "Alzheimer pathology (amyloid plaques and neurofibrillary tangles)",
+      "Tau pathology (Pick bodies)",
+      "TDP-43 pathology",
+      "Alpha-synuclein (Lewy bodies)"
+    ],
+    "correctIndex": 3,
+    "explanation": "This presentation is classic for dementia with Lewy bodies (DLB), characterized by fluctuating cognition, visual hallucinations, parkinsonism, and visuospatial deficits. The underlying pathology is alpha-synuclein aggregation forming Lewy bodies throughout the cortex and brainstem. Alzheimer pathology (amyloid and tau) causes typical AD. Tau pathology (Pick bodies) is seen in frontotemporal dementia. TDP-43 pathology is associated with frontotemporal dementia and ALS. DLB is the second most common neurodegenerative dementia after AD.",
+    "category": "Cognitive & Behavioral Neurology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 5-year-old boy has calf pseudohypertrophy, Gowers sign, and CK 18,000 IU/L. Likely diagnosis?",
+    "options": [
+      "SMA type 2",
+      "Duchenne muscular dystrophy",
+      "Becker muscular dystrophy",
+      "Pompe disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Duchenne presents in early childhood with proximal weakness and markedly elevated CK.",
+    "category": "Pediatric Neurology",
+    "difficulty": "easy"
+  },
+  {
+    "stem": "A 34-year-old woman with MS relapse fails IV steroids. Next step?",
+    "options": [
+      "Oral low-dose steroids",
+      "Plasma exchange",
+      "No treatment",
+      "Azathioprine"
+    ],
+    "correctIndex": 1,
+    "explanation": "PLEX benefits steroid-refractory acute relapses.",
+    "category": "Neuroimmunology",
+    "difficulty": "medium"
+  },
+  {
+    "stem": "A 7-year-old with sickle cell disease has left hemiparesis. MRI/MRA confirm acute right MCA infarct and intracranial stenosis. Best acute and secondary prevention strategy?",
+    "options": [
+      "Urgent exchange transfusion to reduce HbS and chronic transfusion program; add hydroxyurea as indicated",
+      "IV alteplase within 4.5 h and stop transfusions",
+      "Aspirin only without transfusions",
+      "Warfarin lifelong"
+    ],
+    "correctIndex": 0,
+    "explanation": "In pediatric SCD stroke, urgent exchange transfusion improves oxygen delivery and reduces sickling; chronic transfusion reduces recurrence, with hydroxyurea adjunct. Incorrect: (2) Thrombolysis evidence is limited in SCD pediatrics; transfusion is standard. (3) Aspirin alone is inadequate. (4) Warfarin is not first-line.",
+    "category": "Pediatric Neurology",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "In spontaneous ICH with prior aspirin use, what is the best hemostatic approach?",
+    "options": [
+      "Platelet transfusion improves outcomes",
+      "Vitamin K reverses aspirin",
+      "Desmopressin (DDAVP) may be considered; routine platelet transfusion is not recommended",
+      "No reversal of antiplatelet effect is possible"
+    ],
+    "correctIndex": 2,
+    "explanation": "PATCH trial showed harm with platelet transfusion in spontaneous ICH on antiplatelets. DDAVP may transiently improve platelet function; weigh risks/benefits.",
+    "category": "Neurointensive Care",
+    "difficulty": "hard"
+  },
+  {
+    "stem": "A 58-year-old with primary progressive MS has worsening gait. Which therapy is FDA-approved?",
+    "options": [
+      "Glatiramer",
+      "Interferon-beta",
+      "Natalizumab",
+      "Ocrelizumab"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ocrelizumab is the only FDA-approved therapy for PPMS. Other agents lack proven benefit.",
+    "category": "Neuroimmunology",
+    "difficulty": "hard"
+  }
+]
