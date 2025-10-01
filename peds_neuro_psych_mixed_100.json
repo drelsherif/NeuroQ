@@ -1,0 +1,1329 @@
+{
+  "meta": {
+    "format": "mcq-bank",
+    "version": "1.0",
+    "generator": "ChatGPT",
+    "created": "2025-10-01",
+    "topic": "Pediatric Neurology (75%) + Psychiatry (25%) — Mixed",
+    "notes": "100 MCQs with difficulty 20/30/50 and balanced A–D answers; board-style explanations (right and wrong)."
+  },
+  "questions": [
+    {
+      "stem": "A 3-year-old post-varicella presents with ataxia and truncal instability. Most likely diagnosis?",
+      "options": [
+        "Acute cerebellar ataxia",
+        "GBS",
+        "AFM",
+        "Brainstem glioma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post-infectious acute cerebellar ataxia is common after varicella in toddlers and is typically self-limited.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A teenager with migraines and stroke-like episodes, elevated lactate, and maternal inheritance. Diagnosis?",
+      "options": [
+        "Wilson disease",
+        "MELAS",
+        "MERRF",
+        "Leigh syndrome"
+      ],
+      "correctIndex": 1,
+      "explanation": "MELAS: mitochondrial encephalopathy, lactic acidosis, stroke-like episodes with maternal inheritance.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which SSRI has the best evidence and FDA approval for pediatric OCD? (case 17)",
+      "options": [
+        "Fluoxetine",
+        "Citalopram",
+        "Sertraline",
+        "Paroxetine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sertraline and fluoxetine have strong pediatric OCD evidence; paroxetine not preferred in youth; citalopram lacks FDA pediatric OCD approval.",
+      "category": "Psychiatry",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 15-year-old has early-morning myoclonic jerks and photic sensitivity; EEG shows 4–6 Hz polyspike–wave. Diagnosis?",
+      "options": [
+        "Juvenile absence epilepsy",
+        "Temporal lobe epilepsy",
+        "Lennox–Gastaut syndrome",
+        "Juvenile myoclonic epilepsy"
+      ],
+      "correctIndex": 3,
+      "explanation": "JME: myoclonus after awakening, GTCs, photic sensitivity, 4–6 Hz polyspike–wave.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 4-year-old with staring spells has generalized 3 Hz spike–wave and atonic seizures. Syndrome? (case 66)",
+      "options": [
+        "Doose syndrome",
+        "BECTS",
+        "Lennox–Gastaut syndrome",
+        "Childhood absence epilepsy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Myoclonic–atonic epilepsy (Doose) presents with atonic/myoclonic seizures; LGS has slow spike–wave and multiple seizure types.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which is a common cause of pediatric arterial ischemic stroke? (case 51)",
+      "options": [
+        "Atrial fibrillation",
+        "Congenital heart disease and arteriopathies (e.g., moyamoya)",
+        "Giant cell arteritis",
+        "Primary CNS lymphoma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pediatric stroke often relates to congenital heart disease, arteriopathies (moyamoya), cervical dissections, or sickle cell—AF is uncommon in children.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 2-year-old with TSC develops infantile spasms. Best initial therapy?",
+      "options": [
+        "Valproate",
+        "Ethosuximide",
+        "Vigabatrin",
+        "Lamotrigine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vigabatrin is first-line for TSC-associated spasms; ethosuximide treats absence; lamotrigine/valproate are not first choice here.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 6-year-old has recurrent hemiplegia with migraine-like episodes and developmental delay. Consider which channelopathy? (case 71)",
+      "options": [
+        "SCN1A",
+        "KCNQ2",
+        "RYR1",
+        "CACNA1A (hemiplegic migraine)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Familial hemiplegic migraine is linked to CACNA1A; SCN1A—Dravet; KCNQ2—neonatal epilepsy; RYR1—myopathy.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Best acute therapy for pediatric status epilepticus after benzodiazepine?",
+      "options": [
+        "Fosphenytoin/levetiracetam/valproate per weight-based dosing",
+        "Carbamazepine",
+        "Ethosuximide",
+        "Tiagabine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Second-line options include fosphenytoin, levetiracetam, or valproate; others are not used acutely.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 12-year-old with autism has severe irritability/aggression. Which medication has FDA indication?",
+      "options": [
+        "Lithium",
+        "Risperidone or aripiprazole",
+        "Fluoxetine",
+        "Guanfacine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Risperidone and aripiprazole are approved for irritability in autism; others may help specific symptoms but not FDA-indicated here.",
+      "category": "Psychiatry",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 10-year-old with new visual loss and multiphasic demyelinating episodes with anti-MOG antibodies. Diagnosis? (case 74)",
+      "options": [
+        "Sarcoidosis",
+        "Multiple sclerosis",
+        "MOGAD (MOG antibody-associated disease)",
+        "NMOSD (AQP4+)"
+      ],
+      "correctIndex": 2,
+      "explanation": "MOGAD often presents in pediatrics with optic neuritis and ADEM-like features; distinguishes from MS/NMOSD.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 2-month-old has brief tonic spasms and EEG shows burst–suppression. Syndrome?",
+      "options": [
+        "West syndrome",
+        "Lennox–Gastaut syndrome",
+        "Benign myoclonus of infancy",
+        "Ohtahara syndrome"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ohtahara presents in neonates with burst–suppression; West comes later with hypsarrhythmia.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 15-year-old has early-morning myoclonic jerks and photic sensitivity; EEG shows 4–6 Hz polyspike–wave. Diagnosis? (case 56)",
+      "options": [
+        "Juvenile myoclonic epilepsy",
+        "Juvenile absence epilepsy",
+        "Temporal lobe epilepsy",
+        "Lennox–Gastaut syndrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "JME: myoclonus after awakening, GTCs, photic sensitivity, 4–6 Hz polyspike–wave.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 2-month-old has brief tonic spasms and EEG shows burst–suppression. Syndrome? (case 57)",
+      "options": [
+        "Benign myoclonus of infancy",
+        "Ohtahara syndrome",
+        "West syndrome",
+        "Lennox–Gastaut syndrome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ohtahara presents in neonates with burst–suppression; West comes later with hypsarrhythmia.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A child with neurofibromatosis type 1 presents with tibial bowing and multiple café-au-lait macules. Which ophthalmologic finding is typical? (case 73)",
+      "options": [
+        "Brushfield spots",
+        "Cherry-red spot",
+        "Lisch nodules",
+        "Kayser–Fleischer rings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lisch nodules are iris hamartomas in NF1.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 10-year-old with optic neuritis and longitudinally extensive transverse myelitis; AQP4-IgG positive. Treatment?",
+      "options": [
+        "No therapy needed",
+        "Glatiramer acetate",
+        "Interferon beta",
+        "High-dose steroids and consider rituximab"
+      ],
+      "correctIndex": 3,
+      "explanation": "NMOSD is treated acutely with steroids/PLEX and prevented with B-cell–directed therapy; interferons can worsen disease.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 10-year-old has nocturnal focal facial seizures with drooling and speech arrest; EEG shows centrotemporal spikes. Diagnosis? (case 49)",
+      "options": [
+        "Benign epilepsy with centrotemporal spikes (BECTS)",
+        "Lennox–Gastaut syndrome",
+        "Dravet syndrome",
+        "Panayiotopoulos syndrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "BECTS (self-limited epilepsy with centrotemporal spikes) presents with nocturnal focal facial seizures; other options have different semiology/EEG.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 15-year-old with MDD and suicidality. Best acute step? (case 18)",
+      "options": [
+        "Start SSRI and routine follow-up in 1 month",
+        "Immediate safety planning, close monitoring, and consider inpatient care",
+        "Start bupropion only",
+        "Wait and watch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acute suicidality warrants safety planning, crisis evaluation, possible inpatient stabilization; medication initiated with close monitoring.",
+      "category": "Psychiatry",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which SSRI has the best evidence and FDA approval for pediatric OCD?",
+      "options": [
+        "Fluoxetine",
+        "Citalopram",
+        "Sertraline",
+        "Paroxetine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sertraline and fluoxetine have strong pediatric OCD evidence; paroxetine not preferred in youth; citalopram lacks FDA pediatric OCD approval.",
+      "category": "Psychiatry",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 7-year-old with opsoclonus–myoclonus improves on steroids but relapses. Next immunotherapy?",
+      "options": [
+        "Carbamazepine",
+        "Dopamine agonists",
+        "Baclofen",
+        "IVIG or rituximab"
+      ],
+      "correctIndex": 3,
+      "explanation": "Escalation to IVIG or rituximab is appropriate in relapsing OMS.",
+      "category": "Pediatric Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 9-year-old with refractory focal epilepsy due to focal cortical dysplasia in language cortex. Best interventional approach?",
+      "options": [
+        "Responsive neurostimulation or laser ablation with mapping",
+        "VNS only",
+        "No options left",
+        "Open resection without mapping"
+      ],
+      "correctIndex": 0,
+      "explanation": "In eloquent cortex, neuromodulation or minimally invasive ablation with functional mapping can reduce seizures while sparing function.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 14-year-old with progressive scoliosis and foot deformities; EMG/NCS show axonal neuropathy. Most likely diagnosis?",
+      "options": [
+        "Charcot–Marie–Tooth type 1",
+        "Charcot–Marie–Tooth type 2",
+        "Spinal muscular atrophy",
+        "Polyneuropathy due to diabetes"
+      ],
+      "correctIndex": 1,
+      "explanation": "CMT2 is axonal; CMT1 is demyelinating with slowed velocities.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A neonate with myotonia, cataracts, and maternal history of muscle weakness. Disorder?",
+      "options": [
+        "Pompe disease",
+        "Spinal muscular atrophy type 2",
+        "Congenital myotonic dystrophy (DM1)",
+        "Becker muscular dystrophy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Congenital DM1 presents with neonatal hypotonia/myotonia and maternal history due to anticipation.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Adolescent with new-onset psychosis and catatonia after viral prodrome; CSF anti-NMDA receptor antibodies positive. Initial treatment? (case 22)",
+      "options": [
+        "Haloperidol only",
+        "SSRI",
+        "Electroconvulsive therapy first-line",
+        "High-dose steroids/IVIG/PLEX and tumor search"
+      ],
+      "correctIndex": 3,
+      "explanation": "Autoimmune encephalitis is treated with immunotherapy and tumor search; antipsychotics are adjunctive only.",
+      "category": "Psychiatry",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "First-line pharmacotherapy for pediatric generalized anxiety disorder:",
+      "options": [
+        "SSRIs (e.g., fluoxetine/sertraline) with CBT",
+        "Antipsychotics",
+        "Buspirone monotherapy only",
+        "Benzodiazepines"
+      ],
+      "correctIndex": 0,
+      "explanation": "SSRIs and CBT are first-line; benzodiazepines and antipsychotics are not first-line in youth.",
+      "category": "Psychiatry",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 4-year-old with developmental regression, ataxia, and cherry-red spot. Likely enzyme deficiency? (case 50)",
+      "options": [
+        "Glucocerebrosidase",
+        "Hexosaminidase A (Tay–Sachs)",
+        "Arylsulfatase A",
+        "Alpha-L-iduronidase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tay–Sachs: hexosaminidase A deficiency with neurodegeneration and cherry-red spot. Metachromatic leukodystrophy is arylsulfatase A deficiency; Hurler is alpha-L-iduronidase; Gaucher is glucocerebrosidase.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Adolescent on isotretinoin develops depressed mood and suicidal ideation. Best action?",
+      "options": [
+        "Add benzodiazepine",
+        "Continue without changes",
+        "Stop isotretinoin and urgent mental health evaluation",
+        "Add bupropion only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Isotretinoin has associations with mood changes; acute suicidality needs urgent evaluation and stopping potential contributors.",
+      "category": "Psychiatry",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A child with neurofibromatosis type 1 presents with tibial bowing and multiple café-au-lait macules. Which ophthalmologic finding is typical?",
+      "options": [
+        "Kayser–Fleischer rings",
+        "Brushfield spots",
+        "Cherry-red spot",
+        "Lisch nodules"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lisch nodules are iris hamartomas in NF1.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 14-year-old with tics and ADHD. Best initial medication choice to reduce tics and improve ADHD symptoms?",
+      "options": [
+        "Guanfacine (alpha-2 agonist)",
+        "Haloperidol",
+        "Fluoxetine",
+        "Methylphenidate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alpha-2 agonists reduce tics and help ADHD; stimulants can sometimes exacerbate tics (though often tolerated); haloperidol reserved for severe tics.",
+      "category": "Psychiatry",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 15-year-old with headaches, gait ataxia, and mass in cerebellar hemisphere with cyst and mural nodule. Likely tumor?",
+      "options": [
+        "Craniopharyngioma",
+        "Pilocytic astrocytoma",
+        "Ependymoma",
+        "Medulloblastoma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pilocytic astrocytoma often presents as cyst with mural nodule in cerebellum.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 3-year-old with ataxia, telangiectasias, and recurrent infections. Gene involved?",
+      "options": [
+        "FMR1",
+        "DYT1",
+        "ATM",
+        "MECP2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ataxia–telangiectasia is due to ATM mutations; MECP2—Rett; FMR1—fragile X; DYT1—torsion dystonia.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 2-year-old with TSC develops infantile spasms. Best initial therapy? (case 48)",
+      "options": [
+        "Lamotrigine",
+        "Valproate",
+        "Ethosuximide",
+        "Vigabatrin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vigabatrin is first-line for TSC-associated spasms; ethosuximide treats absence; lamotrigine/valproate are not first choice here.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Duchenne muscular dystrophy, the absent protein is: (case 60)",
+      "options": [
+        "Dystrophin",
+        "Sarcoglycan",
+        "Merosin",
+        "Caveolin-3"
+      ],
+      "correctIndex": 0,
+      "explanation": "DMD results from dystrophin deficiency; sarcoglycanopathies and merosin deficiency are other dystrophies.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A child with ataxia and intention tremor; MRI shows cerebellar vermis tumor. Most likely histology? (case 64)",
+      "options": [
+        "Craniopharyngioma",
+        "Medulloblastoma",
+        "Pilocytic astrocytoma",
+        "Ependymoma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Midline posterior fossa tumors in children are often medulloblastomas; pilocytic astrocytoma is more often hemispheric cystic with mural nodule.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which headache feature most suggests increased intracranial pressure in a child? (case 75)",
+      "options": [
+        "Aura with fortification spectra",
+        "Triggered by chocolate",
+        "Worse on awakening and with Valsalva, papilledema",
+        "Unilateral throbbing with photophobia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Morning/Valsalva worsening and papilledema suggest raised ICP.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A neonate with hypotonia and cardiomegaly has acid maltase deficiency. Therapy?",
+      "options": [
+        "High-dose steroids",
+        "Interferon beta",
+        "No therapy available",
+        "Enzyme replacement (alglucosidase alfa)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Infantile Pompe disease is treated with enzyme replacement.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Adolescent on isotretinoin develops depressed mood and suicidal ideation. Best action? (case 24)",
+      "options": [
+        "Stop isotretinoin and urgent mental health evaluation",
+        "Add bupropion only",
+        "Add benzodiazepine",
+        "Continue without changes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Isotretinoin has associations with mood changes; acute suicidality needs urgent evaluation and stopping potential contributors.",
+      "category": "Psychiatry",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 5-year-old has episodes of pallor, emesis, and eye deviation lasting minutes; EEG shows shifting occipital spikes. Diagnosis? (case 53)",
+      "options": [
+        "Dravet syndrome",
+        "Panayiotopoulos syndrome",
+        "BECTS",
+        "Doose syndrome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Panayiotopoulos syndrome features autonomic seizures with emesis and occipital spikes that may shift laterality.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Best treatment for pediatric OCD when SSRI monotherapy provides partial response:",
+      "options": [
+        "Add haloperidol",
+        "Stop therapy entirely",
+        "Increase SSRI to maximal tolerated and add CBT with exposure/response prevention",
+        "Switch to benzodiazepines"
+      ],
+      "correctIndex": 2,
+      "explanation": "ERP-based CBT plus optimized SSRI is evidence-based; benzos/antipsychotics are not first-line augmentations in youth.",
+      "category": "Psychiatry",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 9-year-old with new-onset ataxia and opsoclonus–myoclonus. Best next step?",
+      "options": [
+        "Start valproate only",
+        "Lumbar puncture only",
+        "EEG only",
+        "Urine catecholamines and imaging for neuroblastoma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Opsoclonus–myoclonus in children is paraneoplastic; evaluate for neuroblastoma with urine HVA/VMA and imaging.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A child with refractory epilepsy and hemimegalencephaly. Most effective surgical option?",
+      "options": [
+        "Functional hemispherectomy/hemispherotomy",
+        "VNS only",
+        "Corpus callosotomy",
+        "Focal corticectomy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hemimegalencephaly often requires hemispherotomy for seizure control.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 12-year-old with headaches worse with Valsalva and cerebellar tonsillar herniation on MRI. Diagnosis?",
+      "options": [
+        "Tethered cord",
+        "Chiari I malformation",
+        "Dandy–Walker malformation",
+        "Arachnoid cyst"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chiari I: tonsillar ectopia; Valsalva exacerbation and occipital headaches.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A neonate with hypotonia and feeding difficulties develops respiratory failure; EMG shows decrement on RNS and improvement after edrophonium. Diagnosis?",
+      "options": [
+        "Spinal muscular atrophy",
+        "Congenital myopathy",
+        "Congenital myasthenic syndrome",
+        "Botulism"
+      ],
+      "correctIndex": 2,
+      "explanation": "CMS causes NMJ transmission failure with decrement; botulism presents later and with autonomic signs.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 5-year-old with acute hemiparesis after minor head turning; MRA shows carotid dissection. Preferred antithrombotic?",
+      "options": [
+        "Dual antiplatelets long-term",
+        "Warfarin for life",
+        "Immediate thrombolysis",
+        "Antiplatelet therapy (aspirin)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pediatric cervical dissections are often treated with antiplatelet therapy; decisions individualized.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 5-year-old with developmental delay and multiple hypomelanotic macules. EEG has epileptiform discharges; MRI shows cortical tubers. Diagnosis?",
+      "options": [
+        "Tuberous sclerosis complex",
+        "Sturge–Weber syndrome",
+        "NF2",
+        "Ataxia–telangiectasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "TSC: ash-leaf spots, cortical tubers, epilepsy.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In pediatric stroke due to sickle cell disease, the most effective primary prevention is: (case 67)",
+      "options": [
+        "Daily aspirin alone",
+        "Chronic transfusion to keep HbS <30%",
+        "Warfarin",
+        "Dual antiplatelets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chronic transfusions reduce stroke risk in SCD; aspirin/warfarin are not primary prevention here.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Best acute therapy for pediatric status epilepticus after benzodiazepine? (case 62)",
+      "options": [
+        "Ethosuximide",
+        "Tiagabine",
+        "Fosphenytoin/levetiracetam/valproate per weight-based dosing",
+        "Carbamazepine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Second-line options include fosphenytoin, levetiracetam, or valproate; others are not used acutely.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 12-year-old with NF1 presents with new headaches and precocious puberty. Concern for: (case 61)",
+      "options": [
+        "Meningioma",
+        "Acoustic neuroma",
+        "Medulloblastoma",
+        "Optic pathway glioma involving hypothalamus"
+      ],
+      "correctIndex": 3,
+      "explanation": "NF1 is associated with optic pathway gliomas which may affect hypothalamus → endocrine changes.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A neonate with hypotonia, poor feeding, and myopathic facies has CK 1800 IU/L. EMG shows small, short-duration MUAPs with early recruitment. Likely disorder?",
+      "options": [
+        "Congenital myopathy/myositis",
+        "Spinal muscular atrophy",
+        "Congenital myasthenic syndrome",
+        "Peripheral neuropathy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Myopathy shows small, short-duration MUAPs and elevated CK; SMA has denervation; CMS shows NMJ failure; neuropathy shows reduced recruitment with large units.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 4-year-old with progressive weakness, cardiomyopathy, elevated CK, and Gowers sign. Best confirmatory test?",
+      "options": [
+        "CSF analysis",
+        "Dystrophin gene testing and/or muscle biopsy with absent dystrophin",
+        "EMG only",
+        "EEG"
+      ],
+      "correctIndex": 1,
+      "explanation": "DMD is confirmed by genetic testing and/or dystrophin absence on biopsy.",
+      "category": "Pediatric Neurology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which antipsychotic has the highest metabolic risk and requires monitoring of weight, lipids, and glucose? (case 25)",
+      "options": [
+        "Ziprasidone",
+        "Aripiprazole",
+        "Olanzapine",
+        "Haloperidol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Olanzapine carries high metabolic risk; monitoring is essential.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 6-month-old with clusters of brief flexor spasms on awakening and hypsarrhythmia on EEG. First-line therapy (no TSC)? (case 47)",
+      "options": [
+        "Carbamazepine",
+        "Clonazepam",
+        "Levetiracetam",
+        "ACTH or high-dose prednisolone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Infantile spasms are treated first-line with hormonal therapy (ACTH or high-dose prednisolone). Vigabatrin is first-line in TSC. Carbamazepine may worsen generalized epilepsies; clonazepam is not first-line.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 10-year-old has nocturnal focal facial seizures with drooling and speech arrest; EEG shows centrotemporal spikes. Diagnosis?",
+      "options": [
+        "Benign epilepsy with centrotemporal spikes (BECTS)",
+        "Lennox–Gastaut syndrome",
+        "Dravet syndrome",
+        "Panayiotopoulos syndrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "BECTS (self-limited epilepsy with centrotemporal spikes) presents with nocturnal focal facial seizures; other options have different semiology/EEG.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 7-year-old with hyperventilation-provoked staring spells and 3 Hz spike–wave on EEG. Best first-line med? (case 52)",
+      "options": [
+        "Carbamazepine",
+        "Ethosuximide",
+        "Phenytoin",
+        "Tiagabine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Childhood absence epilepsy responds to ethosuximide; sodium channel blockers may worsen absence.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 7-year-old with headaches, papilledema, and transverse sinus stenosis on MRV. Likely diagnosis?",
+      "options": [
+        "Arteriovenous malformation",
+        "Migraine with aura",
+        "Idiopathic intracranial hypertension",
+        "Cavernous sinus thrombosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "IIH can show transverse sinus stenosis; papilledema and headache are typical.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A child on valproate and lamotrigine develops fever and rash. Highest concern?",
+      "options": [
+        "Photosensitivity only",
+        "Contact dermatitis",
+        "Simple viral exanthem",
+        "DRESS or SJS/TEN due to interaction raising lamotrigine levels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Valproate inhibits lamotrigine metabolism → higher risk of severe rash; stop immediately and evaluate.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 9-year-old with new-onset ataxia and opsoclonus–myoclonus. Best next step? (case 59)",
+      "options": [
+        "Urine catecholamines and imaging for neuroblastoma",
+        "Start valproate only",
+        "Lumbar puncture only",
+        "EEG only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opsoclonus–myoclonus in children is paraneoplastic; evaluate for neuroblastoma with urine HVA/VMA and imaging.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A neonate with hypotonia, tongue fasciculations, and paradoxical breathing. Likely genetic cause? (case 69)",
+      "options": [
+        "Channelopathy",
+        "SMN1 deletion (SMA type 1)",
+        "Dystrophin mutation",
+        "POLG mutation"
+      ],
+      "correctIndex": 1,
+      "explanation": "SMA type 1 (Werdnig–Hoffmann) is due to SMN1 deletions and presents with severe hypotonia and tongue fasciculations.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A neonate with hypotonia, tongue fasciculations, and paradoxical breathing. Likely genetic cause?",
+      "options": [
+        "POLG mutation",
+        "Channelopathy",
+        "SMN1 deletion (SMA type 1)",
+        "Dystrophin mutation"
+      ],
+      "correctIndex": 2,
+      "explanation": "SMA type 1 (Werdnig–Hoffmann) is due to SMN1 deletions and presents with severe hypotonia and tongue fasciculations.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 7-year-old with headaches, papilledema, and transverse sinus stenosis on MRV. Likely diagnosis? (case 63)",
+      "options": [
+        "Cavernous sinus thrombosis",
+        "Arteriovenous malformation",
+        "Migraine with aura",
+        "Idiopathic intracranial hypertension"
+      ],
+      "correctIndex": 3,
+      "explanation": "IIH can show transverse sinus stenosis; papilledema and headache are typical.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 6-year-old has recurrent hemiplegia with migraine-like episodes and developmental delay. Consider which channelopathy?",
+      "options": [
+        "CACNA1A (hemiplegic migraine)",
+        "SCN1A",
+        "KCNQ2",
+        "RYR1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Familial hemiplegic migraine is linked to CACNA1A; SCN1A—Dravet; KCNQ2—neonatal epilepsy; RYR1—myopathy.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 7-year-old with hyperventilation-provoked staring spells and 3 Hz spike–wave on EEG. Best first-line med?",
+      "options": [
+        "Carbamazepine",
+        "Ethosuximide",
+        "Phenytoin",
+        "Tiagabine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Childhood absence epilepsy responds to ethosuximide; sodium channel blockers may worsen absence.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 5-year-old has episodes of pallor, emesis, and eye deviation lasting minutes; EEG shows shifting occipital spikes. Diagnosis?",
+      "options": [
+        "Doose syndrome",
+        "Dravet syndrome",
+        "Panayiotopoulos syndrome",
+        "BECTS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Panayiotopoulos syndrome features autonomic seizures with emesis and occipital spikes that may shift laterality.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 14-year-old with progressive scoliosis and foot deformities; EMG/NCS show axonal neuropathy. Most likely diagnosis? (case 68)",
+      "options": [
+        "Spinal muscular atrophy",
+        "Polyneuropathy due to diabetes",
+        "Charcot–Marie–Tooth type 1",
+        "Charcot–Marie–Tooth type 2"
+      ],
+      "correctIndex": 3,
+      "explanation": "CMT2 is axonal; CMT1 is demyelinating with slowed velocities.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which side effect is MOST linked to stimulants in ADHD?",
+      "options": [
+        "Appetite suppression and insomnia",
+        "Hyperprolactinemia",
+        "Agranulocytosis",
+        "Severe hepatotoxicity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stimulants commonly cause appetite loss and insomnia; severe liver injury is not typical; hyperprolactinemia is antipsychotic-related.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 4-year-old with staring spells has generalized 3 Hz spike–wave and atonic seizures. Syndrome?",
+      "options": [
+        "Childhood absence epilepsy",
+        "Doose syndrome",
+        "BECTS",
+        "Lennox–Gastaut syndrome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Myoclonic–atonic epilepsy (Doose) presents with atonic/myoclonic seizures; LGS has slow spike–wave and multiple seizure types.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 16-year-old with binge–purge behaviors and lanugo presents with BMI 15. Best management?",
+      "options": [
+        "Antipsychotics only",
+        "Outpatient CBT only",
+        "Nutritional rehabilitation with medical monitoring; psychotherapy; consider SSRIs when weight restored",
+        "Benzodiazepines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Severe anorexia/bulimia require medical stabilization and nutritional rehab with psychotherapy; SSRIs help bulimia and relapse prevention.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 6-year-old with refractory drop attacks and slow spike–wave on EEG. Palliative surgery to reduce falls?",
+      "options": [
+        "Hemispherotomy",
+        "RNS only",
+        "Temporal lobectomy",
+        "Corpus callosotomy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Callosotomy reduces atonic/drop seizures in LGS.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 9-year-old with inattention, hyperactivity across settings, and academic impairment. First-line therapy? (case 16)",
+      "options": [
+        "Behavioral therapy and stimulant medication",
+        "Antipsychotics",
+        "Benzodiazepines",
+        "Bupropion first"
+      ],
+      "correctIndex": 0,
+      "explanation": "ADHD first-line includes behavioral therapy and stimulants (methylphenidate/amphetamines). Antipsychotics/benzodiazepines are not first-line; bupropion is second-line.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In pediatric stroke due to sickle cell disease, the most effective primary prevention is:",
+      "options": [
+        "Daily aspirin alone",
+        "Chronic transfusion to keep HbS <30%",
+        "Warfarin",
+        "Dual antiplatelets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chronic transfusions reduce stroke risk in SCD; aspirin/warfarin are not primary prevention here.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 6-month-old with clusters of brief flexor spasms on awakening and hypsarrhythmia on EEG. First-line therapy (no TSC)?",
+      "options": [
+        "Clonazepam",
+        "Levetiracetam",
+        "ACTH or high-dose prednisolone",
+        "Carbamazepine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infantile spasms are treated first-line with hormonal therapy (ACTH or high-dose prednisolone). Vigabatrin is first-line in TSC. Carbamazepine may worsen generalized epilepsies; clonazepam is not first-line.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "First-line pharmacotherapy for pediatric generalized anxiety disorder: (case 21)",
+      "options": [
+        "Antipsychotics",
+        "Buspirone monotherapy only",
+        "Benzodiazepines",
+        "SSRIs (e.g., fluoxetine/sertraline) with CBT"
+      ],
+      "correctIndex": 3,
+      "explanation": "SSRIs and CBT are first-line; benzodiazepines and antipsychotics are not first-line in youth.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "An adolescent with migraines needs prevention and is overweight. Best option? (case 58)",
+      "options": [
+        "Topiramate",
+        "Amitriptyline",
+        "Cyproheptadine",
+        "Valproate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Topiramate may promote weight loss; valproate and amitriptyline can cause weight gain; cyproheptadine increases appetite.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 12-year-old with autism has severe irritability/aggression. Which medication has FDA indication? (case 19)",
+      "options": [
+        "Lithium",
+        "Risperidone or aripiprazole",
+        "Fluoxetine",
+        "Guanfacine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Risperidone and aripiprazole are approved for irritability in autism; others may help specific symptoms but not FDA-indicated here.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A neonate with hypotonia, poor feeding, and myopathic facies has CK 1800 IU/L. EMG shows small, short-duration MUAPs with early recruitment. Likely disorder? (case 54)",
+      "options": [
+        "Congenital myasthenic syndrome",
+        "Peripheral neuropathy",
+        "Congenital myopathy/myositis",
+        "Spinal muscular atrophy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Myopathy shows small, short-duration MUAPs and elevated CK; SMA has denervation; CMS shows NMJ failure; neuropathy shows reduced recruitment with large units.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "After starting SSRI, a 16-year-old develops agitation, tremor, hyperreflexia, and clonus. Diagnosis?",
+      "options": [
+        "NMS",
+        "Anticholinergic toxicity",
+        "Hypothyroidism",
+        "Serotonin syndrome"
+      ],
+      "correctIndex": 3,
+      "explanation": "Serotonin syndrome presents with neuromuscular hyperactivity and autonomic instability; NMS has lead-pipe rigidity, hyperthermia, elevated CPK.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 2-year-old with febrile seizures develops afebrile focal seizures, fever sensitivity, and SCN1A variant. Syndrome?",
+      "options": [
+        "GEFS+ / Dravet spectrum",
+        "BECTS",
+        "Doose",
+        "Panayiotopoulos"
+      ],
+      "correctIndex": 0,
+      "explanation": "GEFS+ spectrum often involves SCN1A with fever sensitivity and later afebrile seizures.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 2-year-old with febrile seizures develops afebrile focal seizures, fever sensitivity, and SCN1A variant. Syndrome? (case 72)",
+      "options": [
+        "Panayiotopoulos",
+        "GEFS+ / Dravet spectrum",
+        "BECTS",
+        "Doose"
+      ],
+      "correctIndex": 1,
+      "explanation": "GEFS+ spectrum often involves SCN1A with fever sensitivity and later afebrile seizures.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antipsychotic has the highest metabolic risk and requires monitoring of weight, lipids, and glucose?",
+      "options": [
+        "Ziprasidone",
+        "Aripiprazole",
+        "Olanzapine",
+        "Haloperidol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Olanzapine carries high metabolic risk; monitoring is essential.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 15-year-old with MDD and suicidality. Best acute step?",
+      "options": [
+        "Start bupropion only",
+        "Wait and watch",
+        "Start SSRI and routine follow-up in 1 month",
+        "Immediate safety planning, close monitoring, and consider inpatient care"
+      ],
+      "correctIndex": 3,
+      "explanation": "Acute suicidality warrants safety planning, crisis evaluation, possible inpatient stabilization; medication initiated with close monitoring.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 5-year-old with developmental delay and multiple hypomelanotic macules. EEG has epileptiform discharges; MRI shows cortical tubers. Diagnosis? (case 65)",
+      "options": [
+        "Tuberous sclerosis complex",
+        "Sturge–Weber syndrome",
+        "NF2",
+        "Ataxia–telangiectasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "TSC: ash-leaf spots, cortical tubers, epilepsy.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A child with acute flaccid paralysis, asymmetric weakness, and anterior horn cell involvement on MRI. Likely etiologic agent?",
+      "options": [
+        "EBV",
+        "Enterovirus D68",
+        "HSV-1",
+        "VZV"
+      ],
+      "correctIndex": 1,
+      "explanation": "AFM outbreaks have been linked to enterovirus D68 affecting anterior horn cells.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 10-year-old with new visual loss and multiphasic demyelinating episodes with anti-MOG antibodies. Diagnosis?",
+      "options": [
+        "Sarcoidosis",
+        "Multiple sclerosis",
+        "MOGAD (MOG antibody-associated disease)",
+        "NMOSD (AQP4+)"
+      ],
+      "correctIndex": 2,
+      "explanation": "MOGAD often presents in pediatrics with optic neuritis and ADEM-like features; distinguishes from MS/NMOSD.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which lab must be monitored for clozapine therapy?",
+      "options": [
+        "TSH",
+        "LFTs only",
+        "CK weekly",
+        "ANC per REMS schedule"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clozapine requires absolute neutrophil count monitoring to prevent agranulocytosis.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which side effect is MOST linked to stimulants in ADHD? (case 23)",
+      "options": [
+        "Appetite suppression and insomnia",
+        "Hyperprolactinemia",
+        "Agranulocytosis",
+        "Severe hepatotoxicity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stimulants commonly cause appetite loss and insomnia; severe liver injury is not typical; hyperprolactinemia is antipsychotic-related.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which is a common cause of pediatric arterial ischemic stroke?",
+      "options": [
+        "Atrial fibrillation",
+        "Congenital heart disease and arteriopathies (e.g., moyamoya)",
+        "Giant cell arteritis",
+        "Primary CNS lymphoma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pediatric stroke often relates to congenital heart disease, arteriopathies (moyamoya), cervical dissections, or sickle cell—AF is uncommon in children.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 3-year-old with ataxia, telangiectasias, and recurrent infections. Gene involved? (case 55)",
+      "options": [
+        "FMR1",
+        "DYT1",
+        "ATM",
+        "MECP2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ataxia–telangiectasia is due to ATM mutations; MECP2—Rett; FMR1—fragile X; DYT1—torsion dystonia.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 9-year-old with inattention, hyperactivity across settings, and academic impairment. First-line therapy?",
+      "options": [
+        "Antipsychotics",
+        "Benzodiazepines",
+        "Bupropion first",
+        "Behavioral therapy and stimulant medication"
+      ],
+      "correctIndex": 3,
+      "explanation": "ADHD first-line includes behavioral therapy and stimulants (methylphenidate/amphetamines). Antipsychotics/benzodiazepines are not first-line; bupropion is second-line.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "An adolescent with migraines needs prevention and is overweight. Best option?",
+      "options": [
+        "Topiramate",
+        "Amitriptyline",
+        "Cyproheptadine",
+        "Valproate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Topiramate may promote weight loss; valproate and amitriptyline can cause weight gain; cyproheptadine increases appetite.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 12-year-old with headaches worse with Valsalva and cerebellar tonsillar herniation on MRI. Diagnosis? (case 70)",
+      "options": [
+        "Tethered cord",
+        "Chiari I malformation",
+        "Dandy–Walker malformation",
+        "Arachnoid cyst"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chiari I: tonsillar ectopia; Valsalva exacerbation and occipital headaches.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antidepressant has the lowest sexual side effects and may cause weight loss?",
+      "options": [
+        "Mirtazapine",
+        "Paroxetine",
+        "Bupropion",
+        "Sertraline"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bupropion has fewer sexual side effects and can cause mild weight loss; paroxetine/mirtazapine more weight gain; SSRIs have sexual side effects.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Duchenne muscular dystrophy, the absent protein is:",
+      "options": [
+        "Sarcoglycan",
+        "Merosin",
+        "Caveolin-3",
+        "Dystrophin"
+      ],
+      "correctIndex": 3,
+      "explanation": "DMD results from dystrophin deficiency; sarcoglycanopathies and merosin deficiency are other dystrophies.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A child with ataxia and intention tremor; MRI shows cerebellar vermis tumor. Most likely histology?",
+      "options": [
+        "Medulloblastoma",
+        "Pilocytic astrocytoma",
+        "Ependymoma",
+        "Craniopharyngioma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Midline posterior fossa tumors in children are often medulloblastomas; pilocytic astrocytoma is more often hemispheric cystic with mural nodule.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which headache feature most suggests increased intracranial pressure in a child?",
+      "options": [
+        "Triggered by chocolate",
+        "Worse on awakening and with Valsalva, papilledema",
+        "Unilateral throbbing with photophobia",
+        "Aura with fortification spectra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Morning/Valsalva worsening and papilledema suggest raised ICP.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A child with Sturge–Weber has seizures and leptomeningeal angioma over right occipital lobe. Expected visual field defect?",
+      "options": [
+        "Monocular blindness",
+        "Right homonymous hemianopia",
+        "Left homonymous hemianopia",
+        "Bitemporal hemianopia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Right occipital involvement → left homonymous field loss.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 12-year-old with episodic ataxia after exertion and relief with acetazolamide. Channel involved?",
+      "options": [
+        "KCNQ1",
+        "CACNA1A",
+        "SCN2A",
+        "KCNA1"
+      ],
+      "correctIndex": 3,
+      "explanation": "Episodic ataxia type 1 is linked to KCNA1 (Kv1.1); type 2 with CACNA1A responds to acetazolamide more classically but Kv channels can be implicated; acetazolamide responsiveness is noted in channelopathies.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 16-year-old with binge–purge behaviors and lanugo presents with BMI 15. Best management? (case 20)",
+      "options": [
+        "Nutritional rehabilitation with medical monitoring; psychotherapy; consider SSRIs when weight restored",
+        "Benzodiazepines",
+        "Antipsychotics only",
+        "Outpatient CBT only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Severe anorexia/bulimia require medical stabilization and nutritional rehab with psychotherapy; SSRIs help bulimia and relapse prevention.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 4-year-old with developmental regression, ataxia, and cherry-red spot. Likely enzyme deficiency?",
+      "options": [
+        "Glucocerebrosidase",
+        "Hexosaminidase A (Tay–Sachs)",
+        "Arylsulfatase A",
+        "Alpha-L-iduronidase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tay–Sachs: hexosaminidase A deficiency with neurodegeneration and cherry-red spot. Metachromatic leukodystrophy is arylsulfatase A deficiency; Hurler is alpha-L-iduronidase; Gaucher is glucocerebrosidase.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 12-year-old with NF1 presents with new headaches and precocious puberty. Concern for:",
+      "options": [
+        "Acoustic neuroma",
+        "Medulloblastoma",
+        "Optic pathway glioma involving hypothalamus",
+        "Meningioma"
+      ],
+      "correctIndex": 2,
+      "explanation": "NF1 is associated with optic pathway gliomas which may affect hypothalamus → endocrine changes.",
+      "category": "Pediatric Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Adolescent with new-onset psychosis and catatonia after viral prodrome; CSF anti-NMDA receptor antibodies positive. Initial treatment?",
+      "options": [
+        "Haloperidol only",
+        "SSRI",
+        "Electroconvulsive therapy first-line",
+        "High-dose steroids/IVIG/PLEX and tumor search"
+      ],
+      "correctIndex": 3,
+      "explanation": "Autoimmune encephalitis is treated with immunotherapy and tumor search; antipsychotics are adjunctive only.",
+      "category": "Psychiatry",
+      "difficulty": "hard"
+    }
+  ],
+  "distributions": {
+    "correct_index": {
+      "0": 25,
+      "1": 25,
+      "2": 25,
+      "3": 25
+    },
+    "difficulty": {
+      "easy": 20,
+      "moderate": 30,
+      "hard": 50
+    },
+    "categories": {
+      "Pediatric Neurology": 75,
+      "Psychiatry": 25
+    }
+  }
+}

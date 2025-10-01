@@ -1,0 +1,1318 @@
+{
+  "meta": {
+    "format": "mcq-bank",
+    "version": "1.0",
+    "generator": "ChatGPT",
+    "created": "2025-10-01",
+    "topic": "Epilepsy & EEG",
+    "notes": "100 neurology board-style MCQs with ~25% distribution of correct options across A-D; difficulty 20% easy, 30% moderate, 50% hard."
+  },
+  "questions": [
+    {
+      "stem": "A 6‑year‑old has brief staring spells with eyelid fluttering; hyperventilation in clinic provokes a typical event. EEG shows symmetric 3 Hz spike‑and‑wave. Best first‑line therapy?",
+      "options": [
+        "Ethosuximide",
+        "Carbamazepine",
+        "Clonazepam",
+        "Valproate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Childhood absence epilepsy responds best to ethosuximide. Valproate can work but carries more adverse effects; carbamazepine may worsen absence; clonazepam is not first‑line.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Temporal intermittent rhythmic delta activity (TIRDA) on interictal EEG most strongly suggests which seizure focus?",
+      "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe",
+        "Generalized thalamocortical"
+      ],
+      "correctIndex": 1,
+      "explanation": "TIRDA is a marker of temporal lobe epileptogenicity. It does not indicate frontal or occipital focus and is not a generalized pattern.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EEG background finding is most consistent with infantile spasms (West syndrome)?",
+      "options": [
+        "Burst‑suppression",
+        "Generalized periodic discharges (1 Hz)",
+        "Hypsarrhythmia",
+        "3 Hz spike‑wave"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hypsarrhythmia is the chaotic, high‑amplitude background with multifocal spikes typical of infantile spasms. 3 Hz spike‑wave suggests absence; burst‑suppression fits earlier encephalopathies; GPDs suggest diffuse cerebral dysfunction.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Hyperventilation during routine EEG most reliably activates which generalized epilepsy?",
+      "options": [
+        "Lennox–Gastaut syndrome",
+        "Dravet syndrome",
+        "Juvenile myoclonic epilepsy",
+        "Childhood absence epilepsy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hyperventilation robustly provokes absence seizures with 3 Hz spike‑wave. It is less reliable in JME and nonspecific for LGS/Dravet.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 16‑year‑old has early‑morning myoclonic jerks, photic sensitivity, and a generalized tonic–clonic seizure. Best first‑line medication when teratogenicity is not a concern?",
+      "options": [
+        "Valproate",
+        "Carbamazepine",
+        "Tiagabine",
+        "Phenytoin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Juvenile myoclonic epilepsy responds well to valproate (most effective), levetiracetam, or lamotrigine. Carbamazepine and tiagabine can worsen generalized epilepsies; phenytoin does not treat myoclonus well.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 28‑year‑old with focal aware seizures has been seizure‑free 6 months on lamotrigine. Guiding principle for return to driving in the U.S.?",
+      "options": [
+        "Uniform national 12‑month seizure‑free rule",
+        "State‑specific seizure‑free intervals, often 3–12 months",
+        "Permanent prohibition after any seizure",
+        "Immediate clearance after any seizure‑free period"
+      ],
+      "correctIndex": 1,
+      "explanation": "Return‑to‑drive rules are state‑specific, commonly 3–12 months seizure‑free. There is no uniform national rule and driving is not permanently banned for all with epilepsy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Jeavons syndrome (epilepsy with eyelid myoclonia) is most commonly precipitated by:",
+      "options": [
+        "Alcohol intake",
+        "Sleep deprivation only",
+        "Photic stimulation and eye closure",
+        "Hyperventilation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eyelid myoclonia is triggered by eye closure and photic stimuli. Hyperventilation is less specific; sleep deprivation and alcohol can lower threshold but are not defining triggers.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 3‑year‑old with developmental delay has tonic seizures, drop attacks, and slow spike‑and‑wave on EEG. Most likely syndrome?",
+      "options": [
+        "Benign epilepsy with centrotemporal spikes",
+        "Panayiotopoulos syndrome",
+        "Doose syndrome",
+        "Lennox–Gastaut syndrome"
+      ],
+      "correctIndex": 3,
+      "explanation": "LGS features multiple seizure types (tonic, atonic), cognitive impairment, and slow (<2.5 Hz) spike‑and‑wave. The other options have different ages, seizure types, and EEG patterns.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "EEG in juvenile myoclonic epilepsy most typically shows:",
+      "options": [
+        "Generalized 4–6 Hz polyspike‑and‑wave discharges",
+        "3 Hz spike‑and‑wave",
+        "Occipital spikes with fixation‑off sensitivity",
+        "Focal temporal spikes"
+      ],
+      "correctIndex": 0,
+      "explanation": "JME shows generalized 4–6 Hz polyspike‑and‑wave. 3 Hz spike‑and‑wave suggests absence; temporal spikes suggest focal epilepsy; occipital spikes suggest photosensitive occipital epilepsy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication can WORSEN absence or myoclonic seizures in generalized epilepsies?",
+      "options": [
+        "Valproate",
+        "Carbamazepine",
+        "Ethosuximide",
+        "Levetiracetam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sodium channel agents like carbamazepine can exacerbate absence/myoclonic seizures. Levetiracetam and valproate are effective; ethosuximide treats absence.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 24‑year‑old woman with focal epilepsy is planning pregnancy. Which medication has the most favorable teratogenic profile among common options?",
+      "options": [
+        "Phenobarbital",
+        "Valproate",
+        "Lamotrigine",
+        "Topiramate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lamotrigine has a relatively favorable pregnancy safety profile. Valproate and phenobarbital carry higher teratogenic risk; topiramate increases risk of oral clefts.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "First‑line emergency treatment for convulsive status epilepticus in adults?",
+      "options": [
+        "Phenobarbital first",
+        "Immediate anesthetic infusion (propofol)",
+        "IV phenytoin/fosphenytoin immediately",
+        "IV benzodiazepine (lorazepam or midazolam) first"
+      ],
+      "correctIndex": 3,
+      "explanation": "Guidelines recommend a benzodiazepine first, followed by a second‑line antiseizure drug (fosphenytoin/valproate/levetiracetam). Anesthetics are for refractory cases.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In focal temporal lobe epilepsy due to mesial sclerosis, the MOST sensitive interictal EEG finding is:",
+      "options": [
+        "Ipsilateral anterior temporal spikes",
+        "Generalized polyspike‑and‑wave",
+        "Photoparoxysmal response",
+        "Vertex sharp waves during sleep"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anterior temporal spikes are typical interictal markers for mesial temporal lobe epilepsy. The other patterns are nonspecific or generalized.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A patient with suspected PNES (psychogenic nonepileptic seizures) undergoes video‑EEG. Which finding most strongly supports PNES?",
+      "options": [
+        "Ictal cry followed by tonic phase",
+        "Asynchronous limb thrashing with eye closure and no postictal confusion, normal EEG during events",
+        "Tongue laceration on the lateral border",
+        "Elevated serum prolactin within 20 minutes post‑event"
+      ],
+      "correctIndex": 1,
+      "explanation": "Typical PNES signs include prolonged, asynchronous movements, eyes forcibly closed, preserved awareness/postictal state, and normal EEG. Lateral tongue bite and stereotyped tonic‑clonic features support epilepsy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 2‑month‑old with early‑onset epileptic encephalopathy shows burst‑suppression on EEG. Most likely syndrome?",
+      "options": [
+        "Lennox–Gastaut syndrome",
+        "Benign myoclonus of infancy",
+        "Ohtahara syndrome",
+        "Infantile spasms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ohtahara syndrome presents in neonates/early infancy with burst‑suppression. Hypsarrhythmia is seen later in infantile spasms; LGS occurs after infancy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EEG change is normal during drowsiness and light sleep in adults?",
+      "options": [
+        "Continuous suppression of background",
+        "Alpha increase over posterior regions with eye opening",
+        "Generalized 3 Hz spike‑and‑wave",
+        "Vertex sharp transients and sleep spindles"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vertex sharp waves and spindles are normal sleep transients. Alpha attenuates with eye opening. Generalized 3 Hz spike‑and‑wave is epileptiform. Background suppression is abnormal.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In a patient with suspected frontal lobe seizures, which semiology is MOST suggestive?",
+      "options": [
+        "Brief nocturnal hypermotor events with rapid recovery",
+        "Formed visual hallucinations",
+        "Autonomic auras with pallor and vomiting",
+        "Déjà vu with rising epigastric sensation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frontal lobe seizures are often brief, nocturnal, hypermotor, with rapid recovery. Déjà vu/rising epigastric suggests temporal; formed visual suggests occipital/temporal association; autonomic with vomiting suggests insular/temporal.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Photoparoxysmal response is MOST commonly associated with which generalized epilepsy?",
+      "options": [
+        "Juvenile absence epilepsy",
+        "Juvenile myoclonic epilepsy",
+        "Childhood absence epilepsy",
+        "Lennox–Gastaut syndrome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Photic sensitivity is common in JME. It can occur in other generalized epilepsies but is less characteristic.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Best acute management for a first unprovoked seizure with normal exam and imaging, and normal EEG?",
+      "options": [
+        "Admit for continuous EEG in all cases",
+        "Start chronic antiseizure therapy immediately in all cases",
+        "Defer medication; counsel on recurrence risk and safety",
+        "Begin dual therapy to prevent recurrence"
+      ],
+      "correctIndex": 2,
+      "explanation": "After a single unprovoked seizure with low risk factors, many patients can defer treatment; counsel on safety and follow‑up. Medication is individualized.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 5‑year‑old has focal motor seizures involving the face during sleep; EEG shows centrotemporal spikes. Most likely diagnosis?",
+      "options": [
+        "Doose syndrome",
+        "Dravet syndrome",
+        "Panayiotopoulos syndrome",
+        "Benign epilepsy with centrotemporal spikes (BECTS)"
+      ],
+      "correctIndex": 3,
+      "explanation": "BECTS (self‑limited epilepsy with centrotemporal spikes) presents with focal facial motor seizures in sleep and characteristic centrotemporal spikes.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which antiseizure drug has the HIGHEST risk of neural tube defects in pregnancy?",
+      "options": [
+        "Valproate",
+        "Lamotrigine",
+        "Levetiracetam",
+        "Oxcarbazepine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Valproate carries the highest teratogenic risk, including neural tube defects. Lamotrigine and levetiracetam have more favorable profiles; oxcarbazepine intermediate.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "On routine EEG, a sharply contoured 50/60 Hz artifact most likely arises from:",
+      "options": [
+        "Muscle activity",
+        "Line noise",
+        "Eye blinks",
+        "Electrode pop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Line (mains) interference occurs at 50/60 Hz and appears as rhythmic artifact. Muscle is higher frequency, eye blinks are slow frontal deflections, electrode pops are abrupt transients.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which finding most supports occipital lobe epilepsy?",
+      "options": [
+        "Epigastric rising aura",
+        "Ictal fear with autonomic changes",
+        "Elementary visual hallucinations (flashing lights)",
+        "Automatisms with oral movements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Occipital lobe seizures produce simple visual phenomena (phosphenes). Epigastric aura suggests temporal; fear with autonomic suggests amygdala/temporal; automatisms suggest temporal.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "An adult with drug‑resistant focal epilepsy due to mesial temporal sclerosis is evaluated for surgery. Best next step?",
+      "options": [
+        "Vagus nerve stimulation immediately without evaluation",
+        "No further options if two drugs failed",
+        "Add a third antiseizure medication",
+        "Refer for epilepsy surgery workup (VEEG, imaging, neuropsych)"
+      ],
+      "correctIndex": 3,
+      "explanation": "After failure of two appropriately chosen antiseizure meds, surgical evaluation is indicated. Additional meds have low success; VNS may help but surgery can be curative.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EEG pattern during coma is most concerning for poor prognosis after anoxic brain injury?",
+      "options": [
+        "Burst‑suppression without reactivity",
+        "Sleep spindles",
+        "Generalized rhythmic delta with reactivity",
+        "Reactive alpha"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unreactive burst‑suppression after anoxic injury suggests poor prognosis. Reactivity is generally favorable.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Risk factor most strongly associated with SUDEP:",
+      "options": [
+        "History of febrile seizures in childhood",
+        "Poorly controlled generalized tonic–clonic seizures",
+        "Simple partial (aware) seizures only",
+        "Female sex"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frequent/poorly controlled generalized tonic–clonic seizures are the strongest modifiable risk factor for SUDEP.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A teenager with Dravet syndrome has a pathogenic variant in:",
+      "options": [
+        "DEPDC5",
+        "PRRT2",
+        "SCN1A",
+        "KCNQ2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Classic Dravet is associated with loss‑of‑function variants in SCN1A. KCNQ2 is neonatal epileptic encephalopathy, DEPDC5 focal epilepsies, PRRT2 paroxysmal disorders.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which antiseizure medication commonly causes kidney stones and paresthesias due to carbonic anhydrase inhibition?",
+      "options": [
+        "Levetiracetam",
+        "Lacosamide",
+        "Gabapentin",
+        "Topiramate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topiramate inhibits carbonic anhydrase leading to metabolic acidosis, paresthesias, and nephrolithiasis. The others do not share this profile.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "EEG shows generalized 2.5 Hz slow spike‑and‑wave with tonic seizures and developmental impairment. Syndrome?",
+      "options": [
+        "Lennox–Gastaut syndrome",
+        "Juvenile myoclonic epilepsy",
+        "Myoclonic‑atonic epilepsy (Doose)",
+        "Juvenile absence epilepsy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Slow spike‑and‑wave (<2.5–3 Hz) with tonic seizures and cognitive impairment is classic for LGS.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which test best differentiates PNES from epileptic seizures when history is unclear?",
+      "options": [
+        "Serum prolactin",
+        "Video‑EEG monitoring capturing a typical event",
+        "Head CT",
+        "Serum lactate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capturing a typical event on video‑EEG is the diagnostic standard. Postictal labs are nonspecific.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A patient with focal seizures has ictal aphasia and postictal paraphasias. Most likely dominant hemisphere focus?",
+      "options": [
+        "Occipital pole",
+        "Dominant frontal operculum",
+        "Dominant temporal lobe (Wernicke area)",
+        "Non‑dominant parietal lobe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ictal aphasia and postictal language disturbance localize to dominant temporal language cortex.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A photic‑induced generalized discharge during EEG is MOST likely enhanced by which frequency range?",
+      "options": [
+        "30–40 Hz",
+        "70–100 Hz",
+        "1–3 Hz",
+        "5–20 Hz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Photic stimulation between ~5–20 Hz (particularly 10–15 Hz) often elicits photoparoxysmal responses.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In focal epilepsy due to a low‑grade temporal glioma, best definitive therapy when seizures persist despite two medications?",
+      "options": [
+        "Surgical resection of tumor with epilepsy surgery principles",
+        "Add ketogenic diet",
+        "Vagus nerve stimulation first",
+        "Radiation only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oncologic resection with attention to epileptogenic zone offers best seizure control; adjuvant options may help but are not definitive for drug‑resistant tumor‑related epilepsy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EEG artifact is BEST characterized by slow, high‑amplitude frontal deflections time‑locked to eye movements?",
+      "options": [
+        "ECG artifact",
+        "Electrooculogram (blinks/saccades)",
+        "Muscle artifact",
+        "Glossokinetic artifact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eye blinks produce slow frontal deflections; ECG appears as spikes synchronous with QRS; muscle is fast; glossokinetic relates to tongue movement.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 10‑year‑old with photosensitivity has occipital spikes that disappear when the patient fixates (fixation‑off sensitivity). Likely diagnosis?",
+      "options": [
+        "Juvenile absence epilepsy",
+        "Benign occipital epilepsy (Panayiotopoulos)",
+        "Photosensitive occipital epilepsy",
+        "Temporal lobe epilepsy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Photosensitive occipital epilepsy shows occipital spikes enhanced when eyes are closed and reduced with fixation. Panayiotopoulos has autonomic seizures with emesis and different EEG.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which of the following MOST increases risk of Stevens–Johnson syndrome with carbamazepine?",
+      "options": [
+        "CYP2C19 poor metabolizer status",
+        "HLA‑A*3101 in Africans only",
+        "Low serum sodium",
+        "HLA‑B*1502 in certain Asian populations"
+      ],
+      "correctIndex": 3,
+      "explanation": "HLA‑B*1502 is linked to SJS/TEN risk with carbamazepine, especially in Han Chinese and some Southeast Asian groups. HLA‑A*3101 also confers risk in some populations, not Africans only.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In a patient with generalized epilepsy, which drug is LEAST appropriate as monotherapy?",
+      "options": [
+        "Carbamazepine",
+        "Valproate",
+        "Levetiracetam",
+        "Lamotrigine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbamazepine can worsen generalized absence/myoclonic seizures; the others are appropriate broad‑spectrum options.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 22‑year‑old with absence seizures has therapeutic ethosuximide level but persistent events. Best next step?",
+      "options": [
+        "Add carbamazepine",
+        "Switch to valproate or add valproate",
+        "Start phenytoin",
+        "Add tiagabine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valproate is effective for absence and generalized seizures; carbamazepine/phenytoin/tiagabine may worsen absence.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "EEG shows periodic lateralized epileptiform discharges (PLEDs/LPDs) over the right hemisphere in a confused adult with acute focal deficits. Most likely underlying cause?",
+      "options": [
+        "Normal variant",
+        "Primary generalized epilepsy",
+        "Acute structural lesion (e.g., stroke, HSV encephalitis)",
+        "Metabolic encephalopathy only"
+      ],
+      "correctIndex": 2,
+      "explanation": "LPDs are associated with acute focal structural lesions and may be on the ictal–interictal continuum.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which intervention MOST reduces future seizure risk after a first febrile seizure?",
+      "options": [
+        "Immediate MRI and chronic valproate",
+        "Chronic phenobarbital",
+        "Intermittent diazepam with fevers for all children",
+        "No chronic antiseizure therapy; manage fever/support"
+      ],
+      "correctIndex": 3,
+      "explanation": "Febrile seizures are generally benign; chronic antiseizure therapy is not indicated. Intermittent benzodiazepines are reserved for select complex cases.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Most appropriate first‑line chronic therapy for myoclonic‑atonic epilepsy (Doose syndrome)?",
+      "options": [
+        "Valproate",
+        "Phenytoin",
+        "Tiagabine",
+        "Carbamazepine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Valproate is effective for generalized seizures seen in Doose; sodium channel agents and tiagabine can worsen generalized epilepsies.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A patient on lamotrigine develops a morbilliform rash 10 days after rapid dose escalation. Best immediate action?",
+      "options": [
+        "Hold dose for 2 days then resume",
+        "Stop lamotrigine immediately and evaluate for SJS/TEN",
+        "Add steroids and continue lamotrigine",
+        "Continue and monitor closely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any significant rash during lamotrigine titration warrants immediate discontinuation due to SJS/TEN risk.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "EEG shows rhythmic 0.5–1 Hz generalized sharp waves with coma after cardiac arrest. This MOST likely represents:",
+      "options": [
+        "Normal posterior dominant rhythm",
+        "Physiologic sleep",
+        "Generalized periodic discharges on ictal–interictal continuum",
+        "Benign epileptiform transients of sleep"
+      ],
+      "correctIndex": 2,
+      "explanation": "GPDs after anoxic injury may represent an ictal‑interictal continuum and portend poor prognosis.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which clinical sign favors epileptic tonic–clonic seizure over syncope?",
+      "options": [
+        "Prodromal nausea and diaphoresis with pallor",
+        "Brief myoclonic jerks",
+        "Immediate full recovery without confusion",
+        "Lateral tongue biting and prolonged postictal confusion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lateral tongue bite and prolonged postictal confusion favor epilepsy; syncope often has prodrome and rapid recovery with brief myoclonus possible.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In medication‑refractory focal epilepsy with a well‑localized eloquence‑sparing focus, which intervention offers the highest chance of seizure freedom?",
+      "options": [
+        "Focal cortical resection/laser ablation",
+        "Ketogenic diet",
+        "Vagus nerve stimulation",
+        "Responsive neurostimulation (RNS)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Curative intent resection/ablation offers the highest chance of freedom when a focus is localizable and resectable. Neuromodulation and diet reduce seizures but are less often curative.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EEG montage/manipulation BEST increases detection of anterior temporal spikes?",
+      "options": [
+        "Average reference only",
+        "Sphenoidal or anterior temporal electrodes",
+        "Bipolar parasagittal chains only",
+        "Ear reference only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sphenoidal/anterior temporal electrodes improve detection of mesial/anterior temporal spikes.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 30‑year‑old with focal impaired‑awareness seizures has déjà vu, rising epigastric aura, and automatisms. Likely focus?",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe",
+        "Mesial temporal lobe",
+        "Parietal lobe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Classic mesial temporal semiology includes epigastric rising aura, déjà vu, and automatisms.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which ASMs most commonly cause hyponatremia?",
+      "options": [
+        "Levetiracetam/topiramate",
+        "Lamotrigine/lacosamide",
+        "Valproate/gabapentin",
+        "Carbamazepine/oxcarbazepine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbamazepine and oxcarbazepine can cause SIADH and hyponatremia; the others less so.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 7‑year‑old presents with nocturnal vomiting, eye deviation, and autonomic seizures; EEG shows occipital spikes that shift sides. Diagnosis?",
+      "options": [
+        "Panayiotopoulos syndrome",
+        "BECTS",
+        "Doose syndrome",
+        "Dravet syndrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "Panayiotopoulos syndrome features autonomic seizures (emesis, pallor), often with shifting occipital spikes.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "First‑line treatment for infantile spasms with hypsarrhythmia (no TSC)?",
+      "options": [
+        "Levetiracetam",
+        "ACTH or high‑dose prednisolone",
+        "Carbamazepine",
+        "Clonazepam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hormonal therapy (ACTH or prednisolone) is first‑line; vigabatrin is first‑line in TSC‑related spasms.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "EEG shows eye‑blink artifacts as:",
+      "options": [
+        "50/60 Hz rhythmic activity",
+        "High‑frequency frontotemporal activity",
+        "Slow positive deflections maximal frontally",
+        "Sharp negative occipital spikes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eye blinks produce slow frontal deflections. The others represent different artifacts/epileptiform features.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM is MOST associated with behavioral irritability and mood changes?",
+      "options": [
+        "Lamotrigine",
+        "Valproate",
+        "Clobazam",
+        "Levetiracetam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Levetiracetam can cause irritability/behavioral changes; vitamin B6 sometimes helps. Others less commonly cause this profile.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Best acute second‑line agent after benzodiazepine for status epilepticus per contemporary guidelines?",
+      "options": [
+        "Fosphenytoin/phenytoin, valproate, or levetiracetam",
+        "Carbamazepine",
+        "Ethosuximide",
+        "Tiagabine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Evidence supports fosphenytoin (or phenytoin), valproate, or levetiracetam as second‑line agents.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG feature helps distinguish benign epileptiform transients of sleep (BETS/SSS) from true spikes?",
+      "options": [
+        "BETS are highest amplitude at Fp1/Fp2",
+        "BETS are small, brief, occur during drowsiness/sleep, and lack after‑going slow wave",
+        "BETS are generalized and rhythmic",
+        "BETS increase with photic stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "BETS are brief sharp transients in light sleep without after‑going slow waves; they are benign variants.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient has drug‑resistant seizures with focal cortical dysplasia in motor cortex. Best interventional option when resection risks paralysis?",
+      "options": [
+        "Corpus callosotomy",
+        "Ketogenic diet only",
+        "Anterior thalamic DBS or RNS targeting the focus",
+        "No options remain"
+      ],
+      "correctIndex": 2,
+      "explanation": "Neuromodulation (RNS/DBS) offers seizure reduction when resection is unsafe in eloquent cortex.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which medication is first‑line for TSC‑related infantile spasms?",
+      "options": [
+        "Lamotrigine",
+        "Topiramate",
+        "Carbamazepine",
+        "Vigabatrin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vigabatrin is first‑line for infantile spasms associated with tuberous sclerosis complex.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A high‑amplitude generalized polyspike‑and‑wave discharge with myoclonic jerks is MOST typical of:",
+      "options": [
+        "Juvenile myoclonic epilepsy",
+        "Focal aware motor seizures",
+        "Absence seizures",
+        "Temporal lobe epilepsy"
+      ],
+      "correctIndex": 0,
+      "explanation": "JME shows generalized polyspike‑and‑wave with myoclonus.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which is TRUE regarding ketogenic diet in epilepsy?",
+      "options": [
+        "Primarily effective for mesial temporal sclerosis",
+        "Can reduce seizures in generalized epilepsies and epileptic encephalopathies",
+        "Contraindicated in children",
+        "Ineffective in GLUT1 deficiency"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ketogenic diet can reduce seizures in refractory generalized/encephalopathic epilepsies and is effective in GLUT1 deficiency.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient has focal seizures from dominant temporal lobe with word‑finding difficulty. During Wada test, injection into which artery should produce aphasia if that hemisphere is dominant?",
+      "options": [
+        "Middle meningeal artery",
+        "Vertebral artery",
+        "Internal carotid artery on the dominant side",
+        "External carotid artery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wada uses intracarotid amobarbital into the ICA to test hemispheric language/memory dominance.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM is MOST associated with weight gain and tremor?",
+      "options": [
+        "Topiramate",
+        "Zonisamide",
+        "Felbamate",
+        "Valproate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Valproate commonly causes weight gain and tremor. Topiramate/zonisamide more often cause weight loss.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient with nocturnal hypermotor seizures and normal MRI: most helpful diagnostic study?",
+      "options": [
+        "Overnight video‑EEG/polysomnography",
+        "Serum prolactin",
+        "Head CT",
+        "Daytime routine EEG only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nocturnal frontal lobe seizures may require overnight VEEG/PSG to capture events and distinguish from parasomnias.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG pattern is MOST specific for CJD?",
+      "options": [
+        "Triphasic waves",
+        "Periodic sharp wave complexes at ~1 Hz",
+        "Burst‑suppression",
+        "Generalized alpha coma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Periodic sharp wave complexes at ~1 Hz are suggestive of CJD (though not perfectly sensitive). Triphasic waves are nonspecific metabolic encephalopathy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In catamenial epilepsy, which adjunctive therapy can be considered around menses?",
+      "options": [
+        "Stop all medications during menses",
+        "Use only folic acid",
+        "Increase benzodiazepine or acetazolamide perimenstrually",
+        "Start carbamazepine perimenstrually"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimenstrual benzodiazepines or acetazolamide can help catamenial patterns; management is individualized.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which focal seizure feature suggests insular cortex involvement?",
+      "options": [
+        "Complex visual hallucinations",
+        "Simple motor clonic jerks of hand",
+        "Epigastric rising sensation",
+        "Laryngeal constriction, unpleasant throat sensations, autonomic symptoms"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insular seizures often cause laryngeal/visceral sensations and autonomic symptoms.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Most appropriate initial imaging in a new focal‑onset seizure adult without contraindication?",
+      "options": [
+        "Brain MRI with epilepsy protocol",
+        "No imaging needed if EEG is normal",
+        "Carotid ultrasound",
+        "Noncontrast head CT only, no further imaging"
+      ],
+      "correctIndex": 0,
+      "explanation": "MRI with epilepsy protocol is preferred for structural evaluation in focal epilepsy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM prolongs PR interval and can cause AV block?",
+      "options": [
+        "Lamotrigine",
+        "Lacosamide",
+        "Levetiracetam",
+        "Valproate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lacosamide can slow AV conduction and prolong PR; caution in cardiac disease.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Benign variants: which is TRUE?",
+      "options": [
+        "Lambda waves are pathologic",
+        "Small sharp spikes (BETS) are pathognomonic for epilepsy",
+        "Wicket spikes occur in temporal regions during drowsiness and are benign",
+        "Positive occipital sharp transients (POSTs) are always epileptiform"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wickets and POSTs are benign sleep/visual variants; lambda waves occur with visual scanning; BETS are benign, not pathognomonic.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which syndrome commonly presents with febrile seizures that later evolve into afebrile focal seizures with fever sensitivity?",
+      "options": [
+        "Doose syndrome",
+        "LGS",
+        "Panayiotopoulos syndrome",
+        "Genetic epilepsy with febrile seizures plus (GEFS+)"
+      ],
+      "correctIndex": 3,
+      "explanation": "GEFS+ encompasses febrile seizures persisting beyond early childhood and later afebrile seizures; SCN1A variants are common in the spectrum.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG activation increases temporal spikes in mesial temporal lobe epilepsy?",
+      "options": [
+        "Sleep (N2)",
+        "Hyperventilation",
+        "Photic stimulation",
+        "Eye opening"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sleep, particularly NREM, activates interictal epileptiform discharges.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In a patient with refractory atonic (drop) seizures without a single resectable focus, which palliative surgery is most effective at reducing falls?",
+      "options": [
+        "Temporal lobectomy",
+        "Corpus callosotomy",
+        "Radiosurgery to hippocampus",
+        "Multiple subpial transections"
+      ],
+      "correctIndex": 1,
+      "explanation": "Callosotomy reduces drop attacks by limiting interhemispheric spread.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which medication is CI as monotherapy in absence epilepsy due to risk of aggravation?",
+      "options": [
+        "Ethosuximide",
+        "Lamotrigine",
+        "Carbamazepine",
+        "Valproate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbamazepine can worsen absence; ethosuximide/valproate/lamotrigine are appropriate.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG change is expected with eye opening in an awake adult?",
+      "options": [
+        "Increase in posterior alpha amplitude",
+        "Generalized spike‑and‑wave",
+        "Frontal intermittent rhythmic delta activity",
+        "Posterior alpha attenuation (alpha block)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alpha attenuates with eye opening; it increases with eye closure.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM has the strongest association with hyperammonemia (often with encephalopathy)?",
+      "options": [
+        "Valproate",
+        "Lamotrigine",
+        "Oxcarbazepine",
+        "Levetiracetam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Valproate can cause hyperammonemia; consider carnitine and dose adjustment.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A child develops a rash and fever after starting lamotrigine and valproate. Highest concern?",
+      "options": [
+        "Benign drug rash only",
+        "DRESS or SJS/TEN due to interaction increasing lamotrigine levels",
+        "Photosensitivity",
+        "Contact dermatitis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valproate inhibits lamotrigine metabolism, increasing risk of severe rash (DRESS/SJS/TEN).",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In evaluation for epilepsy surgery, which study best localizes language cortex noninvasively?",
+      "options": [
+        "Transcranial Doppler",
+        "MEG only",
+        "fMRI language mapping",
+        "CT perfusion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Task‑based fMRI maps language networks; MEG maps spikes; Wada/intraoperative mapping used when needed.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient with focal aware seizures experiences painful contralateral facial clonic jerks and speech arrest. Likely focus?",
+      "options": [
+        "Occipital pole",
+        "Calcarine cortex",
+        "Cerebellar hemisphere",
+        "Primary motor cortex face area (inferior precentral gyrus) of dominant hemisphere"
+      ],
+      "correctIndex": 3,
+      "explanation": "Facial clonic activity with speech arrest suggests dominant frontal perirolandic involvement.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG feature best distinguishes ictal from interictal rhythmic activity during status epilepticus?",
+      "options": [
+        "Evolution in frequency, amplitude, and field over time",
+        "Monomorphic fixed frequency without change",
+        "Low amplitude beta only",
+        "Presence during sleep only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ictal patterns evolve in frequency, morphology, and distribution; static rhythms are less likely ictal.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A woman on topiramate develops acute myopia and ocular pain. Most likely adverse effect?",
+      "options": [
+        "Uveitis",
+        "Acute angle‑closure glaucoma",
+        "Retinal detachment",
+        "Optic neuritis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Topiramate can precipitate acute angle‑closure glaucoma due to choroidal effusions.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM requires REMS program due to risk of aplastic anemia/hepatotoxicity?",
+      "options": [
+        "Perampanel",
+        "Eslicarbazepine",
+        "Felbamate",
+        "Zonisamide"
+      ],
+      "correctIndex": 2,
+      "explanation": "Felbamate carries serious risks requiring informed consent/monitoring.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG pattern is typical in benign epilepsy with centrotemporal spikes?",
+      "options": [
+        "Generalized 3 Hz spike‑wave only",
+        "Occipital spikes with fixation‑off",
+        "Temporal intermittent rhythmic delta activity",
+        "High‑amplitude centrotemporal spikes activated in sleep"
+      ],
+      "correctIndex": 3,
+      "explanation": "BECTS shows centrotemporal spikes, often activated in sleep.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Most appropriate counseling regarding alcohol and seizures:",
+      "options": [
+        "Binge alcohol and withdrawal can precipitate seizures",
+        "Moderate alcohol has no effect on seizure threshold",
+        "All patients must be completely abstinent",
+        "Alcohol prevents seizures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Binge and withdrawal lower threshold; moderate intake may be tolerated in some, individualized with caution.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient on valproate and lamotrigine becomes drowsy with elevated ammonia but normal liver enzymes. Next step?",
+      "options": [
+        "Stop lamotrigine only",
+        "Assess for valproate‑induced hyperammonemia; consider L‑carnitine and dose reduction",
+        "Increase valproate dose",
+        "Add topiramate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valproate can cause hyperammonemia; treat with dose reduction/carnitine and evaluate other contributors.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In scalp EEG, which lobe is MOST challenging to sample due to deep location and skull base?",
+      "options": [
+        "Parietal lobe",
+        "Occipital lobe",
+        "Temporal lobe (mesial structures)",
+        "Frontal convexity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mesial temporal structures are deep; scalp EEG has limited sensitivity for them.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which neonatal seizure type is MOST likely to lack a clear EEG correlate on routine scalp EEG?",
+      "options": [
+        "Clonic seizures",
+        "Tonic seizures",
+        "Myoclonic seizures",
+        "Subtle seizures (e.g., ocular deviation, autonomic changes)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subtle neonatal seizures often arise from brainstem/poorly synchronized cortex and may lack EEG correlates.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which syndrome features fever‑triggered prolongation of seizures and sensitivity to sodium channel blockers?",
+      "options": [
+        "Dravet syndrome",
+        "Doose syndrome",
+        "BECTS",
+        "Panayiotopoulos syndrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dravet (SCN1A) is aggravated by sodium channel blockers and fever.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Most effective acute therapy to stop a cluster of prolonged absence seizures/status absence?",
+      "options": [
+        "Gabapentin",
+        "IV lorazepam",
+        "Carbamazepine",
+        "Phenytoin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Benzodiazepines are effective acutely; sodium channel agents may worsen absence seizures.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient with cingulate gyrus epilepsy most likely presents with:",
+      "options": [
+        "Prosopagnosia",
+        "Gelastic seizures",
+        "Autonomic symptoms, emotional changes, hypermotor behaviors",
+        "Formed visual hallucinations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Limbic/cingulate seizures can cause autonomic and affective changes with hypermotor features.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which medication is MOST associated with word‑finding difficulty and cognitive slowing?",
+      "options": [
+        "Levetiracetam",
+        "Brivaracetam",
+        "Clobazam",
+        "Topiramate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topiramate can cause cognitive slowing and word‑finding difficulties.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In absence epilepsy, the spike‑and‑wave frequency most characteristic is:",
+      "options": [
+        "3 Hz",
+        "6 Hz",
+        "10 Hz",
+        "1–2 Hz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classic absence shows 3 Hz spike‑and‑wave; 6 Hz is a benign variant (phantom spikes).",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG feature distinguishes generalized tonic–clonic seizures from psychogenic events during VEEG?",
+      "options": [
+        "Anterior head version",
+        "ICTAL generalized evolving rhythm followed by postictal suppression",
+        "Preserved alpha throughout event",
+        "Artifact only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Generalized tonic–clonic seizures show evolving ictal patterns and postictal suppression.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Most appropriate ASM in a woman with generalized epilepsy who is pregnant and has breakthrough seizures on low‑dose lamotrigine?",
+      "options": [
+        "Add carbamazepine",
+        "Stop all medications",
+        "Increase lamotrigine dose with level monitoring",
+        "Switch to valproate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lamotrigine clearance increases in pregnancy; dose often needs adjustment with monitoring.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG pattern is MOST typical of benign occipital epilepsy of childhood (Gastaut type)?",
+      "options": [
+        "Generalized 3 Hz spike‑wave",
+        "Temporal intermittent rhythmic delta",
+        "High‑amplitude centrotemporal spikes",
+        "Occipital spikes activated by eye closure (fixation‑off)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gastaut type shows occipital spikes enhanced with eye closure.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Best initial management of refractory convulsive status epilepticus after benzodiazepine and one adequate second‑line drug have failed?",
+      "options": [
+        "Proceed to anesthetic infusion (propofol/midazolam) with ICU care",
+        "Stop treatment and observe",
+        "Start ethosuximide",
+        "Add another oral ASM"
+      ],
+      "correctIndex": 0,
+      "explanation": "Refractory status requires anesthetic coma and ICU management after first‑ and second‑line failure.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM carries risk of life‑threatening dermatologic reactions particularly in patients with HLA‑B*1502?",
+      "options": [
+        "Lamotrigine",
+        "Carbamazepine",
+        "Levetiracetam",
+        "Valproate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carbamazepine is strongly associated with SJS/TEN in HLA‑B*1502 carriers.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG finding in hepatic encephalopathy is typical?",
+      "options": [
+        "Generalized paroxysmal fast activity",
+        "Periodic sharp wave complexes at 1 Hz",
+        "Triphasic waves frontally predominant",
+        "Hypsarrhythmia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Triphasic waves are classic in metabolic encephalopathies including hepatic encephalopathy.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient has focal seizures from perisylvian cortex causing speech arrest and drooling. Best description of semiology?",
+      "options": [
+        "Occipital visual seizures",
+        "Insular visceral pain",
+        "Frontal hypermotor",
+        "Opercular (perisylvian) seizures"
+      ],
+      "correctIndex": 3,
+      "explanation": "Opercular seizures cause oropharyngolaryngeal symptoms including speech arrest and drooling.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which medication is MOST effective for generalized tonic–clonic seizures in JME when pregnancy is a major concern?",
+      "options": [
+        "Levetiracetam",
+        "Phenytoin",
+        "Carbamazepine",
+        "Valproate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Levetiracetam is effective and safer in pregnancy than valproate; phenytoin/carbamazepine are not first‑line for JME.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EEG acquisition change best enhances detection of subtle frontal lobe ictal rhythms?",
+      "options": [
+        "Montage with only ear reference",
+        "Increase sensitivity (lower μV/mm) and use additional frontal electrodes",
+        "Reduce sampling rate",
+        "High‑pass filter at 5 Hz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Higher sensitivity and better spatial sampling improve detection; reducing sampling rate/over‑filtering may obscure signals.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient with temporal lobe epilepsy experiences fear aura followed by automatisms and impaired awareness. Which postictal sign supports temporal origin?",
+      "options": [
+        "Immediate full orientation",
+        "Todd paralysis of leg only",
+        "Postictal nose‑wiping on the side ipsilateral to seizure focus",
+        "No postictal changes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ipsilateral postictal nose‑wiping is associated with temporal lobe seizures due to hand use contralateral to hemiparesis/automatisms.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which is TRUE regarding 6‑Hz spike‑and‑wave (phantom spikes) in adults?",
+      "options": [
+        "Specific for absence epilepsy",
+        "Indicates occipital lobe epilepsy",
+        "Highly epileptiform and mandates ASM",
+        "Benign variant often seen during drowsiness; not necessarily epileptiform"
+      ],
+      "correctIndex": 3,
+      "explanation": "6‑Hz spike‑and‑wave is often a benign variant (phantom spikes) and not clearly epileptiform.",
+      "category": "Epilepsy & EEG",
+      "difficulty": "hard"
+    }
+  ],
+  "correct_choice_distribution": {
+    "0": 25,
+    "1": 25,
+    "2": 25,
+    "3": 25
+  }
+}

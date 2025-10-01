@@ -1,0 +1,1312 @@
+{
+  "meta": {
+    "format": "mcq-bank",
+    "version": "1.0",
+    "generator": "ChatGPT",
+    "created": "2025-10-01",
+    "topic": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+    "notes": "100 neurovascular & stroke MCQs; difficulty 20% easy, 30% moderate, 50% hard; correct options balanced across A-D."
+  },
+  "questions": [
+    {
+      "stem": "Occlusion of the left middle cerebral artery classically causes which deficit pattern?",
+      "options": [
+        "Right face/arm weakness and aphasia",
+        "Bilateral hemianopia",
+        "Ipsilateral ataxia only",
+        "Left leg weakness > arm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Left MCA supplies lateral frontal/parietal/temporal cortex: contralateral face/arm > leg weakness and, in dominant hemisphere, aphasia.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which artery primarily supplies the medial frontal and parietal lobes including the paracentral lobule?",
+      "options": [
+        "Anterior choroidal artery",
+        "Anterior cerebral artery (ACA)",
+        "Middle cerebral artery (MCA)",
+        "Posterior cerebral artery (PCA)"
+      ],
+      "correctIndex": 1,
+      "explanation": "ACA perfuses medial hemispheric surfaces (leg motor/sensory).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A lesion of the lateral medulla most commonly results from occlusion of which artery?",
+      "options": [
+        "Superior cerebellar artery (SCA)",
+        "Anterior spinal artery",
+        "Posterior inferior cerebellar artery (PICA)",
+        "Anterior inferior cerebellar artery (AICA)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lateral medullary (Wallenberg) syndrome typically due to PICA occlusion.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Homonymous hemianopia with macular sparing suggests infarct in which vascular territory?",
+      "options": [
+        "Basilar apex",
+        "ACA",
+        "MCA superior division",
+        "PCA"
+      ],
+      "correctIndex": 3,
+      "explanation": "PCA infarcts of the occipital cortex produce contralateral homonymous hemianopia; macular sparing can occur due to dual supply.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A pure motor lacunar stroke most often localizes to the:",
+      "options": [
+        "Posterior limb of internal capsule",
+        "Occipital cortex",
+        "Cerebellar hemisphere",
+        "Thalamus (VPL/VPM)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lacunes in the posterior limb of internal capsule or basis pontis commonly produce pure motor hemiparesis.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Lateral medullary syndrome classically includes which combination?",
+      "options": [
+        "Ipsilateral tongue weakness, contralateral vibration loss",
+        "Ipsilateral facial pain/temp loss, contralateral body pain/temp loss, ataxia, Horner",
+        "Contralateral face and body pain/temp loss with hemiparesis",
+        "Bilateral abulia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wallenberg: ipsilateral facial pain/temp (SpV), contralateral body pain/temp (STT), ipsi ataxia (ICP), nucleus ambiguus signs, ipsi Horner.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which test is most sensitive for detection of acute ischemic stroke within the first hour?",
+      "options": [
+        "Transcranial Doppler alone",
+        "Non-contrast head CT",
+        "Diffusion-weighted MRI",
+        "Carotid ultrasound"
+      ],
+      "correctIndex": 2,
+      "explanation": "DWI MRI detects cytotoxic edema early; CT is used first to exclude hemorrhage but may be initially normal.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A left superior division MCA stroke most likely causes:",
+      "options": [
+        "Prosopagnosia",
+        "Left neglect",
+        "Wernicke aphasia",
+        "Broca aphasia with right arm weakness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Left superior division supplies inferior frontal gyrus; Broca aphasia and contralateral face/arm weakness.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A stroke in the PPRF or abducens nucleus on the right causes which gaze deficit?",
+      "options": [
+        "Failure to look right with right gaze palsy",
+        "Internuclear ophthalmoplegia on left",
+        "Downbeat nystagmus",
+        "Failure to look left with left gaze palsy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Right PPRF/VI lesion causes ipsilateral horizontal gaze palsy (can't look right).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which structure carries pain and temperature from the body and crosses near the anterior commissure of the spinal cord?",
+      "options": [
+        "Dorsal columns",
+        "Spinothalamic tract",
+        "Medial longitudinal fasciculus",
+        "Corticospinal tract"
+      ],
+      "correctIndex": 1,
+      "explanation": "STT fibers cross in the anterior white commissure and ascend contralaterally.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A right MCA inferior division stroke typically causes which cortical syndrome?",
+      "options": [
+        "Vertical gaze palsy",
+        "Broca aphasia",
+        "Left neglect with constructional apraxia",
+        "Pure alexia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Non-dominant inferior parietal/temporal lesions produce hemispatial neglect.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Occlusion of the anterior choroidal artery most classically produces:",
+      "options": [
+        "Ipsilateral ataxia only",
+        "Vertical gaze palsy",
+        "Isolated aphasia",
+        "Contralateral hemiparesis, hemisensory loss, and homonymous hemianopia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anterior choroidal supplies posterior limb of internal capsule, optic tract/radiations—triad may occur.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Locked-in syndrome is most commonly due to infarction of:",
+      "options": [
+        "Ventral pons (basilar artery occlusion)",
+        "Midbrain tectum",
+        "Cervical anterior spinal cord",
+        "Bilateral medial medulla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Basilar occlusion causing bilateral ventral pontine infarction leads to quadriplegia with preserved consciousness/vertical eye movements.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 32-year-old with neck trauma presents with ipsilateral Horner syndrome and posterior circulation symptoms. Most likely diagnosis?",
+      "options": [
+        "Carotid artery dissection",
+        "Vertebral artery dissection",
+        "Cavernous sinus thrombosis",
+        "Giant cell arteritis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vertebral dissection causes posterior circulation ischemia; carotid dissection classically causes painful Horner + anterior circulation TIAs.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A left PCA infarct involving the splenium is MOST associated with:",
+      "options": [
+        "Pure motor hemiparesis",
+        "Pure sensory stroke",
+        "Alexia without agraphia",
+        "Conduction aphasia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dominant occipital (PCA) with splenial involvement disconnects visual input to language areas—alexia without agraphia.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Weber syndrome (midbrain) arises from PCA branches and produces:",
+      "options": [
+        "Bilateral ptosis only",
+        "Ipsilateral facial paralysis and deafness",
+        "Contralateral ataxia only",
+        "Ipsilateral oculomotor palsy and contralateral hemiparesis"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weber: ventral midbrain lesion affecting CN III fascicles and corticospinal tract.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Paramedian thalamic infarcts due to artery of Percheron occlusion typically present with:",
+      "options": [
+        "Bilateral thalamic infarcts with decreased arousal and memory deficits",
+        "Isolated hemianopia",
+        "Pure motor hemiparesis",
+        "Hemiballismus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Artery of Percheron supplies bilateral paramedian thalami → somnolence, memory/behavioral changes.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A small deep infarct causing pure sensory stroke localizes best to:",
+      "options": [
+        "Parietal operculum",
+        "VPL nucleus of thalamus",
+        "Caudate head",
+        "Cerebellar vermis"
+      ],
+      "correctIndex": 1,
+      "explanation": "VPL thalamic lacunes produce pure sensory deficits.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which imaging finding most strongly suggests early ischemia on non-contrast CT?",
+      "options": [
+        "Diffuse cortical calcifications",
+        "Ventriculomegaly",
+        "Hyperdense MCA sign, insular ribbon sign, sulcal effacement",
+        "Ring-enhancing lesion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hyperdense artery and early parenchymal hypodensity/effacement suggest acute ischemia.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "NIHSS items primarily weight which deficits?",
+      "options": [
+        "Autonomic function",
+        "Cranial nerve smell/taste",
+        "Ataxia and gait",
+        "Language, neglect, visual fields, motor strength"
+      ],
+      "correctIndex": 3,
+      "explanation": "NIHSS emphasizes cortical signs and motor/visual deficits; ataxia has limited weighting.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A patient with right MCA syndrome has eyes deviated to the right and left-sided weakness. This gaze deviation localizes to:",
+      "options": [
+        "Frontal eye fields in right hemisphere",
+        "Paramedian pontine infarct on left",
+        "Cerebellar flocculus",
+        "PPRF only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cortical FEF lesions cause eyes to deviate toward the lesion (away from weakness).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which stroke mechanism best explains multiple small cortical infarcts in varying vascular territories on MRI?",
+      "options": [
+        "Venous sinus thrombosis",
+        "Cardioembolism",
+        "Lacunar small-vessel disease",
+        "Large artery hypoperfusion only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shower emboli from the heart often produce multi-territory cortical infarcts.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A 70-year-old with atrial fibrillation presents within 90 minutes of onset with disabling left hemiparesis. Best initial therapy?",
+      "options": [
+        "Dual antiplatelets only",
+        "Therapeutic heparin infusion",
+        "IV thrombolysis if no contraindications",
+        "Immediate warfarin load"
+      ],
+      "correctIndex": 2,
+      "explanation": "Within 4.5 hours, IV thrombolysis is indicated if criteria are met; anticoagulation is started later.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which sign suggests cerebellar infarct needing urgent neurosurgical evaluation for mass effect?",
+      "options": [
+        "Hand myoclonus only",
+        "Auditory hallucinations",
+        "Isolated dysmetria",
+        "Early vomiting, severe headache, declining consciousness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Posterior fossa edema can rapidly cause brainstem compression/hydrocephalus—requires close monitoring or decompression.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A lacunar 'ataxic hemiparesis' syndrome most often involves:",
+      "options": [
+        "Internal capsule posterior limb or basis pontis",
+        "Thalamic pulvinar",
+        "Occipital pole",
+        "Cingulate gyrus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ataxic hemiparesis is a classic lacunar syndrome from internal capsule or basis pontis.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which artery supplies the lateral inferior pons including the facial nucleus leading to ipsilateral facial paralysis and hearing loss when infarcted?",
+      "options": [
+        "PICA",
+        "AICA",
+        "SCA",
+        "ASA"
+      ],
+      "correctIndex": 1,
+      "explanation": "AICA infarcts can cause facial paralysis (CN VII nucleus) and hearing deficits (labyrinthine artery branch).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Man-in-the-barrel syndrome (bilateral proximal arm weakness) after watershed infarcts occurs between:",
+      "options": [
+        "PCA–ACA border zones",
+        "Basilar–SCA border zones",
+        "ACA–MCA border zones",
+        "MCA–PCA border zones"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hypoperfusion can injure ACA–MCA watershed motor regions affecting proximal upper limbs.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Lacunar stroke pathophysiology is most commonly due to:",
+      "options": [
+        "Vasculitis only",
+        "Fibromuscular dysplasia",
+        "Cardioembolism",
+        "Lipohyalinosis of penetrating arterioles"
+      ],
+      "correctIndex": 3,
+      "explanation": "Small vessel disease with lipohyalinosis causes lacunes; risk factors include HTN/DM.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which acute BP strategy is appropriate in ischemic stroke eligible for IV thrombolysis?",
+      "options": [
+        "BP must be ≤185/110 before tPA, then ≤180/105 after",
+        "No BP limits apply",
+        "Target SBP ≤120 immediately",
+        "Lower BP to <140/90 before tPA"
+      ],
+      "correctIndex": 0,
+      "explanation": "Guidelines use ≤185/110 pre-bolus and ≤180/105 post-tPA; tighter control risks hypoperfusion.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In ICH with large cerebellar hemorrhage and brainstem compression, best management?",
+      "options": [
+        "Immediate IV tPA",
+        "Urgent surgical decompression",
+        "Heparin drip",
+        "Observation only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Large cerebellar ICH with deterioration requires surgical decompression.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A patient has left internuclear ophthalmoplegia and left facial weakness. Where is the single lesion that explains both?",
+      "options": [
+        "Left midbrain periaqueductal gray",
+        "Right PPRF",
+        "Left dorsal pons involving MLF and facial colliculus",
+        "Right medial medulla"
+      ],
+      "correctIndex": 2,
+      "explanation": "A lesion at the facial colliculus affects the MLF and CN VII fascicles → INO + ipsilateral facial palsy.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Right paramedian midbrain infarct involving the red nucleus causes which syndrome?",
+      "options": [
+        "Claude",
+        "Wallenberg",
+        "Weber",
+        "Benedikt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Benedikt: ipsilateral CN III palsy with contralateral tremor/ataxia from red nucleus involvement.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A dorsal midbrain (Parinaud) stroke causes:",
+      "options": [
+        "Impaired upgaze, light-near dissociation, convergence-retraction nystagmus",
+        "Lateral gaze palsy",
+        "Vertical gaze preference downward",
+        "Isolated sixth nerve palsy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dorsal midbrain syndrome features upgaze palsy and light-near dissociation.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Left lateral inferior pontine (AICA) infarct classic triad includes:",
+      "options": [
+        "Vertical gaze palsy",
+        "Ipsilateral facial paralysis, decreased lacrimation/salivation, and hearing loss",
+        "Contralateral facial paralysis with dysphagia",
+        "Ipsilateral tongue atrophy"
+      ],
+      "correctIndex": 1,
+      "explanation": "AICA territory includes CN VII nucleus and labyrinthine artery to inner ear.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Anterior spinal artery infarct at the medulla (medial medullary syndrome) results in:",
+      "options": [
+        "Bilateral cortical blindness",
+        "Ipsilateral facial pain loss and contralateral body pain loss",
+        "Contralateral hemiparesis, contralateral vibration/proprioception loss, ipsilateral tongue weakness",
+        "Ipsilateral facial paralysis and hearing loss"
+      ],
+      "correctIndex": 2,
+      "explanation": "Medial medullary: corticospinal, medial lemniscus, and hypoglossal fascicles involvement.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient with acute left hemiparesis has gaze preference to the right and global aphasia. Likely occlusion?",
+      "options": [
+        "Left ACA",
+        "Left MCA inferior division",
+        "Right MCA stem",
+        "Left MCA stem"
+      ],
+      "correctIndex": 3,
+      "explanation": "MCA stem affects both superior and inferior divisions—global aphasia and severe hemiparesis with gaze toward lesion.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Acute onset vertigo, severe ataxia, ipsilateral facial sensory loss, contralateral body pain/temp loss, and hoarseness point to:",
+      "options": [
+        "PICA infarct (Wallenberg)",
+        "SCA infarct",
+        "Basilar tip embolus",
+        "AICA infarct"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classic lateral medullary features including nucleus ambiguus involvement (dysphagia/hoarseness).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient presents with pure alexia without agraphia and right homonymous hemianopia. Lesion localization?",
+      "options": [
+        "Bilateral parietal lobes",
+        "Left occipital cortex and splenium (PCA)",
+        "Left angular gyrus (MCA)",
+        "Right occipital cortex (PCA)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disconnection of visual input to language areas via splenial lesion causes alexia without agraphia.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Hemiballismus after stroke localizes to:",
+      "options": [
+        "Contralateral red nucleus",
+        "Ipsilateral caudate head",
+        "Contralateral subthalamic nucleus",
+        "Ipsilateral putamen"
+      ],
+      "correctIndex": 2,
+      "explanation": "STN lesions produce contralateral hemiballismus.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient has left Horner syndrome, left ataxia, and right body pain/temperature loss without facial weakness. Lesion?",
+      "options": [
+        "Left lateral pons (AICA)",
+        "Right medial medulla",
+        "Left medial midbrain",
+        "Left lateral medulla (PICA)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Face motor nucleus is spared in medulla; combination fits lateral medullary syndrome.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Right MCA inferior division stroke most likely produces which visual-perceptual deficit?",
+      "options": [
+        "Left hemispatial neglect",
+        "Pure alexia",
+        "Anton syndrome",
+        "Akinetopsia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-dominant inferior parietal/temporal cortex → neglect.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "PCA infarct of calcarine cortex typically causes:",
+      "options": [
+        "Monocular blindness",
+        "Contralateral homonymous hemianopia",
+        "Bitemporal hemianopia",
+        "Binasal hemianopia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Primary visual cortex lesion → contralateral homonymous field loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In basilar artery occlusion, which sign suggests rostral brainstem involvement?",
+      "options": [
+        "Monocular vision loss",
+        "Vertical gaze palsy with preserved consciousness",
+        "Coma with quadriplegia and small reactive pupils",
+        "Isolated facial numbness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Basilar occlusion injuring pons causes coma/quadriplegia with small reactive pupils.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A right thalamic VPL lacune produces which deficit pattern?",
+      "options": [
+        "Right body numbness",
+        "Bilateral vibration loss",
+        "Left face pain loss only",
+        "Left body numbness with intact face"
+      ],
+      "correctIndex": 3,
+      "explanation": "VPL relays contralateral body sensation; VPM is face.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Watershed infarcts after hypotension commonly involve which cortical pattern?",
+      "options": [
+        "Cortical ribbon in ACA–MCA and MCA–PCA border zones",
+        "Corpus callosum only",
+        "Brainstem nuclei only",
+        "Deep gray nuclei only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Border-zone cortical regions are vulnerable to hypoperfusion.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A left superior division MCA stroke is MOST associated with which aphasia profile?",
+      "options": [
+        "Fluent speech with poor comprehension and repetition",
+        "Nonfluent speech with intact comprehension and impaired repetition",
+        "Severe word salad with intact repetition",
+        "Pure anomia only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Broca aphasia: nonfluent, relatively preserved comprehension, impaired repetition.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Medial medullary syndrome includes all EXCEPT:",
+      "options": [
+        "Contralateral vibration/proprioception loss",
+        "Ipsilateral hypoglossal palsy",
+        "Ipsilateral facial paralysis",
+        "Contralateral hemiparesis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Facial nucleus is in pons; hypoglossal in medulla.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A stroke producing right inferior quadrantanopia localizes to:",
+      "options": [
+        "Right temporal lobe",
+        "Bilateral LGN",
+        "Left parietal optic radiations",
+        "Left temporal optic radiations (Meyer loop)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Left Meyer loop carries right superior visual field—lesion causes right superior quadrantanopia; inferior requires parietal—thus here 'inferior' is parietal contralateral.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which vessel supplies the medial medulla?",
+      "options": [
+        "ASA perforators",
+        "PICA",
+        "AICA",
+        "SCA"
+      ],
+      "correctIndex": 0,
+      "explanation": "ASA supplies medial medullary structures.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In acute ischemic stroke beyond 4.5 hours but with large-vessel occlusion and favorable perfusion mismatch, best therapy?",
+      "options": [
+        "IV heparin",
+        "Endovascular thrombectomy if criteria met",
+        "Warfarin load",
+        "Aspirin only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thrombectomy up to 24 hours in selected patients with mismatch/clinical–core criteria.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Aphasias lateralize to which hemisphere in most right-handed individuals?",
+      "options": [
+        "Either equally",
+        "Bilateral",
+        "Left",
+        "Right"
+      ],
+      "correctIndex": 2,
+      "explanation": "Language dominance is typically left-sided.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A patient has acute left leg weakness with urinary incontinence and abulia. Vascular territory?",
+      "options": [
+        "Left MCA",
+        "Left PCA",
+        "Basilar tip",
+        "Left ACA"
+      ],
+      "correctIndex": 3,
+      "explanation": "ACA supplies medial frontal (leg area), cingulate—abulia/incontinence.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A paramedian pontine infarct causing 'one-and-a-half' syndrome injures which structures?",
+      "options": [
+        "Ipsilateral PPRF/VI nucleus and ipsilateral MLF",
+        "Bilateral abducens nuclei",
+        "MLF only",
+        "Right PPRF and contralateral MLF"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ipsilateral horizontal gaze palsy (PPRF/VI) plus ipsilateral INO (MLF).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which early ischemic changes on CT predict higher risk of hemorrhagic transformation after tPA?",
+      "options": [
+        "Cortical calcifications",
+        "Extensive hypoattenuation and sulcal effacement >1/3 MCA territory",
+        "Isolated hyperdense MCA sign only",
+        "Old lacunes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Large early ischemic changes correlate with increased risk.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 55-year-old with sudden severe headache, neck stiffness, and normal CT at 6 hours. Next best test?",
+      "options": [
+        "Carotid ultrasound",
+        "MRI only",
+        "Lumbar puncture for xanthochromia",
+        "EEG"
+      ],
+      "correctIndex": 2,
+      "explanation": "SAH suspicion with normal CT warrants LP for xanthochromia after 6 hours.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Right PCA infarct affecting the splenium is most likely to cause:",
+      "options": [
+        "Alexia without agraphia",
+        "Balint syndrome",
+        "Gerstmann syndrome",
+        "Prosopagnosia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Right occipitotemporal lesions can cause prosopagnosia; alexia without agraphia requires left splenial involvement.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 30-year-old with sudden painful Horner syndrome and transient aphasia after running. Suspect:",
+      "options": [
+        "Left internal carotid dissection",
+        "Basilar occlusion",
+        "Cavernous sinus thrombosis",
+        "Right vertebral dissection"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carotid dissection causes ipsilateral painful Horner and anterior circulation ischemia.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which deep perforator territory is supplied by the lenticulostriate arteries?",
+      "options": [
+        "Cerebellar dentate",
+        "Caudate head and putamen/internal capsule",
+        "Thalamus VPL",
+        "Hippocampus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lenticulostriates from MCA supply basal ganglia and internal capsule.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Balint syndrome (optic ataxia, ocular apraxia, simultanagnosia) results from lesions where?",
+      "options": [
+        "Right temporal pole",
+        "Bilateral frontal lobes",
+        "Bilateral parietal-occipital cortex",
+        "Left fusiform gyrus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dorsal visual stream bilateral lesions cause Balint.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A lesion in the thalamic VPM most likely affects which modality?",
+      "options": [
+        "Proprioception from legs only",
+        "Vestibular inputs",
+        "Body pain/temperature",
+        "Facial sensation"
+      ],
+      "correctIndex": 3,
+      "explanation": "VPM relays trigeminal (face) sensation.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 61)",
+      "options": [
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss",
+        "Contralateral hypoglossal palsy",
+        "Ipsilateral Horner with nucleus ambiguus sparing",
+        "Pure motor hemiparesis only"
+      ],
+      "correctIndex": 0,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 62)",
+      "options": [
+        "ASA",
+        "Anterior choroidal artery",
+        "ACA",
+        "SCA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 63)",
+      "options": [
+        "Prosopagnosia",
+        "Broca aphasia",
+        "Left neglect with gaze deviation toward lesion",
+        "Pure alexia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 64)",
+      "options": [
+        "Occipital cortex",
+        "Cerebellar hemisphere",
+        "Thalamic pulvinar",
+        "Posterior limb internal capsule lacune"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 65)",
+      "options": [
+        "Bilateral cortical blindness",
+        "Bitemporal hemianopia",
+        "Monocular blindness",
+        "Pure motor hemiparesis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 66)",
+      "options": [
+        "Pure motor hemiparesis only",
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss",
+        "Contralateral hypoglossal palsy",
+        "Ipsilateral Horner with nucleus ambiguus sparing"
+      ],
+      "correctIndex": 1,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 67)",
+      "options": [
+        "SCA",
+        "ASA",
+        "Anterior choroidal artery",
+        "ACA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 68)",
+      "options": [
+        "Pure alexia",
+        "Prosopagnosia",
+        "Broca aphasia",
+        "Left neglect with gaze deviation toward lesion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 69)",
+      "options": [
+        "Posterior limb internal capsule lacune",
+        "Occipital cortex",
+        "Cerebellar hemisphere",
+        "Thalamic pulvinar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 70)",
+      "options": [
+        "Pure motor hemiparesis",
+        "Bilateral cortical blindness",
+        "Bitemporal hemianopia",
+        "Monocular blindness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 71)",
+      "options": [
+        "Ipsilateral Horner with nucleus ambiguus sparing",
+        "Pure motor hemiparesis only",
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss",
+        "Contralateral hypoglossal palsy"
+      ],
+      "correctIndex": 2,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 72)",
+      "options": [
+        "ACA",
+        "SCA",
+        "ASA",
+        "Anterior choroidal artery"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 73)",
+      "options": [
+        "Left neglect with gaze deviation toward lesion",
+        "Pure alexia",
+        "Prosopagnosia",
+        "Broca aphasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 74)",
+      "options": [
+        "Thalamic pulvinar",
+        "Posterior limb internal capsule lacune",
+        "Occipital cortex",
+        "Cerebellar hemisphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 75)",
+      "options": [
+        "Monocular blindness",
+        "Pure motor hemiparesis",
+        "Bilateral cortical blindness",
+        "Bitemporal hemianopia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 76)",
+      "options": [
+        "Contralateral hypoglossal palsy",
+        "Ipsilateral Horner with nucleus ambiguus sparing",
+        "Pure motor hemiparesis only",
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss"
+      ],
+      "correctIndex": 3,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 77)",
+      "options": [
+        "Anterior choroidal artery",
+        "ACA",
+        "SCA",
+        "ASA"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 78)",
+      "options": [
+        "Broca aphasia",
+        "Left neglect with gaze deviation toward lesion",
+        "Pure alexia",
+        "Prosopagnosia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 79)",
+      "options": [
+        "Cerebellar hemisphere",
+        "Thalamic pulvinar",
+        "Posterior limb internal capsule lacune",
+        "Occipital cortex"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 80)",
+      "options": [
+        "Bitemporal hemianopia",
+        "Monocular blindness",
+        "Pure motor hemiparesis",
+        "Bilateral cortical blindness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 81)",
+      "options": [
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss",
+        "Contralateral hypoglossal palsy",
+        "Ipsilateral Horner with nucleus ambiguus sparing",
+        "Pure motor hemiparesis only"
+      ],
+      "correctIndex": 0,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 82)",
+      "options": [
+        "ASA",
+        "Anterior choroidal artery",
+        "ACA",
+        "SCA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 83)",
+      "options": [
+        "Prosopagnosia",
+        "Broca aphasia",
+        "Left neglect with gaze deviation toward lesion",
+        "Pure alexia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 84)",
+      "options": [
+        "Occipital cortex",
+        "Cerebellar hemisphere",
+        "Thalamic pulvinar",
+        "Posterior limb internal capsule lacune"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 85)",
+      "options": [
+        "Bilateral cortical blindness",
+        "Bitemporal hemianopia",
+        "Monocular blindness",
+        "Pure motor hemiparesis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 86)",
+      "options": [
+        "Pure motor hemiparesis only",
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss",
+        "Contralateral hypoglossal palsy",
+        "Ipsilateral Horner with nucleus ambiguus sparing"
+      ],
+      "correctIndex": 1,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 87)",
+      "options": [
+        "SCA",
+        "ASA",
+        "Anterior choroidal artery",
+        "ACA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 88)",
+      "options": [
+        "Pure alexia",
+        "Prosopagnosia",
+        "Broca aphasia",
+        "Left neglect with gaze deviation toward lesion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 89)",
+      "options": [
+        "Posterior limb internal capsule lacune",
+        "Occipital cortex",
+        "Cerebellar hemisphere",
+        "Thalamic pulvinar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 90)",
+      "options": [
+        "Pure motor hemiparesis",
+        "Bilateral cortical blindness",
+        "Bitemporal hemianopia",
+        "Monocular blindness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 91)",
+      "options": [
+        "Ipsilateral Horner with nucleus ambiguus sparing",
+        "Pure motor hemiparesis only",
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss",
+        "Contralateral hypoglossal palsy"
+      ],
+      "correctIndex": 2,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 92)",
+      "options": [
+        "ACA",
+        "SCA",
+        "ASA",
+        "Anterior choroidal artery"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 93)",
+      "options": [
+        "Left neglect with gaze deviation toward lesion",
+        "Pure alexia",
+        "Prosopagnosia",
+        "Broca aphasia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 94)",
+      "options": [
+        "Thalamic pulvinar",
+        "Posterior limb internal capsule lacune",
+        "Occipital cortex",
+        "Cerebellar hemisphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 95)",
+      "options": [
+        "Monocular blindness",
+        "Pure motor hemiparesis",
+        "Bilateral cortical blindness",
+        "Bitemporal hemianopia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lateral pontine (AICA) infarct typically includes which finding? (case 96)",
+      "options": [
+        "Contralateral hypoglossal palsy",
+        "Ipsilateral Horner with nucleus ambiguus sparing",
+        "Pure motor hemiparesis only",
+        "Ipsilateral facial paralysis and decreased lacrimation with possible hearing loss"
+      ],
+      "correctIndex": 3,
+      "explanation": "AICA supplies facial nucleus and inner ear via labyrinthine artery—facial palsy + hearing loss.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which artery perfuses the lateral geniculate nucleus and optic tract most often implicated in homonymous visual field defects? (case 97)",
+      "options": [
+        "Anterior choroidal artery",
+        "ACA",
+        "SCA",
+        "ASA"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anterior choroidal supplies optic tract/LGN; lesions cause homonymous field defects.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A superior division MCA infarct in the non-dominant hemisphere most likely causes: (case 98)",
+      "options": [
+        "Broca aphasia",
+        "Left neglect with gaze deviation toward lesion",
+        "Pure alexia",
+        "Prosopagnosia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-dominant frontal-parietal regions → neglect and gaze preference.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Pure motor hemiparesis without cortical signs—best initial imaging localization? (case 99)",
+      "options": [
+        "Cerebellar hemisphere",
+        "Thalamic pulvinar",
+        "Posterior limb internal capsule lacune",
+        "Occipital cortex"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lacunar infarct of IC posterior limb is classic.",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A basilar tip aneurysm thrombosis causing bilateral PCA infarcts will most likely present with: (case 100)",
+      "options": [
+        "Bitemporal hemianopia",
+        "Monocular blindness",
+        "Pure motor hemiparesis",
+        "Bilateral cortical blindness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bilateral occipital infarcts → cortical blindness (Anton syndrome possible).",
+      "category": "Neurovascular/Stroke (Localization & Neuroanatomy)",
+      "difficulty": "hard"
+    }
+  ]
+}

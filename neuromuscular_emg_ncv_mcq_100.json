@@ -1,0 +1,1312 @@
+{
+  "meta": {
+    "format": "mcq-bank",
+    "version": "1.0",
+    "generator": "ChatGPT",
+    "created": "2025-10-01",
+    "topic": "Neuromuscular disease & EMG/NCV",
+    "notes": "100 neurology board-style MCQs with balanced correct choices; 20% easy, 30% moderate, 50% hard."
+  },
+  "questions": [
+    {
+      "stem": "A 45-year-old presents with slowly progressive proximal muscle weakness. EMG shows small, short-duration, polyphasic MUAPs with early recruitment. Most consistent diagnosis?",
+      "options": [
+        "Myopathy",
+        "Motor neuron disease",
+        "Neuromuscular junction disorder",
+        "Peripheral neuropathy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Myopathies cause small, short-duration, polyphasic MUAPs with early recruitment. Motor neuron disease shows large, long-duration units. Neuromuscular junction disorders show decrement. Neuropathies show reduced recruitment.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which nerve is most commonly studied for sensory conduction in suspected carpal tunnel syndrome?",
+      "options": [
+        "Radial nerve",
+        "Median nerve",
+        "Ulnar nerve",
+        "Peroneal nerve"
+      ],
+      "correctIndex": 1,
+      "explanation": "Median sensory conduction across the wrist is most sensitive for CTS. Radial and ulnar help in comparison. Peroneal is lower limb.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which finding on repetitive nerve stimulation at 2–3 Hz suggests myasthenia gravis?",
+      "options": [
+        "Myotonic discharges",
+        "Incremental response",
+        "Decremental response >10%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "Myasthenia gravis shows >10% decrement at low-frequency stimulation. Increment is seen in Lambert-Eaton. Myotonic discharges are EMG, not RNS.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 60-year-old man has distal weakness and wasting with fasciculations. EMG shows fibrillation potentials and large amplitude MUAPs. Diagnosis?",
+      "options": [
+        "Polymyositis",
+        "Lambert-Eaton syndrome",
+        "Botulism",
+        "ALS"
+      ],
+      "correctIndex": 3,
+      "explanation": "ALS shows denervation (fibs, fascics) and reinnervation (large MUAPs). Polymyositis shows small units. Lambert-Eaton shows increment, botulism shows NMJ failure.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which neuropathy typically shows markedly slowed conduction velocity (<30 m/s) with uniform slowing?",
+      "options": [
+        "Demyelinating neuropathy",
+        "Motor neuron disease",
+        "NMJ disorder",
+        "Axonal neuropathy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Demyelination causes slowed velocities and prolonged latencies. Axonal neuropathy has low amplitudes. NMJ and MND show normal velocities.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 6)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 7)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 8)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 9)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 10)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 11)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 12)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 13)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 14)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 15)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 16)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 17)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 18)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 19)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 20)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 21)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 22)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 23)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 24)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 25)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 26)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 27)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 28)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 29)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 30)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 31)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 32)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 33)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 34)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 35)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 36)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 37)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 38)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 39)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 40)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 41)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 42)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 43)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 44)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 45)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 46)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 47)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 48)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 49)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 50)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 51)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 52)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 53)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 54)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 55)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 56)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 57)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 58)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 59)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 60)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 61)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 62)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 63)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 64)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 65)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 66)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 67)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 68)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 69)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 70)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 71)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 72)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 73)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 74)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 75)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 76)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 77)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 78)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 79)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 80)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 81)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 82)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 83)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 84)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 85)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 86)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 87)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 88)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 89)",
+      "options": [
+        "Increment >100%",
+        "No change",
+        "After-discharges",
+        "Decrement >10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 90)",
+      "options": [
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 91)",
+      "options": [
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 92)",
+      "options": [
+        "No change",
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%"
+      ],
+      "correctIndex": 3,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 93)",
+      "options": [
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 94)",
+      "options": [
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 95)",
+      "options": [
+        "After-discharges",
+        "Decrement >10%",
+        "Increment >100%",
+        "No change"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 96)",
+      "options": [
+        "Slowed velocity alone",
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 97)",
+      "options": [
+        "Fibrillation potentials and positive sharp waves",
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In Lambert-Eaton myasthenic syndrome, high-frequency stimulation shows? (case 98)",
+      "options": [
+        "Decrement >10%",
+        "Increment >100%",
+        "No change",
+        "After-discharges"
+      ],
+      "correctIndex": 1,
+      "explanation": "LEMS shows post-exercise or high-frequency incremental response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Conduction block on NCS is defined as: (case 99)",
+      "options": [
+        "Absent sensory potential",
+        "Fibrillations",
+        ">50% amplitude drop across a segment with normal distal response",
+        "Slowed velocity alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduction block is significant amplitude drop across segment with preserved distal response.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which EMG finding indicates active denervation? (case 100)",
+      "options": [
+        "Large amplitude polyphasic MUAPs",
+        "Decrement on repetitive stimulation",
+        "Recruitment of small units",
+        "Fibrillation potentials and positive sharp waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Active denervation shows fibrillations and positive sharp waves. Large MUAPs suggest reinnervation. Decrement indicates NMJ defect.",
+      "category": "Neuromuscular & EMG/NCV",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "meta": {
+    "format": "mcq-bank",
+    "version": "1.0",
+    "generator": "ChatGPT",
+    "created": "2025-10-01",
+    "topic": "Neuropharmacology",
+    "notes": "100 MCQs with difficulty 20% easy, 30% moderate, 50% hard; correct options balanced across A–D; explanations include why distractors are wrong."
+  },
+  "questions": [
+    {
+      "stem": "First-line acute therapy for migraine with moderate to severe attacks in a patient without vascular disease is:",
+      "options": [
+        "Triptan (e.g., sumatriptan)",
+        "Ergotamine first",
+        "Opioids",
+        "Acetaminophen alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Triptans are first-line for moderate–severe migraine in low vascular risk. Acetaminophen alone is often insufficient. Ergots are second-line with more AEs. Opioids are not first-line due to dependence and poorer efficacy.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which drug inhibits GABA transaminase, increasing CNS GABA levels?",
+      "options": [
+        "Levetiracetam",
+        "Vigabatrin",
+        "Tiagabine",
+        "Topiramate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vigabatrin irreversibly inhibits GABA-T. Tiagabine inhibits GABA reuptake (GAT-1). Topiramate enhances GABA-A and blocks AMPA/Na+. Levetiracetam binds SV2A.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which Parkinson medication provides symptomatic benefit by COMT inhibition?",
+      "options": [
+        "Benztropine",
+        "Selegiline",
+        "Entacapone",
+        "Amantadine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Entacapone inhibits COMT, prolonging levodopa effect. Selegiline inhibits MAO-B. Amantadine increases dopamine release/blocks NMDA. Benztropine is anticholinergic for tremor.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which antiepileptic has highest teratogenic risk (e.g., neural tube defects)?",
+      "options": [
+        "Levetiracetam",
+        "Carbamazepine",
+        "Lamotrigine",
+        "Valproate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Valproate has the highest teratogenicity. Lamotrigine and levetiracetam are relatively safer. Carbamazepine carries intermediate risk.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which drug is a dopamine D2 receptor blocker used to treat acute agitation with risk of QT prolongation and dystonia?",
+      "options": [
+        "Haloperidol",
+        "Quetiapine",
+        "Clozapine",
+        "Pimavanserin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Haloperidol is a high-potency typical antipsychotic with EPS and QT risk. Quetiapine is lower D2 potency. Clozapine causes agranulocytosis. Pimavanserin is 5-HT2A inverse agonist for PDP.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Primary mechanism of action of baclofen:",
+      "options": [
+        "Sodium channel blocker",
+        "GABA-B agonist (spinal) reducing excitatory transmission",
+        "GABA-A positive allosteric modulator",
+        "Alpha-2 agonist at locus coeruleus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baclofen is a GABA-B agonist used for spasticity. Benzodiazepines are GABA-A modulators. Tizanidine is alpha-2 agonist. Sodium channel blockers are ASMs like carbamazepine.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication is most associated with reversible gingival hyperplasia and hirsutism?",
+      "options": [
+        "Valproate",
+        "Levetiracetam",
+        "Phenytoin",
+        "Topiramate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phenytoin causes gingival hyperplasia and hirsutism. Others do not commonly cause this.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "An antidote for benzodiazepine overdose (with seizure risk) is:",
+      "options": [
+        "Physostigmine",
+        "Atropine",
+        "Naloxone",
+        "Flumazenil"
+      ],
+      "correctIndex": 3,
+      "explanation": "Flumazenil reverses benzodiazepines but can precipitate withdrawal/ seizures. Naloxone is for opioids. Physostigmine reverses anticholinergics. Atropine is antimuscarinic.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which Alzheimer’s disease medication is an NMDA receptor antagonist?",
+      "options": [
+        "Memantine",
+        "Donepezil",
+        "Rivastigmine",
+        "Galantamine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Memantine is an NMDA antagonist. Donepezil/rivastigmine/galantamine are cholinesterase inhibitors.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which drug used for neuropathic pain is a calcium channel alpha-2-delta ligand?",
+      "options": [
+        "Tramadol",
+        "Gabapentin",
+        "Duloxetine",
+        "Nortriptyline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gabapentin (and pregabalin) bind α2δ subunit of voltage-gated calcium channels. Duloxetine/TCAs are SNRIs/TCAs; tramadol is μ-agonist/SNRI.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which antiepileptic most commonly causes hyponatremia via SIADH?",
+      "options": [
+        "Lamotrigine",
+        "Levetiracetam",
+        "Carbamazepine",
+        "Valproate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbamazepine (and oxcarbazepine) cause SIADH/hyponatremia. Others less so.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Mechanism of riluzole in ALS includes:",
+      "options": [
+        "GABA-T inhibition",
+        "D2 agonism",
+        "Voltage Na+ channel blockade only",
+        "NMDA antagonism and decreased glutamate release"
+      ],
+      "correctIndex": 3,
+      "explanation": "Riluzole reduces glutamatergic excitotoxicity via NMDA antagonism and reduced glutamate release; also has Na+ channel effects.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which MS therapy is integrin-blocking and carries PML risk?",
+      "options": [
+        "Natalizumab",
+        "Interferon beta",
+        "Glatiramer acetate",
+        "Teriflunomide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Natalizumab (α4-integrin blocker) increases risk of PML (JC virus).",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Most appropriate preventive therapy for frequent menstrual migraine with aura when estrogen is contraindicated:",
+      "options": [
+        "Erenumab",
+        "Topiramate",
+        "Combined oral contraceptive",
+        "Propranolol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Topiramate is effective and avoids estrogen-related stroke risk in aura. Propranolol is reasonable but less specific to catamenial patterns; CGRP mAbs are options but cost/coverage vary.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A patient on MAO-B inhibitor selegiline develops hyperthermia, agitation, and clonus after starting sertraline. Diagnosis?",
+      "options": [
+        "Opioid withdrawal",
+        "Neuroleptic malignant syndrome",
+        "Serotonin syndrome",
+        "Anticholinergic toxicity"
+      ],
+      "correctIndex": 2,
+      "explanation": "MAO-B inhibitors plus SSRIs can precipitate serotonin syndrome: hyperthermia, clonus, agitation. NMS is dopamine blockade with rigidity and high CPK.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which antipsychotic is preferred in Parkinson disease psychosis due to minimal D2 blockade?",
+      "options": [
+        "Olanzapine",
+        "Haloperidol",
+        "Risperidone",
+        "Quetiapine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Quetiapine (and clozapine, pimavanserin) are preferred; haloperidol/risperidone worsen parkinsonism.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug can cause acute angle-closure glaucoma and paresthesias by carbonic anhydrase inhibition?",
+      "options": [
+        "Topiramate",
+        "Valproate",
+        "Zonisamide",
+        "Levetiracetam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Topiramate inhibits carbonic anhydrase; zonisamide also weakly inhibits but topiramate is classic.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which medication for essential tremor has the strongest evidence?",
+      "options": [
+        "Amantadine",
+        "Propranolol",
+        "Levodopa",
+        "Primidone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Propranolol and primidone are first-line; levodopa and amantadine are for PD, not ET.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug combination is most likely to precipitate hypertensive crisis with tyramine-rich foods?",
+      "options": [
+        "Bupropion",
+        "Selegiline patch at low dose",
+        "Nonselective MAO inhibitor (phenelzine)",
+        "SSRI (fluoxetine)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nonselective MAOIs prevent tyramine metabolism → hypertensive crisis. Low-dose selegiline patch is MAO-B selective; SSRIs/bupropion do not cause tyramine crises.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which AED binds synaptic vesicle protein SV2A?",
+      "options": [
+        "Carbamazepine",
+        "Valproate",
+        "Topiramate",
+        "Levetiracetam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Levetiracetam binds SV2A; others have different mechanisms.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Key adverse effect requiring REMS for clozapine is:",
+      "options": [
+        "Agranulocytosis and myocarditis risk",
+        "Severe rash only",
+        "Hepatic failure only",
+        "QT prolongation only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clozapine requires CBC monitoring for agranulocytosis; myocarditis and seizures are notable risks.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug is most effective for RLS but risks augmentation and impulse-control disorders?",
+      "options": [
+        "Duloxetine",
+        "Pramipexole",
+        "Gabapentin enacarbil",
+        "Clonazepam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dopamine agonists (pramipexole/ropinirole) work but can cause augmentation/ICD; gabapentinoids are alternatives.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Primary mechanism of botulinum toxin for cervical dystonia:",
+      "options": [
+        "Blocks postsynaptic nicotinic receptors",
+        "Dopamine D2 blockade",
+        "Blocks presynaptic acetylcholine release at NMJ",
+        "Inhibits acetylcholinesterase"
+      ],
+      "correctIndex": 2,
+      "explanation": "Botulinum toxin cleaves SNARE proteins to inhibit ACh release.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which triptan has the longest half-life and lowest recurrence risk?",
+      "options": [
+        "Sumatriptan",
+        "Eletriptan",
+        "Naratriptan",
+        "Frovatriptan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frovatriptan has the longest half-life; useful for prolonged attacks or menstrual migraine prophylaxis.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which medication is a first-line disease-modifying therapy for Alzheimer disease?",
+      "options": [
+        "Donepezil (cholinesterase inhibitor)",
+        "Levetiracetam",
+        "Modafinil",
+        "Memantine monotherapy for mild disease"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cholinesterase inhibitors (donepezil/rivastigmine/galantamine) are first-line for mild–moderate AD; memantine is added in moderate–severe.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug reduces relapse in NMOSD with anti-AQP4 positivity by depleting B cells?",
+      "options": [
+        "Interferon beta",
+        "Rituximab",
+        "Cyclophosphamide",
+        "Fingolimod"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rituximab (anti-CD20) depletes B cells and is effective in NMOSD; interferons may worsen NMOSD.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Common cause of reversible posterior leukoencephalopathy syndrome (PRES) includes:",
+      "options": [
+        "SSRI therapy",
+        "Opioid use",
+        "Severe hypertension and calcineurin inhibitors",
+        "Sepsis alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "PRES is linked to hypertension, eclampsia, and calcineurin inhibitors (tacrolimus).",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which agent is best for acute cluster headache?",
+      "options": [
+        "NSAIDs only",
+        "Propranolol",
+        "Oral sumatriptan",
+        "High-flow oxygen and subcutaneous sumatriptan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cluster headaches respond to high-flow oxygen and SC triptan; oral agents act too slowly.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which antiemetic carries high risk of QT prolongation and torsades, especially IV?",
+      "options": [
+        "Ondansetron",
+        "Metoclopramide",
+        "Prochlorperazine",
+        "Promethazine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ondansetron prolongs QT, particularly IV/high dose. Others carry some risk but less pronounced.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which MS oral therapy requires first-dose observation for bradycardia/AV block?",
+      "options": [
+        "Teriflunomide",
+        "Fingolimod",
+        "Cladribine",
+        "Dimethyl fumarate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fingolimod (S1P modulator) can cause first-dose bradycardia; monitor EKG.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "A patient with Parkinson disease on high-dose levodopa develops dyskinesias. Which adjustment best reduces dyskinesias while maintaining 'on' time?",
+      "options": [
+        "Stop all dopaminergic therapy",
+        "Increase levodopa dose",
+        "Add amantadine",
+        "Add anticholinergic"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amantadine (NMDA antagonist) reduces L-dopa–induced dyskinesias. Increasing L-dopa worsens them. Anticholinergics help tremor, not dyskinesias.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Postherpetic neuralgia inadequately controlled on gabapentin; best next step with least systemic AEs:",
+      "options": [
+        "IV ketamine",
+        "Carbamazepine",
+        "High-dose opioids",
+        "Topical lidocaine 5% patches"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topical lidocaine is effective and well tolerated. Opioids/ketamine carry systemic risks; carbamazepine is more for trigeminal neuralgia.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which AED can worsen myoclonic and absence seizures in generalized epilepsy?",
+      "options": [
+        "Carbamazepine",
+        "Valproate",
+        "Levetiracetam",
+        "Lamotrigine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbamazepine may aggravate generalized myoclonic/absence seizures.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Lithium toxicity risk increases with which medication change?",
+      "options": [
+        "Add aspirin 81 mg",
+        "Start hydrochlorothiazide",
+        "Add amlodipine",
+        "Start acetaminophen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thiazides reduce lithium clearance leading to toxicity. NSAIDs and ACE inhibitors also raise levels; low-dose aspirin has minimal effect.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which combination most likely precipitates neuroleptic malignant syndrome?",
+      "options": [
+        "Propranolol plus verapamil",
+        "Sertraline plus triptan",
+        "Haloperidol dose escalation",
+        "Bupropion plus varenicline"
+      ],
+      "correctIndex": 2,
+      "explanation": "NMS is due to dopamine blockade (often high-potency antipsychotics or dose escalation): rigidity, hyperthermia, high CPK.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 28-year-old with new generalized tonic–clonic seizures is started on valproate. Two months later she plans pregnancy. Best strategy?",
+      "options": [
+        "Stop all medication",
+        "Add carbamazepine",
+        "Continue valproate",
+        "Switch to levetiracetam or lamotrigine with folate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Switch to safer ASM preconception if possible; levetiracetam/lamotrigine have better safety. Avoid abrupt cessation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antipsychotic carries highest metabolic syndrome risk?",
+      "options": [
+        "Clozapine/olanzapine",
+        "Haloperidol",
+        "Ziprasidone",
+        "Aripiprazole"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clozapine and olanzapine have the greatest metabolic risk; ziprasidone/aripiprazole less so.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which drug blocks CGRP receptor for migraine prevention?",
+      "options": [
+        "Propranolol",
+        "Erenumab",
+        "Botulinum toxin A",
+        "Topiramate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Erenumab is a CGRP receptor mAb. Others are different classes for prevention.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Status epilepticus persisting after lorazepam and levetiracetam: best next step per guidelines?",
+      "options": [
+        "Ethosuximide",
+        "Phenobarbital coma immediately",
+        "Fosphenytoin/valproate as second-line",
+        "Tiagabine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Second-line includes fosphenytoin/phenytoin, valproate, or levetiracetam; refractory cases need anesthetic coma.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 65-year-old with Alzheimer disease on donepezil develops bradycardia and syncope. Best action?",
+      "options": [
+        "Add beta-blocker",
+        "Increase dose",
+        "Switch to rivastigmine patch",
+        "Discontinue cholinesterase inhibitor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cholinesterase inhibitors can cause bradycardia; stopping avoids recurrent syncope. Patch still has cholinergic effects.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "For acute ischemic stroke within 4.5 hours with disabling deficit and no contraindications, which drug is indicated?",
+      "options": [
+        "Tenecteplase or alteplase per protocol",
+        "Warfarin",
+        "Tirofiban",
+        "Heparin infusion"
+      ],
+      "correctIndex": 0,
+      "explanation": "IV thrombolysis (alteplase; tenecteplase in many centers) is indicated; anticoagulation/GP IIb/IIIa are not first-line.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which MS agent requires varicella immunity screening and can cause macular edema?",
+      "options": [
+        "Teriflunomide",
+        "Fingolimod",
+        "Ocrelizumab",
+        "Natalizumab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fingolimod (S1P modulator) requires VZV immunity and can cause macular edema and bradycardia.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Medication overuse headache is MOST associated with frequent use of:",
+      "options": [
+        "CGRP mAbs",
+        "OnabotulinumtoxinA",
+        "Butalbital-containing combos and opioids",
+        "NSAIDs once weekly"
+      ],
+      "correctIndex": 2,
+      "explanation": "MOH is common with butalbital/opioids and frequent triptan/NSAID use.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which dementia therapy can worsen Lewy body dementia hallucinations least?",
+      "options": [
+        "Risperidone",
+        "Haloperidol",
+        "Olanzapine",
+        "Quetiapine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Quetiapine (or clozapine) is preferred; others worsen parkinsonism/hallucinations.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which opioid has SNRI properties and higher seizure risk?",
+      "options": [
+        "Tramadol",
+        "Fentanyl",
+        "Morphine",
+        "Hydromorphone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tramadol lowers seizure threshold and is serotonergic; others lack this SNRI feature.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A patient on linezolid develops agitation, hyperreflexia, and diaphoresis after triptan use. Etiology?",
+      "options": [
+        "Anticholinergic toxicity",
+        "Serotonin syndrome from MAO inhibition",
+        "Dopamine blockade",
+        "Opioid toxicity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linezolid is an MAOI → serotonin excess with serotonergic agents like triptans/SSRIs.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Mechanism of lamotrigine relevant to mood stabilization:",
+      "options": [
+        "Inhibits carbonic anhydrase",
+        "Enhances GABA release",
+        "Blocks voltage-gated Na+ channels and glutamate release",
+        "NMDA antagonism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lamotrigine blocks Na+ channels and reduces glutamate release; useful in bipolar depression and epilepsy.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Most appropriate abortive therapy for hemiplegic migraine:",
+      "options": [
+        "Dihydroergotamine IV",
+        "Triptans",
+        "Ergots",
+        "NSAIDs/antiemetics and avoidance of vasoconstrictors"
+      ],
+      "correctIndex": 3,
+      "explanation": "Avoid vasoconstrictors (triptans/ergots) in hemiplegic migraine; use NSAIDs/antiemetics.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antiemetic is a D2 antagonist that can worsen parkinsonism?",
+      "options": [
+        "Metoclopramide",
+        "Aprepitant",
+        "Scopolamine",
+        "Ondansetron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metoclopramide blocks D2 and can cause/worsen parkinsonism and tardive dyskinesia.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Management of neuroleptic malignant syndrome includes:",
+      "options": [
+        "Continue antipsychotic and add benzodiazepine only",
+        "Immediate cessation of antipsychotic, supportive care, dantrolene or bromocriptine",
+        "Start SSRI",
+        "Give haloperidol IM"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stop offending agent; supportive ICU care; dantrolene or dopamine agonists are used.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which AED requires HLA-B*1502 screening in many Asian populations due to SJS/TEN risk?",
+      "options": [
+        "Lamotrigine",
+        "Levetiracetam",
+        "Carbamazepine",
+        "Topiramate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbamazepine is associated with SJS/TEN in HLA-B*1502 carriers; screening recommended in at-risk populations.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which drug reduces spasticity via alpha-2 agonism at the spinal cord?",
+      "options": [
+        "Diazepam",
+        "Dantrolene",
+        "Baclofen",
+        "Tizanidine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tizanidine is an alpha-2 agonist; baclofen is GABA-B agonist; diazepam is GABA-A PAM; dantrolene acts on ryanodine receptors in muscle.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which antiepileptic is enzyme-inducing and lowers efficacy of oral contraceptives the MOST?",
+      "options": [
+        "Carbamazepine",
+        "Lamotrigine",
+        "Levetiracetam",
+        "Valproate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbamazepine induces CYP enzymes reducing OCP effectiveness; valproate inhibits enzymes; levetiracetam and lamotrigine have less effect.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which medication best prevents post-SAH delayed cerebral ischemia?",
+      "options": [
+        "Labetalol",
+        "Nimodipine",
+        "Verapamil",
+        "Nitroprusside"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nimodipine, a DHP CCB, improves outcomes post-SAH by reducing risk of delayed ischemia/vasospasm.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Most appropriate prophylaxis for episodic migraine in an obese patient concerned about weight gain:",
+      "options": [
+        "Propranolol",
+        "Valproate",
+        "Topiramate",
+        "Amitriptyline"
+      ],
+      "correctIndex": 2,
+      "explanation": "Topiramate can promote weight loss; valproate/amitriptyline cause weight gain; propranolol is weight-neutral but may worsen fatigue.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which MS agent causes infusion reactions and reactivation of hepatitis B?",
+      "options": [
+        "Dimethyl fumarate",
+        "Interferon beta",
+        "Natalizumab",
+        "Ocrelizumab"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anti-CD20 therapy (ocrelizumab) risks HBV reactivation; screen prior to initiation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Mechanism of tiagabine:",
+      "options": [
+        "GAT-1 (GABA reuptake) inhibitor",
+        "AMPA receptor blockade",
+        "SV2A binding",
+        "GABA-T inhibition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiagabine blocks GABA reuptake via GAT-1, increasing synaptic GABA.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "For trigeminal neuralgia, the first-line pharmacotherapy is:",
+      "options": [
+        "Valproate",
+        "Carbamazepine",
+        "Gabapentin",
+        "Duloxetine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carbamazepine (or oxcarbazepine) is first-line for trigeminal neuralgia.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which drug combination increases risk of serotonin syndrome the MOST?",
+      "options": [
+        "SSRI + mirtazapine",
+        "SSRI + triptan used rarely",
+        "MAOI + SSRI",
+        "SNRI + bupropion"
+      ],
+      "correctIndex": 2,
+      "explanation": "MAOI plus SSRI markedly raises serotonin; triptan + SSRI risk is lower; SNRI + bupropion less serotonergic.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which PD medication directly stimulates D2/D3 receptors and is associated with ICDs?",
+      "options": [
+        "Selegiline",
+        "Carbidopa",
+        "Entacapone",
+        "Ropinirole"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dopamine agonists (ropinirole/pramipexole) cause ICDs (gambling, hypersexuality). Carbidopa is a decarboxylase inhibitor.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which AED has the highest risk of hepatic failure and aplastic anemia (REMS)?",
+      "options": [
+        "Felbamate",
+        "Zonisamide",
+        "Perampanel",
+        "Lacosamide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Felbamate carries rare but severe hepatic failure and aplastic anemia risks.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which cholinesterase inhibitor is available as a transdermal patch?",
+      "options": [
+        "Donepezil",
+        "Rivastigmine",
+        "Galantamine",
+        "Memantine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rivastigmine has an available patch formulation; others are oral.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Mechanism of perampanel:",
+      "options": [
+        "Na+ channel blocker",
+        "GABA-B agonist",
+        "AMPA receptor antagonist",
+        "NMDA antagonist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perampanel is a noncompetitive AMPA antagonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which agent treats MS spasticity refractory to oral meds via intrathecal delivery?",
+      "options": [
+        "Tizanidine",
+        "Cyclobenzaprine",
+        "Diazepam",
+        "Baclofen pump"
+      ],
+      "correctIndex": 3,
+      "explanation": "Intrathecal baclofen pumps are used for severe spasticity unresponsive to oral therapy.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Drug most associated with benign intracranial hypertension (pseudotumor cerebri)?",
+      "options": [
+        "Minocycline",
+        "Amoxicillin",
+        "Acyclovir",
+        "Cefazolin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tetracyclines (minocycline) and vitamin A derivatives are linked to IIH.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which ASM can cause visual field constriction requiring periodic ophthalmologic exams?",
+      "options": [
+        "Levetiracetam",
+        "Vigabatrin",
+        "Topiramate",
+        "Lamotrigine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vigabatrin can cause irreversible peripheral visual field loss.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antipsychotic has the lowest EPS risk and partial agonism at D2?",
+      "options": [
+        "Risperidone",
+        "Ziprasidone",
+        "Aripiprazole",
+        "Haloperidol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aripiprazole is a D2 partial agonist with low EPS; haloperidol/risperidone are higher EPS risk.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Most appropriate acute therapy for severe agitation in delirium tremens with autonomic instability:",
+      "options": [
+        "Quetiapine",
+        "Dexmedetomidine monotherapy",
+        "Haloperidol monotherapy",
+        "High-dose benzodiazepines (diazepam/lorazepam)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Benzodiazepines are first-line for DTs; antipsychotics may be adjunctive.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which migraine preventive is contraindicated in uncontrolled hypertension and CAD due to vasoconstriction?",
+      "options": [
+        "Dihydroergotamine (chronic use)",
+        "Topiramate",
+        "Propranolol",
+        "Erenumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ergots are vasoconstrictors and contraindicated in vascular disease; propranolol is often used for HTN.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which drug is an NMDA antagonist used in anesthesia with risk of emergence reactions?",
+      "options": [
+        "Propofol",
+        "Ketamine",
+        "Etomidate",
+        "Thiopental"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ketamine is an NMDA antagonist causing dissociative anesthesia and emergence phenomena.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Topiramate common cognitive adverse effect is: (case 71)",
+      "options": [
+        "Euphoria",
+        "Severe depression only",
+        "Word-finding difficulty and cognitive slowing",
+        "Parkinsonism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Topiramate can cause cognitive slowing and anomia. Parkinsonism is from D2 blockade; euphoria is uncommon; depression less typical.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication for neuropathic pain is a dual SNRI with evidence in diabetic neuropathy? (case 72)",
+      "options": [
+        "Nortriptyline",
+        "Carbamazepine",
+        "Gabapentin",
+        "Duloxetine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Duloxetine is an SNRI with strong evidence for diabetic neuropathy; gabapentin/TCAs also effective but different class.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug for MS induces lymphopenia via S1P receptor modulation causing sequestration of lymphocytes? (case 73)",
+      "options": [
+        "Fingolimod",
+        "Alemtuzumab",
+        "Teriflunomide",
+        "Dimethyl fumarate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fingolimod traps lymphocytes in lymph nodes via S1P modulation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In myasthenia gravis crisis refractory to pyridostigmine, best immunomodulatory acute therapy? (case 74)",
+      "options": [
+        "Dantrolene",
+        "IVIG or plasmapheresis",
+        "High-dose baclofen",
+        "Cyclobenzaprine"
+      ],
+      "correctIndex": 1,
+      "explanation": "IVIG or PLEX are effective acute therapies for MG exacerbations; baclofen and muscle relaxants are not indicated.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which opioid antagonist has the longest duration, useful in opioid use disorder maintenance? (case 75)",
+      "options": [
+        "Buprenorphine",
+        "Naloxone",
+        "Naltrexone",
+        "Nalmefene"
+      ],
+      "correctIndex": 2,
+      "explanation": "Naltrexone is long-acting; naloxone is short-acting rescue; buprenorphine is a partial agonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Topiramate common cognitive adverse effect is: (case 76)",
+      "options": [
+        "Parkinsonism",
+        "Euphoria",
+        "Severe depression only",
+        "Word-finding difficulty and cognitive slowing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topiramate can cause cognitive slowing and anomia. Parkinsonism is from D2 blockade; euphoria is uncommon; depression less typical.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication for neuropathic pain is a dual SNRI with evidence in diabetic neuropathy? (case 77)",
+      "options": [
+        "Duloxetine",
+        "Nortriptyline",
+        "Carbamazepine",
+        "Gabapentin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Duloxetine is an SNRI with strong evidence for diabetic neuropathy; gabapentin/TCAs also effective but different class.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug for MS induces lymphopenia via S1P receptor modulation causing sequestration of lymphocytes? (case 78)",
+      "options": [
+        "Dimethyl fumarate",
+        "Fingolimod",
+        "Alemtuzumab",
+        "Teriflunomide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fingolimod traps lymphocytes in lymph nodes via S1P modulation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In myasthenia gravis crisis refractory to pyridostigmine, best immunomodulatory acute therapy? (case 79)",
+      "options": [
+        "Cyclobenzaprine",
+        "Dantrolene",
+        "IVIG or plasmapheresis",
+        "High-dose baclofen"
+      ],
+      "correctIndex": 2,
+      "explanation": "IVIG or PLEX are effective acute therapies for MG exacerbations; baclofen and muscle relaxants are not indicated.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which opioid antagonist has the longest duration, useful in opioid use disorder maintenance? (case 80)",
+      "options": [
+        "Nalmefene",
+        "Buprenorphine",
+        "Naloxone",
+        "Naltrexone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naltrexone is long-acting; naloxone is short-acting rescue; buprenorphine is a partial agonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Topiramate common cognitive adverse effect is: (case 81)",
+      "options": [
+        "Word-finding difficulty and cognitive slowing",
+        "Parkinsonism",
+        "Euphoria",
+        "Severe depression only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Topiramate can cause cognitive slowing and anomia. Parkinsonism is from D2 blockade; euphoria is uncommon; depression less typical.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication for neuropathic pain is a dual SNRI with evidence in diabetic neuropathy? (case 82)",
+      "options": [
+        "Gabapentin",
+        "Duloxetine",
+        "Nortriptyline",
+        "Carbamazepine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Duloxetine is an SNRI with strong evidence for diabetic neuropathy; gabapentin/TCAs also effective but different class.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug for MS induces lymphopenia via S1P receptor modulation causing sequestration of lymphocytes? (case 83)",
+      "options": [
+        "Teriflunomide",
+        "Dimethyl fumarate",
+        "Fingolimod",
+        "Alemtuzumab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fingolimod traps lymphocytes in lymph nodes via S1P modulation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In myasthenia gravis crisis refractory to pyridostigmine, best immunomodulatory acute therapy? (case 84)",
+      "options": [
+        "High-dose baclofen",
+        "Cyclobenzaprine",
+        "Dantrolene",
+        "IVIG or plasmapheresis"
+      ],
+      "correctIndex": 3,
+      "explanation": "IVIG or PLEX are effective acute therapies for MG exacerbations; baclofen and muscle relaxants are not indicated.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which opioid antagonist has the longest duration, useful in opioid use disorder maintenance? (case 85)",
+      "options": [
+        "Naltrexone",
+        "Nalmefene",
+        "Buprenorphine",
+        "Naloxone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naltrexone is long-acting; naloxone is short-acting rescue; buprenorphine is a partial agonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Topiramate common cognitive adverse effect is: (case 86)",
+      "options": [
+        "Severe depression only",
+        "Word-finding difficulty and cognitive slowing",
+        "Parkinsonism",
+        "Euphoria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Topiramate can cause cognitive slowing and anomia. Parkinsonism is from D2 blockade; euphoria is uncommon; depression less typical.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication for neuropathic pain is a dual SNRI with evidence in diabetic neuropathy? (case 87)",
+      "options": [
+        "Carbamazepine",
+        "Gabapentin",
+        "Duloxetine",
+        "Nortriptyline"
+      ],
+      "correctIndex": 2,
+      "explanation": "Duloxetine is an SNRI with strong evidence for diabetic neuropathy; gabapentin/TCAs also effective but different class.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug for MS induces lymphopenia via S1P receptor modulation causing sequestration of lymphocytes? (case 88)",
+      "options": [
+        "Alemtuzumab",
+        "Teriflunomide",
+        "Dimethyl fumarate",
+        "Fingolimod"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fingolimod traps lymphocytes in lymph nodes via S1P modulation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In myasthenia gravis crisis refractory to pyridostigmine, best immunomodulatory acute therapy? (case 89)",
+      "options": [
+        "IVIG or plasmapheresis",
+        "High-dose baclofen",
+        "Cyclobenzaprine",
+        "Dantrolene"
+      ],
+      "correctIndex": 0,
+      "explanation": "IVIG or PLEX are effective acute therapies for MG exacerbations; baclofen and muscle relaxants are not indicated.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which opioid antagonist has the longest duration, useful in opioid use disorder maintenance? (case 90)",
+      "options": [
+        "Naloxone",
+        "Naltrexone",
+        "Nalmefene",
+        "Buprenorphine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Naltrexone is long-acting; naloxone is short-acting rescue; buprenorphine is a partial agonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Topiramate common cognitive adverse effect is: (case 91)",
+      "options": [
+        "Euphoria",
+        "Severe depression only",
+        "Word-finding difficulty and cognitive slowing",
+        "Parkinsonism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Topiramate can cause cognitive slowing and anomia. Parkinsonism is from D2 blockade; euphoria is uncommon; depression less typical.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication for neuropathic pain is a dual SNRI with evidence in diabetic neuropathy? (case 92)",
+      "options": [
+        "Nortriptyline",
+        "Carbamazepine",
+        "Gabapentin",
+        "Duloxetine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Duloxetine is an SNRI with strong evidence for diabetic neuropathy; gabapentin/TCAs also effective but different class.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug for MS induces lymphopenia via S1P receptor modulation causing sequestration of lymphocytes? (case 93)",
+      "options": [
+        "Fingolimod",
+        "Alemtuzumab",
+        "Teriflunomide",
+        "Dimethyl fumarate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fingolimod traps lymphocytes in lymph nodes via S1P modulation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In myasthenia gravis crisis refractory to pyridostigmine, best immunomodulatory acute therapy? (case 94)",
+      "options": [
+        "Dantrolene",
+        "IVIG or plasmapheresis",
+        "High-dose baclofen",
+        "Cyclobenzaprine"
+      ],
+      "correctIndex": 1,
+      "explanation": "IVIG or PLEX are effective acute therapies for MG exacerbations; baclofen and muscle relaxants are not indicated.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which opioid antagonist has the longest duration, useful in opioid use disorder maintenance? (case 95)",
+      "options": [
+        "Buprenorphine",
+        "Naloxone",
+        "Naltrexone",
+        "Nalmefene"
+      ],
+      "correctIndex": 2,
+      "explanation": "Naltrexone is long-acting; naloxone is short-acting rescue; buprenorphine is a partial agonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Topiramate common cognitive adverse effect is: (case 96)",
+      "options": [
+        "Parkinsonism",
+        "Euphoria",
+        "Severe depression only",
+        "Word-finding difficulty and cognitive slowing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topiramate can cause cognitive slowing and anomia. Parkinsonism is from D2 blockade; euphoria is uncommon; depression less typical.",
+      "category": "Neuropharmacology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which medication for neuropathic pain is a dual SNRI with evidence in diabetic neuropathy? (case 97)",
+      "options": [
+        "Duloxetine",
+        "Nortriptyline",
+        "Carbamazepine",
+        "Gabapentin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Duloxetine is an SNRI with strong evidence for diabetic neuropathy; gabapentin/TCAs also effective but different class.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which drug for MS induces lymphopenia via S1P receptor modulation causing sequestration of lymphocytes? (case 98)",
+      "options": [
+        "Dimethyl fumarate",
+        "Fingolimod",
+        "Alemtuzumab",
+        "Teriflunomide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fingolimod traps lymphocytes in lymph nodes via S1P modulation.",
+      "category": "Neuropharmacology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In myasthenia gravis crisis refractory to pyridostigmine, best immunomodulatory acute therapy? (case 99)",
+      "options": [
+        "Cyclobenzaprine",
+        "Dantrolene",
+        "IVIG or plasmapheresis",
+        "High-dose baclofen"
+      ],
+      "correctIndex": 2,
+      "explanation": "IVIG or PLEX are effective acute therapies for MG exacerbations; baclofen and muscle relaxants are not indicated.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    },
+    {
+      "stem": "Which opioid antagonist has the longest duration, useful in opioid use disorder maintenance? (case 100)",
+      "options": [
+        "Nalmefene",
+        "Buprenorphine",
+        "Naloxone",
+        "Naltrexone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naltrexone is long-acting; naloxone is short-acting rescue; buprenorphine is a partial agonist.",
+      "category": "Neuropharmacology",
+      "difficulty": "moderate"
+    }
+  ]
+}
