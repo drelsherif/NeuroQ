@@ -1,0 +1,525 @@
+{
+  "topic": "Multiple Sclerosis and Autoimmune Neurology (Set 2)",
+  "questions": [
+    {
+      "stem": "Which emerging biomarker best correlates with treatment response and disease activity in MS per ECTRIMS 2024?",
+      "options": [
+        "Neurofilament light chain (NfL)",
+        "Serum amyloid A",
+        "GFAP autoantibody",
+        "Beta-2 microglobulin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Serum and CSF NfL reflect axonal injury and correlate with relapse rate and MRI activity; now used in clinical trials. Incorrect: Others lack specificity for MS activity.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "What distinguishes paramagnetic rim lesions on MRI in MS?",
+      "options": [
+        "They represent acute gadolinium-enhancing lesions",
+        "They indicate chronic active smoldering inflammation",
+        "They are seen only in NMOSD",
+        "They are artifacts from SWI imaging"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Paramagnetic rim lesions show chronic iron-laden microglial activity and predict progression. Incorrect: They are not acute or NMOSD-specific.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which BTK inhibitor reached phase 3 trials in relapsing MS by 2025?",
+      "options": [
+        "Tolebrutinib",
+        "Alemtuzumab",
+        "Ofatumumab",
+        "Eculizumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Tolebrutinib and evobrutinib are oral BTK inhibitors modulating B-cell and microglial signaling; trials ongoing. Incorrect: Others are older or unrelated agents.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 27-year-old woman develops subacute ataxia and myoclonus after checkpoint inhibitor therapy. MRI shows limbic and cerebellar involvement. Antibody most likely?",
+      "options": [
+        "DPPX-IgG",
+        "GAD65-IgG",
+        "LGI1-IgG",
+        "AQP4-IgG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: DPPX-IgG AE can follow checkpoint inhibitors and causes encephalitis with diarrhea, ataxia, and myoclonus. Incorrect: Others show different presentations.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which monoclonal antibody received approval in 2023 for relapsing MS targeting CD20 with shorter infusion time?",
+      "options": [
+        "Ublituximab",
+        "Ocrelizumab",
+        "Rituximab",
+        "Alemtuzumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Ublituximab is a glycoengineered CD20 antibody allowing shorter infusion. Incorrect: Others are earlier generation CD20 mAbs.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which imaging feature most supports NMOSD over MS?",
+      "options": [
+        "Short segment cervical cord lesion",
+        "Longitudinally extensive transverse myelitis",
+        "Juxtacortical lesions",
+        "Central vein sign"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: LETM (>3 vertebral segments) is characteristic for NMOSD. Incorrect: Others favor MS.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 38-year-old man develops progressive imbalance and diplopia. MRI shows new brainstem lesion and CSF oligoclonal bands. He meets dissemination in space but not time. Which test can substitute for dissemination in time (per McDonald 2023)?",
+      "options": [
+        "Repeat MRI at 12 months",
+        "Positive CSF-specific oligoclonal bands",
+        "Visual evoked potentials",
+        "Serum neurofilament light"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: CSF OCB substitute for dissemination in time. Incorrect: MRI follow-up or VEPs show activity but not diagnostic substitution.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which antibody defines IgLON5 disease presenting with parasomnia and bulbar dysfunction?",
+      "options": [
+        "IgLON5-IgG",
+        "LGI1-IgG",
+        "CASPR2-IgG",
+        "DPPX-IgG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: IgLON5 antibodies cause sleep-related and bulbar disorders with tauopathy overlap. Incorrect: Others cause limbic or peripheral syndromes.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "What is the mechanism of action of evobrutinib?",
+      "options": [
+        "Bruton's tyrosine kinase inhibition",
+        "IL-6 receptor blockade",
+        "CD20 depletion",
+        "S1P receptor modulation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Evobrutinib is a BTK inhibitor modulating B-cell and microglial activity. Incorrect: Others target distinct pathways.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which MS agent promotes remyelination via modulation of LINGO-1 pathway (under investigation)?",
+      "options": [
+        "Opicinumab",
+        "Fingolimod",
+        "Alemtuzumab",
+        "Ocrelizumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Opicinumab (anti-LINGO-1) showed remyelination signals in early studies though not yet approved. Incorrect: Others are immunomodulatory.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In NMOSD, what is the typical MRI distribution of brain lesions?",
+      "options": [
+        "Periependymal, area postrema, and hypothalamic regions",
+        "Corpus callosum ovoid lesions",
+        "Frontal juxtacortical lesions",
+        "Temporal pole atrophy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: NMOSD brain lesions cluster in periependymal/area postrema zones; MS lesions are periventricular/juxtacortical.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which autoantibody is associated with Morvan syndrome and peripheral nerve hyperexcitability?",
+      "options": [
+        "CASPR2-IgG",
+        "LGI1-IgG",
+        "GAD65-IgG",
+        "AQP4-IgG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: CASPR2-IgG linked to Morvan\u2019s and neuromyotonia; LGI1 = limbic AE.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which DMT carries a rebound risk if discontinued suddenly, similar to fingolimod?",
+      "options": [
+        "Siponimod",
+        "Dimethyl fumarate",
+        "Cladribine",
+        "Ocrelizumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Siponimod, another S1P modulator, can cause rebound inflammation if stopped abruptly.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 41-year-old woman with AQP4+ NMOSD has relapse on rituximab with rapid B-cell repopulation. Which biologic offers IL-6 blockade for such refractory cases?",
+      "options": [
+        "Satralizumab",
+        "Inebilizumab",
+        "Eculizumab",
+        "Ofatumumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Satralizumab targets IL-6R and benefits patients with inadequate B-cell depletion.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Checkpoint inhibitor-related encephalitis typically responds to:",
+      "options": [
+        "High-dose steroids and cessation of therapy",
+        "Interferon-beta",
+        "Eculizumab",
+        "Ocrelizumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Immune checkpoint AE requires steroids \u00b1 IVIG/PLEX; continuing the agent worsens symptoms.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 24-year-old with tumefactive demyelination and ring enhancement improves with steroids. Which feature distinguishes this from abscess?",
+      "options": [
+        "Open ring sign toward cortex",
+        "Restricted diffusion centrally",
+        "Peripheral hemorrhage",
+        "Ring uniformly enhancing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Open ring toward cortex suggests demyelination.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which factor predicts better cognitive outcome in MS?",
+      "options": [
+        "Lower lesion burden and higher cognitive reserve",
+        "Older age at onset",
+        "Male sex",
+        "High baseline NfL"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Lower lesion load and cognitive reserve correlate with protection.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which DMT is contraindicated in patients with active hepatitis B infection?",
+      "options": [
+        "Ocrelizumab",
+        "Interferon-beta",
+        "Glatiramer acetate",
+        "Teriflunomide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Ocrelizumab may reactivate HBV; screen before therapy.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which CSF profile suggests GFAP astrocytopathy rather than NMOSD?",
+      "options": [
+        "Markedly elevated protein and lymphocytic pleocytosis with GFAP-IgG",
+        "Neutrophilic predominance",
+        "Normal protein",
+        "Eosinophilic CSF"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: GFAP disease has lymphocytic pleocytosis with GFAP-IgG positivity.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In pediatric MS, which feature distinguishes it from ADEM?",
+      "options": [
+        "Relapsing course and multiple new lesions over time",
+        "Monophasic encephalopathy",
+        "Diffuse symmetric lesions",
+        "Resolution without relapse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Relapsing new lesions = MS; monophasic with encephalopathy = ADEM.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which serum biomarker indicates astrocytic injury and may complement NfL in MS monitoring?",
+      "options": [
+        "GFAP",
+        "Tau protein",
+        "CRP",
+        "IL-10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: GFAP reflects astrocyte injury and complements NfL.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "What is the principal mechanism of siponimod?",
+      "options": [
+        "S1P1,5 receptor modulation reducing lymphocyte egress",
+        "CD20 depletion",
+        "IL-17 inhibition",
+        "BTK blockade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Siponimod modulates S1P receptors reducing CNS infiltration.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which rehabilitation intervention improves gait speed and balance in progressive MS per 2024 meta-analysis?",
+      "options": [
+        "High-intensity interval treadmill training",
+        "Passive stretching only",
+        "Prolonged bed rest",
+        "Single balance session"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: HIIT treadmill and task-specific balance improve gait outcomes.",
+      "category": "Symptomatic Management",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 33-year-old with MOGAD relapses despite steroids. Next-line relapse prevention?",
+      "options": [
+        "IVIG monthly",
+        "Interferon-beta",
+        "Cladribine",
+        "Teriflunomide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: IVIG shown effective in recurrent MOGAD; MS DMTs often worsen it.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antibody is linked to autoimmune cerebellar ataxia often paraneoplastic with breast carcinoma?",
+      "options": [
+        "Yo (PCA-1)",
+        "Ri",
+        "Hu",
+        "Ma2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Anti-Yo associated with breast/ovarian paraneoplastic cerebellar degeneration.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Most characteristic MRI feature distinguishing MOGAD from MS in optic neuritis?",
+      "options": [
+        "Perineural enhancement and anterior optic nerve swelling",
+        "Posterior retrobulbar lesion only",
+        "No enhancement",
+        "Chiasmal lesion only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: MOGAD ON shows perineural and anterior swelling; MS ON is posterior.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which new oral agent under investigation promotes remyelination by modulating cholesterol synthesis?",
+      "options": [
+        "Clemastine fumarate",
+        "Riluzole",
+        "Minocycline",
+        "Fampridine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Clemastine fumarate promotes remyelination via muscarinic blockade.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which comorbidity most accelerates disability in MS?",
+      "options": [
+        "Smoking",
+        "High HDL",
+        "Female sex",
+        "Vitamin D sufficiency"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Smoking doubles risk of faster progression.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which DMT has the highest rate of hair thinning as side effect?",
+      "options": [
+        "Teriflunomide",
+        "Ocrelizumab",
+        "Cladribine",
+        "Interferon-beta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Teriflunomide commonly causes reversible alopecia.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Key distinguishing feature of GFAP astrocytopathy imaging vs NMOSD?",
+      "options": [
+        "Linear radial enhancement pattern",
+        "Confluent periventricular lesions",
+        "Short segment cord plaques",
+        "Cortical laminar necrosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Radial enhancement along vessels is pathognomonic.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which antibody syndrome presents with hyperekplexia, stiffness, and brainstem symptoms due to glycine receptor antibodies?",
+      "options": [
+        "GlyR-IgG",
+        "GAD65-IgG",
+        "DPPX-IgG",
+        "CASPR2-IgG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: GlyR-IgG causes stiff-person plus/hyperekplexia variants.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which lifestyle factor improves MS fatigue and quality of life?",
+      "options": [
+        "Regular aerobic exercise",
+        "Complete rest",
+        "High-sugar diet",
+        "Alcohol intake"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Exercise reduces fatigue; rest alone worsens deconditioning.",
+      "category": "Symptomatic Management",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which imaging metric quantifies slowly expanding lesions in progressive MS?",
+      "options": [
+        "Magnetization transfer ratio mapping",
+        "SWI susceptibility rim",
+        "Cortical thickness mapping",
+        "Lesion expansion rate on 3D FLAIR"
+      ],
+      "correctIndex": 3,
+      "explanation": "Correct: Serial 3D FLAIR lesion expansion quantifies chronic active lesions.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antibody overlaps with NMOSD and GFAP astrocytopathy in rare cases?",
+      "options": [
+        "AQP4 plus GFAP-IgG double seropositivity",
+        "MOG plus LGI1",
+        "CASPR2 plus DPPX",
+        "GAD65 plus NMDAR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: AQP4+GFAP overlap exists, producing combined features.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which cytokine drives B-cell survival in NMOSD and is elevated in CSF?",
+      "options": [
+        "IL-6",
+        "TNF-alpha",
+        "IL-12",
+        "IFN-beta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: IL-6 promotes plasmablast survival; hence IL-6R blockade works.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which MS subtype typically begins after age 45 with insidious progression without relapses?",
+      "options": [
+        "Primary progressive MS",
+        "Secondary progressive MS",
+        "Radiologically isolated",
+        "Clinically isolated syndrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: PPMS shows late onset progressive course.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which neurophysiologic test best quantifies demyelination of optic nerve in MS?",
+      "options": [
+        "Visual evoked potentials",
+        "Brainstem auditory evoked responses",
+        "Somatosensory evoked potentials",
+        "EMG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: VEP latency prolongation detects optic demyelination.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which new BTK inhibitor showed favorable safety profile but was halted for liver enzyme elevation in 2023?",
+      "options": [
+        "Evobrutinib",
+        "Tolebrutinib",
+        "Ublituximab",
+        "Satralizumab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Tolebrutinib paused briefly for hepatic signals; trials resumed under monitoring.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which syndrome combines opsoclonus-myoclonus with small-cell lung cancer?",
+      "options": [
+        "Anti-Ri (ANNA-2)",
+        "Anti-Hu",
+        "Anti-Ma2",
+        "Anti-Yo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Anti-Ri associated with paraneoplastic opsoclonus-myoclonus.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which MRI sequence best detects the central vein sign?",
+      "options": [
+        "Susceptibility-weighted imaging (SWI)",
+        "T1 postcontrast",
+        "Diffusion-weighted imaging",
+        "ADC map"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: SWI best shows central vein within lesions.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    }
+  ]
+}

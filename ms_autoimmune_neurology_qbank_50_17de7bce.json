@@ -1,0 +1,655 @@
+{
+  "topic": "Multiple Sclerosis and Autoimmune Neurology",
+  "questions": [
+    {
+      "stem": "A 32-year-old woman with relapsing\u2013remitting MS (RRMS) has two enhancing lesions despite 12 months of interferon\u2011\u03b2. She is JCV\u2011antibody positive (high index). Most appropriate escalation?",
+      "options": [
+        "Natalizumab",
+        "Ocrelizumab",
+        "Dimethyl fumarate",
+        "Teriflunomide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Ocrelizumab (anti\u2011CD20) is high\u2011efficacy and avoids natalizumab\u2019s JCV\u2011related PML risk. Incorrect: Dimethyl fumarate/teriflunomide are moderate\u2011efficacy and inadequate after breakthrough disease; natalizumab is high PML risk when JCV+.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which MRI feature most strongly favors MS over small\u2011vessel ischemic disease?",
+      "options": [
+        "Symmetric periventricular caps",
+        "Juxtacortical lesions that touch the cortex",
+        "Basal ganglia lacunes",
+        "Multiple cerebral microbleeds on SWI"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Juxtacortical lesions abutting cortex (and Dawson\u2019s fingers) are typical of MS. Incorrect: Caps/lacunes/microbleeds favor vascular etiologies.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which monoclonal antibody targets CD19 and reduces relapses in AQP4\u2011IgG\u2013positive NMOSD?",
+      "options": [
+        "Ocrelizumab",
+        "Inebilizumab",
+        "Eculizumab",
+        "Satralizumab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Inebilizumab depletes CD19+ B cells for AQP4+ NMOSD. Incorrect: Ocrelizumab targets CD20; eculizumab inhibits C5; satralizumab blocks IL\u20116R.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 25\u2011year\u2011old with AQP4\u2011IgG+ NMOSD has longitudinally extensive transverse myelitis. Best relapse\u2011prevention among options?",
+      "options": [
+        "Interferon\u2011\u03b2",
+        "Azathioprine",
+        "Eculizumab",
+        "Glatiramer acetate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Correct: Eculizumab (anti\u2011C5) markedly lowers relapse risk. Incorrect: Interferon and glatiramer may worsen NMOSD; azathioprine is slower/less potent.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "In a pregnant RRMS patient at high relapse risk, which DMT has the best safety profile to continue if necessary?",
+      "options": [
+        "Teriflunomide",
+        "Interferon\u2011\u03b2",
+        "Fingolimod",
+        "Cladribine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Interferon\u2011\u03b2 (and glatiramer) have reassuring pregnancy safety. Incorrect: Teriflunomide/fingolimod are teratogenic; cladribine contraindicated in pregnancy.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which emerging MRI biomarker is proposed to improve MS diagnostic specificity in recent McDonald updates?",
+      "options": [
+        "Central vein sign",
+        "Global cortical thickness",
+        "Perfusion defect ratio",
+        "Pontine T2 hyperintensity alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Central vein sign (vein within a substantial fraction of lesions) increases specificity for MS. Others are not accepted diagnostic biomarkers.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 40\u2011year\u2011old stops fingolimod abruptly and has severe multifocal relapses 3 weeks later. Which strategy best reduces rebound risk?",
+      "options": [
+        "Lengthy drug holiday first",
+        "Bridge to anti\u2011CD20 before or at discontinuation",
+        "Monthly IV steroids for a year",
+        "Switch to interferon\u2011\u03b2 after symptoms begin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Bridging to high\u2011efficacy therapy (e.g., anti\u2011CD20) minimizes rebound. Incorrect: Long washout increases risk; chronic steroids lack evidence; late switch is suboptimal.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antibody defines MOG\u2011associated disease (MOGAD) on live cell\u2011based assay?",
+      "options": [
+        "AQP4\u2011IgG",
+        "MOG\u2011IgG",
+        "GFAP\u2011IgG",
+        "GAD65\u2011IgG"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: MOG\u2011IgG identifies MOGAD. Incorrect: AQP4\u2011IgG = NMOSD; GFAP\u2011IgG = GFAP astrocytopathy; GAD65\u2011IgG = stiff\u2011person/autoimmune epilepsy.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Key early laboratory monitoring for dimethyl fumarate in RRMS?",
+      "options": [
+        "Eosinophilia",
+        "Severe lymphopenia and liver enzymes",
+        "Thrombocytosis",
+        "Neutrophilia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: DMF can cause lymphopenia and hepatotoxicity\u2014monitor ALC and LFTs. Others are not typical DMF toxicities.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "MRI shows radial perivascular enhancement; CSF is GFAP\u2011IgG positive. Diagnosis?",
+      "options": [
+        "GFAP astrocytopathy",
+        "NMOSD",
+        "ADEM",
+        "Neurosarcoidosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: GFAP astrocytopathy often shows radial perivascular enhancement with meningo\u2011encephalomyelitis. Others have different patterns/antibodies.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which treatment approach is associated with lower long\u2011term disability accrual in MS cohorts?",
+      "options": [
+        "Delayed escalation after multiple relapses",
+        "Early high\u2011efficacy therapy (HET)",
+        "Relapse\u2011only steroid treatment",
+        "Symptomatic management only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Early HET is linked to better disability outcomes than late escalation. Others under\u2011treat inflammation.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "AQP4\u2011NMOSD patient relapses on azathioprine. Which biologic blocks IL\u20116 receptor?",
+      "options": [
+        "Satralizumab",
+        "Eculizumab",
+        "Rituximab",
+        "Belimumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Satralizumab blocks IL\u20116R. Incorrect: Eculizumab blocks C5; rituximab depletes CD20; belimumab targets BAFF.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which autoimmune encephalitis is classically associated with ovarian teratoma in young women?",
+      "options": [
+        "LGI1 encephalitis",
+        "CASPR2 encephalitis",
+        "NMDA\u2011receptor encephalitis",
+        "AMPAR encephalitis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Correct: Anti\u2011NMDAR encephalitis often accompanies ovarian teratoma. Others are less strongly associated.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "First\u2011line rescue for steroid\u2011refractory AQP4\u2011NMOSD relapse?",
+      "options": [
+        "Continue steroids only",
+        "Plasma exchange (PLEX)",
+        "Cyclophosphamide immediately",
+        "Methotrexate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: PLEX is guideline\u2011supported for steroid\u2011refractory NMOSD attacks. Cytotoxics act too slowly; steroids alone are insufficient.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A patient on long\u2011term ocrelizumab develops recurrent infections and low IgG. Best next step?",
+      "options": [
+        "Continue dosing unchanged",
+        "Hold dosing, check Ig levels; consider IVIG replacement",
+        "Add chronic prednisone",
+        "Switch immediately to fingolimod"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Evaluate hypogammaglobulinemia; IVIG may be needed. Others either worsen risk or change therapy without assessment.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Spinal cord MRI pattern most characteristic of AQP4\u2011NMOSD:",
+      "options": [
+        "Short cervical plaque <1 vertebral segment",
+        "Longitudinally extensive lesion \u22653 segments",
+        "Multiple dorsal root entry gadolinium nodules",
+        "Diffuse atrophy without T2 signal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Longitudinally extensive transverse myelitis typifies NMOSD. Short plaques are more MS\u2011like.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which deficiency can mimic progressive myeloneuropathy in the MS differential?",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin E",
+        "Vitamin B6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: B12 deficiency causes dorsal column/corticospinal demyelination. Others less likely to mimic MS myelopathy.",
+      "category": "Differential Diagnosis",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 44\u2011year\u2011old with insidious progressive spastic paraparesis and patchy cord lesions without relapses; AQP4/MOG negative. Most likely diagnosis?",
+      "options": [
+        "Primary progressive MS",
+        "AQP4\u2011NMOSD",
+        "MOGAD",
+        "GFAP astrocytopathy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Progressive course without relapses suggests PPMS. NMOSD/MOGAD usually relapse; GFAP has encephalitic features.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which MS therapy\u2019s PML risk correlates with JCV index, prior immunosuppression, and duration?",
+      "options": [
+        "Natalizumab",
+        "Siponimod",
+        "Cladribine",
+        "Glatiramer acetate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Natalizumab PML risk is well\u2011established with these factors. PML is rare with siponimod/cladribine and not with glatiramer.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which antibody is most associated with faciobrachial dystonic seizures and limbic encephalitis in older adults?",
+      "options": [
+        "LGI1\u2011IgG",
+        "CASPR2\u2011IgG",
+        "GAD65\u2011IgG",
+        "NMDAR\u2011IgG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: LGI1\u2011IgG disease features faciobrachial dystonic seizures and hyponatremia. Others fit different phenotypes.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which CSF finding supports MS when not found in serum?",
+      "options": [
+        "Neutrophilic pleocytosis",
+        "Very high protein >200 mg/dL",
+        "Oligoclonal bands unmatched in serum",
+        "Xanthochromia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Correct: CSF\u2011unique oligoclonal bands support MS. Others suggest infection/SAH or alternative etiologies.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "In radiologically isolated syndrome (RIS), which factor best predicts conversion to clinical MS?",
+      "options": [
+        "No spinal cord lesions",
+        "Spinal cord lesions and/or CSF oligoclonal bands",
+        "Older age >55",
+        "Incidental microbleeds on SWI"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Cord lesions and CSF OCB increase conversion risk. Older age decreases risk; microbleeds are unrelated.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Mechanism of teriflunomide:",
+      "options": [
+        "CD20 depletion",
+        "Inhibits dihydroorotate dehydrogenase (pyrimidine synthesis)",
+        "IL\u20116 receptor blockade",
+        "\u03b14\u2011integrin blockade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Inhibits pyrimidine synthesis to limit lymphocyte proliferation. Others describe different agents.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 29\u2011year\u2011old on dimethyl fumarate has ALC 0.2\u00d710\u2079/L on two checks 3 months apart. Best management?",
+      "options": [
+        "Continue unchanged",
+        "Hold/discontinue DMF for persistent severe lymphopenia; resume after recovery or switch",
+        "Add monthly IV steroids",
+        "Switch to interferon immediately without rechecking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Persistent severe lymphopenia warrants stopping DMF due to infection/PML risk. Others are unsafe/inadequate.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Before starting ocrelizumab, vaccine timing should:",
+      "options": [
+        "Give live vaccines anytime after infusion",
+        "Complete live \u22654 weeks and inactivated \u22652 weeks before infusion",
+        "Avoid all vaccines",
+        "Administer all vaccines during first infusion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Complete vaccines beforehand because anti\u2011CD20 blunts responses. Others reduce efficacy or raise risk.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Compared with MS optic neuritis, MOGAD optic neuritis more often shows:",
+      "options": [
+        "Unilateral retrobulbar involvement only",
+        "Severe bilateral disc edema and good steroid response",
+        "Pain without vision loss",
+        "Poor steroid response"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: MOGAD ON is frequently bilateral with disc swelling and steroid\u2011responsive. MS ON is typically unilateral/retrobulbar.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Key cytokine pathway in AQP4\u2011NMOSD pathogenesis and target of therapy:",
+      "options": [
+        "IL\u20116",
+        "TNF\u2011\u03b1",
+        "IL\u20111\u03b2",
+        "Type\u2011I interferon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: IL\u20116 supports plasmablast survival and complement\u2011mediated astrocyte injury; IL\u20116R blockers help. Others are less central.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which therapy may worsen AQP4\u2011NMOSD and should be avoided?",
+      "options": [
+        "Interferon\u2011\u03b2",
+        "Rituximab",
+        "Eculizumab",
+        "Azathioprine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Interferon\u2011\u03b2 (and several MS DMTs) can exacerbate NMOSD. Others are used for prevention.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which oral agent is an immune\u2011reconstitution therapy given in two annual courses for RRMS?",
+      "options": [
+        "Cladribine tablets",
+        "Dimethyl fumarate",
+        "Fingolimod",
+        "Ozanimod"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Cladribine is dosed in two yearly courses with durable effect. Others are continuous therapies.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which disease\u2011modifying therapy is approved for primary progressive MS (PPMS)?",
+      "options": [
+        "Ocrelizumab",
+        "Interferon\u2011\u03b2",
+        "Fingolimod",
+        "Natalizumab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Ocrelizumab is approved for PPMS. Others are not approved for PPMS.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 31\u2011year\u2011old with highly active RRMS considers ofatumumab. Which statement is accurate?",
+      "options": [
+        "It is an oral BTK inhibitor",
+        "It is a subcutaneous anti\u2011CD20 self\u2011administered monthly after loading",
+        "It requires 6\u2011monthly hospital infusions",
+        "It is contraindicated when JCV\u2011positive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Ofatumumab is SC anti\u2011CD20 with monthly maintenance. It is not a BTK inhibitor/IV therapy, and JCV status does not preclude use (unlike natalizumab).",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which agent requires first\u2011dose heart\u2011rate monitoring due to bradycardia risk?",
+      "options": [
+        "Fingolimod",
+        "Glatiramer acetate",
+        "Teriflunomide",
+        "Cladribine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Fingolimod (S1P modulator) may cause bradyarrhythmia with first dose. Others do not require such monitoring.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 27\u2011year\u2011old with very active RRMS plans pregnancy in ~6 months. Reasonable approach?",
+      "options": [
+        "Dose anti\u2011CD20 now to cover pregnancy; hold during gestation",
+        "Start teriflunomide now and continue through pregnancy",
+        "Begin fingolimod and stop at positive test",
+        "Avoid all DMTs for a year pre\u2011conception"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Pre\u2011conception anti\u2011CD20 dosing can provide coverage. Teriflunomide/fingolimod are teratogenic; long DMT\u2011free periods risk relapse.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which agent has a black\u2011box warning for secondary autoimmunity (e.g., thyroid disease) and needs monthly labs for 48 months after last dose?",
+      "options": [
+        "Alemtuzumab",
+        "Natalizumab",
+        "Ocrelizumab",
+        "Dimethyl fumarate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Alemtuzumab requires prolonged monitoring. Others have different safety profiles.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which medication can improve walking speed in MS but is contraindicated with prior seizures or significant renal impairment?",
+      "options": [
+        "Dalfampridine (4\u2011AP)",
+        "Baclofen",
+        "Tizanidine",
+        "Modafinil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Dalfampridine improves gait but raises seizure risk and is renally cleared. Others target spasticity/fatigue.",
+      "category": "Symptomatic Management",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 34\u2011year\u2011old with RRMS on natalizumab (24 months) has JCV index 2.1 and new cognitive symptoms. Next best step?",
+      "options": [
+        "Continue natalizumab unchanged",
+        "Obtain brain MRI with DWI/FLAIR and test CSF JCV PCR to evaluate for PML",
+        "Switch immediately to interferon\u2011\u03b2 without evaluation",
+        "Give steroids for presumed relapse first"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Evaluate for PML urgently with MRI and CSF PCR. Steroids may worsen PML; switching without evaluation risks delay.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "AQP4\u2011NMOSD acute optic neuritis unresponsive after 3 days of IV steroids. Best step now?",
+      "options": [
+        "Repeat steroids after a week",
+        "Plasma exchange promptly",
+        "Start glatiramer acetate",
+        "Begin interferon\u2011\u03b2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Early PLEX improves outcomes in steroid\u2011refractory NMOSD attacks. MS DMTs are ineffective/harmful in NMOSD.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which finding most supports MS over MOGAD on MRI brain?",
+      "options": [
+        "Confluent periventricular ovoid lesions perpendicular to ventricles",
+        "Bilateral optic\u2011disc swelling",
+        "Longitudinally extensive optic nerve enhancement",
+        "ADEM\u2011like large fluffy lesions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Dawson\u2019s finger\u2011like periventricular lesions favor MS. Others favor MOGAD/ADEM.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 36\u2011year\u2011old with RRMS on fumarate develops shingles and ALC 0.35\u00d710\u2079/L. Management?",
+      "options": [
+        "Continue therapy",
+        "Hold fumarate; treat VZV; resume only after ALC recovery or switch DMT",
+        "Add daily prednisone",
+        "Switch to fingolimod immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Hold DMF for severe lymphopenia; treat VZV; consider switch once ALC recovers. Others are unsafe/inappropriate.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which BTK inhibitor class property is being studied in MS trials?",
+      "options": [
+        "Microglial and B\u2011cell signaling modulation",
+        "Direct remyelination without immune effect",
+        "Pure T\u2011cell depletion",
+        "Selective \u03b14\u2011integrin blockade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: BTK inhibitors modulate B\u2011cell and microglial signaling (under investigation 2023\u20132025). Others describe different mechanisms.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Most characteristic clinical picture of GFAP astrocytopathy:",
+      "options": [
+        "Acute psychosis with faciobrachial dystonic seizures",
+        "Subacute meningo\u2011encephalomyelitis with fever, headache, radial perivascular enhancement",
+        "Isolated myelitis with LETM only",
+        "Pure peripheral neuropathy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: GFAP disease often presents with subacute meningo\u2011encephalomyelitis and radial perivascular enhancement. Others fit different disorders.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which MS symptom treatment is best first\u2011line for painful tonic spasms?",
+      "options": [
+        "Carbamazepine",
+        "Levodopa",
+        "Propranolol",
+        "Topiramate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Carbamazepine is effective for painful tonic spasms. Others address parkinsonism, tremor, or migraine.",
+      "category": "Symptomatic Management",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "A 29\u2011year\u2011old RRMS patient on teriflunomide becomes pregnant. Immediate action?",
+      "options": [
+        "Reassure and continue therapy",
+        "Cholestyramine or activated charcoal accelerated elimination procedure",
+        "Stop drug and observe only",
+        "Switch to cladribine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Teriflunomide is teratogenic; initiate accelerated elimination. Others are unsafe/inadequate.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "Which finding favors NMOSD over MS in optic neuritis?",
+      "options": [
+        "Unilateral mild vision loss with pain",
+        "Bilateral severe vision loss with poor steroid response",
+        "Uhthoff phenomenon predominant",
+        "Normal OCT RNFL"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: NMOSD ON is often severe, bilateral, and steroid\u2011refractory. MS ON is typically unilateral with good recovery.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "A 52\u2011year\u2011old with PPMS on ocrelizumab asks about vaccinations. Best advice?",
+      "options": [
+        "Avoid all vaccines on therapy",
+        "Time inactivated vaccines midway between infusions for better response; avoid live vaccines",
+        "Live vaccines are safe on therapy",
+        "Vaccines are unnecessary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: Use inactivated vaccines and time them for better response; live vaccines are avoided on anti\u2011CD20 therapy.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which MS DMT most commonly causes infusion\u2011related reactions requiring premedication?",
+      "options": [
+        "Ocrelizumab",
+        "Teriflunomide",
+        "Fumarates",
+        "Glatiramer acetate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: Ocrelizumab can cause infusion reactions\u2014premedication often used. Others do not require infusion premedication.",
+      "category": "Neuroimmunology",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Best initial disease\u2011prevention strategy for recurrent steroid\u2011responsive MOGAD relapses:",
+      "options": [
+        "Interferon\u2011\u03b2",
+        "Monthly IVIG or rituximab\u2011based B\u2011cell therapy",
+        "Glatiramer acetate",
+        "Natalizumab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Correct: IVIG and B\u2011cell\u2013directed therapies have supportive evidence. Classic MS DMTs are generally ineffective in MOGAD.",
+      "category": "Autoimmune Neurology",
+      "difficulty": "hard"
+    },
+    {
+      "stem": "A 38\u2011year\u2011old with RRMS on siponimod develops symptomatic bradycardia after dose escalation. Next step?",
+      "options": [
+        "Stop siponimod and evaluate; manage bradycardia; consider alternative DMT",
+        "Increase dose further to desensitize",
+        "Add propranolol",
+        "No action required"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: S1P modulators can cause bradycardia; stop and manage safely. Others worsen or ignore the problem.",
+      "category": "Neuroimmunology",
+      "difficulty": "medium"
+    },
+    {
+      "stem": "Which non\u2011pharmacologic strategy has evidence for fatigue in MS?",
+      "options": [
+        "High\u2011dose vitamin C",
+        "Amantadine only",
+        "Energy conservation + graded exercise/cognitive behavioral strategies",
+        "Daily opioids"
+      ],
+      "correctIndex": 2,
+      "explanation": "Correct: Combined behavioral/rehab strategies improve fatigue; amantadine helps some but is not the only option.",
+      "category": "Symptomatic Management",
+      "difficulty": "easy"
+    },
+    {
+      "stem": "Which MRI criterion increases specificity for MS in pediatric populations and adults when available?",
+      "options": [
+        "Central vein sign within \u226540% of lesions",
+        "Any one periventricular lesion",
+        "Single juxtacortical lesion",
+        "Single infratentorial lesion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correct: A high proportion of lesions with a central vein improves specificity. Single lesions are not specific.",
+      "category": "Neuroimmunology",
+      "difficulty": "hard"
+    }
+  ]
+}
